@@ -1,7 +1,7 @@
 {
-    "version": "1.0.42",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.42/gestor360-1.0.42.zip",
-    "checksum": "89db0568a8639599b4205fbcbf30356595e76685f4a45c3f74550531b1859ca2",
-    "notes": "Baseline limpo (so codigo; sem banco/launchers) - config por instalacao",
-    "date": "2026-06-01 15:31:54"
+    "version": "1.0.43",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.43/gestor360-1.0.43.zip",
+    "checksum": "1cde405ac356459645e16444109d095b069172f07bb34d0bfa43eb0e4eb9259b",
+    "notes": "Convergencia A=B: config por instalacao, BR por cliente, tratamento de sessao expirada (auth/dialog), empresa.php com campos fiscais",
+    "date": "2026-06-01 15:35:22"
 }
