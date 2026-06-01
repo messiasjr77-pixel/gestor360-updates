@@ -1,7 +1,7 @@
 {
     "version": "1.0.43",
     "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.43/gestor360-1.0.43.zip",
-    "checksum": "1cde405ac356459645e16444109d095b069172f07bb34d0bfa43eb0e4eb9259b",
-    "notes": "Convergencia A=B: config por instalacao, BR por cliente, tratamento de sessao expirada (auth/dialog), empresa.php com campos fiscais",
-    "date": "2026-06-01 15:35:22"
+    "checksum": "e1f04ce377730426b2ddd71e58d4676d300764f9c5d632dceafa6c8c18276456",
+    "notes": "Convergencia A=B + fix Updater::applyUpdate (self::init antes do unlink do cache)",
+    "date": "2026-06-01 15:40:35"
 }
