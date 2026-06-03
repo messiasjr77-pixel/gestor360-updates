@@ -1,7 +1,7 @@
 {
-    "version": "1.0.44",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.44/gestor360-1.0.44.zip",
-    "checksum": "e65968b199859bf7ffebe47cd925f36af64e8e2e492291e85be2a55598fcb697",
-    "notes": "Sincronizacao de saidas (fc_saidas) entre terminais - dia resolvido pela data; prepara escritorio (maquina3)",
-    "date": "2026-06-01 17:04:58"
+    "version": "1.0.45",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.45/gestor360-1.0.45.zip",
+    "checksum": "120bc34c51da00dc4fd4f35a7a8f54c037295d139f8956ecfc09fb9587b802b3",
+    "notes": "Correcao: emissao e cancelamento de NFC-e nao falham mais por timeout do PHP. O sistema agora aguarda a resposta da SEFAZ/BrasilNFe (ate ~120s), evitando falso 'rejeitada' / 'maximum execution time' em notas que a SEFAZ ja autorizou.",
+    "date": "2026-06-03 15:53:51"
 }
