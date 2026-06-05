@@ -1,7 +1,7 @@
 {
-    "version": "1.0.45",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.45/gestor360-1.0.45.zip",
-    "checksum": "120bc34c51da00dc4fd4f35a7a8f54c037295d139f8956ecfc09fb9587b802b3",
-    "notes": "Correcao: emissao e cancelamento de NFC-e nao falham mais por timeout do PHP. O sistema agora aguarda a resposta da SEFAZ/BrasilNFe (ate ~120s), evitando falso 'rejeitada' / 'maximum execution time' em notas que a SEFAZ ja autorizou.",
-    "date": "2026-06-03 15:53:51"
+    "version": "1.0.46",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.46/gestor360-1.0.46.zip",
+    "checksum": "ac790240c251cb51a84ccdb4a34bba1cf7336a5cce994a0af780abae54509546",
+    "notes": "Corrige 'database is locked' nas vendas: busy_timeout no banco (aguarda locks ao inves de falhar na hora) e o sync passa a aplicar em lotes (commit a cada 200 entradas) em vez de uma transacao unica, liberando o banco para as vendas escreverem durante syncs grandes.",
+    "date": "2026-06-05 08:16:30"
 }
