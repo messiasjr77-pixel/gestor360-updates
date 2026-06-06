@@ -1,7 +1,7 @@
 {
-    "version": "1.0.46",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.46/gestor360-1.0.46.zip",
-    "checksum": "ac790240c251cb51a84ccdb4a34bba1cf7336a5cce994a0af780abae54509546",
-    "notes": "Corrige 'database is locked' nas vendas: busy_timeout no banco (aguarda locks ao inves de falhar na hora) e o sync passa a aplicar em lotes (commit a cada 200 entradas) em vez de uma transacao unica, liberando o banco para as vendas escreverem durante syncs grandes.",
-    "date": "2026-06-05 08:16:30"
+    "version": "1.0.47",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.47/gestor360-1.0.47.zip",
+    "checksum": "0b3745b16a43a3b69cd6dc8968d7b38e2c9f6aa6985489dd10edc2fdaf8c8749",
+    "notes": "PDV: forma de pagamento Alimentacao (F6); caixa nao trava mais durante emissao NFC-e; impressao automatica mesmo quando NFC-e e rejeitada; quantidade visivel no espelho da nota",
+    "date": "2026-06-06 13:53:07"
 }
