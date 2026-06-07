@@ -1,7 +1,7 @@
 {
-    "version": "1.0.49",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.49/gestor360-1.0.49.zip",
-    "checksum": "6a9bd60ea653de49fdd96ef5830d4f8712a59546752a73579f848989f6da6047",
+    "version": "1.0.51",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.51/gestor360-1.0.51.zip",
+    "checksum": "f04f1a0c4a6b2c5220d97cbc0471ce909e6cc3592776cf4193a3253a2d34779b",
     "notes": "Fix database is locked NFC-e; barra de status PDV; Perdas e Prejuizos; espacamento nota",
-    "date": "2026-06-07 09:28:26"
+    "date": "2026-06-07 09:33:33"
 }
