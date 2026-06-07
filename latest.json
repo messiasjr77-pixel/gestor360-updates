@@ -1,7 +1,7 @@
 {
-    "version": "1.0.51",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.51/gestor360-1.0.51.zip",
-    "checksum": "f04f1a0c4a6b2c5220d97cbc0471ce909e6cc3592776cf4193a3253a2d34779b",
-    "notes": "Fix database is locked NFC-e; barra de status PDV; Perdas e Prejuizos; espacamento nota",
-    "date": "2026-06-07 09:33:33"
+    "version": "1.0.52",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.52/gestor360-1.0.52.zip",
+    "checksum": "8566145aed0f2fb4621c1bcfd926f2c46d2b7fb7da70a3f605025d984341a88d",
+    "notes": "Fix imprimirCupomSimples not defined; cupom nao fiscal para NFC-e pendente/rejeitada",
+    "date": "2026-06-07 10:02:58"
 }
