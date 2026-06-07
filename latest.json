@@ -1,7 +1,7 @@
 {
-    "version": "1.0.50",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.50/gestor360-1.0.50.zip",
-    "checksum": "5c82ffa1e3ffd94f9593a02ec85656fa056dc6571e1279d782353d2b028ccd15",
-    "notes": "Regime de caixa no Fluxo (realizado x previsto, atrasadas), fatura de cartao vira conta a pagar por categoria/subcategoria + composicao + pagar fatura, contas a pagar (juros/data, atalhos, filtros Mes/Dia/Atrasadas/Pagas combinaveis, fornecedor select, layout), telas mobile (cartao/movimento/produtos)",
-    "date": "2026-06-06 18:33:40"
+    "version": "1.0.49",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.49/gestor360-1.0.49.zip",
+    "checksum": "6a9bd60ea653de49fdd96ef5830d4f8712a59546752a73579f848989f6da6047",
+    "notes": "Fix database is locked NFC-e; barra de status PDV; Perdas e Prejuizos; espacamento nota",
+    "date": "2026-06-07 09:28:26"
 }
