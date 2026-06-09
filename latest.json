@@ -1,7 +1,7 @@
 {
-    "version": "1.0.52",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.52/gestor360-1.0.52.zip",
-    "checksum": "8566145aed0f2fb4621c1bcfd926f2c46d2b7fb7da70a3f605025d984341a88d",
-    "notes": "Fix imprimirCupomSimples not defined; cupom nao fiscal para NFC-e pendente/rejeitada",
-    "date": "2026-06-07 10:02:58"
+    "version": "1.0.53",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.53/gestor360-1.0.53.zip",
+    "checksum": "25015db1a2a56b1b6801907f432f2df3fd7947b36355322338564b294d91fa31",
+    "notes": "Timeout SEFAZ 60s->15s; fix imprimirCupomSimples; cupom nao fiscal",
+    "date": "2026-06-09 08:45:59"
 }
