@@ -1,7 +1,7 @@
 {
     "version": "1.0.54",
     "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.54/gestor360-1.0.54.zip",
-    "checksum": "702d59818e368f9a424d7a7e34c6fbb366e55defa94a9bf8c6011dfa19a1e90b",
-    "notes": "Atalho F8 para Etiqueta de Preço; melhorias no cartão de crédito",
-    "date": "2026-06-09 17:46:42"
+    "checksum": "6fb00d605a349e3aa1ec6fae54e354f6b0ef2793a5aedb1c438691ea287c1198",
+    "notes": "Modo preco: digitar \\*prego calcula gramagem automatica; preco calculado na busca com multiplicador",
+    "date": "2026-06-09 17:51:00"
 }
