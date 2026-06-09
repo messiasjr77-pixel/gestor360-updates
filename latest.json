@@ -1,7 +1,7 @@
 {
-    "version": "1.0.56",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.56/gestor360-1.0.56.zip",
-    "checksum": "54fbb7c8718668d67c535e5df6b509c14678a7ef5fe532b06dcc50142fb28eee",
-    "notes": "F9 abre o PDV ja em tela cheia (fullscreen automatico)",
-    "date": "2026-06-09 18:35:13"
+    "version": "1.0.57",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.57/gestor360-1.0.57.zip",
+    "checksum": "410760ca10d40fb6dbf53520b107c0b81c4d8ee2f7433abc6c3b85b14402bdab",
+    "notes": "Toggle dark/light no menu F1 do PDV: claro=fundo azul claro + overlays claros, escuro=fundo escuro atual",
+    "date": "2026-06-09 19:03:02"
 }
