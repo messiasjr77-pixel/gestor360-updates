@@ -1,7 +1,7 @@
 {
-    "version": "1.0.58",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.58/gestor360-1.0.58.zip",
-    "checksum": "e60c7362d734ee48bc4286ad10cb7957dffd755f62ecc2fc6f1a1264f305393e",
-    "notes": "F5 renomeado para 'Cancelar Item'; navegacao por teclado no modal: seta cima/baixo muda item, Enter/Delete cancela o item selecionado",
-    "date": "2026-06-10 16:28:15"
+    "version": "1.0.59",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.59/gestor360-1.0.59.zip",
+    "checksum": "e635af2f19b94ec44d724aef121cc213b16df117bc47ae4b447ac2634b556df0",
+    "notes": "PDV nunca desconecta por ociosidade: sessao estendida para 8h, keep-alive automatico a cada 8 minutos, e alerta visivel se sessao expirar por outros motivos",
+    "date": "2026-06-10 17:04:59"
 }
