@@ -1,7 +1,7 @@
 {
-    "version": "1.0.61",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.61/gestor360-1.0.61.zip",
-    "checksum": "dc9df06e7e9ecdf556f75eb0751b1bfdd270dc8825d0213322269cb6e967f02d",
-    "notes": "Contas a Pagar: aba padrao agora mostra as Pendentes (vencidas + vencendo hoje), novo botao Imprimir que gera PDF conforme os filtros aplicados, e barra com o total do filtro. Importacao de contas a pagar do BR SISTEMAS. Correcao na sincronizacao de contas a pagar entre caixas (terminais que nao recebiam as contas). Melhorias de estabilidade.",
-    "date": "2026-06-12 09:12:41"
+    "version": "1.0.65",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.65/gestor360-1.0.65.zip",
+    "checksum": "d70c21252fea1181214d9b4c7462c9d9ef448883f5cb6d7d20e6f6af002bdd4f",
+    "notes": "Correções de layout PDV em telas 1024x768, timeout BrasilNFe 90s, estoque mínimo=0, Ctrl+F5 refresh, recuperação NFC-e rejeitadas",
+    "date": "2026-06-12 18:22:09"
 }
