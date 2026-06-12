@@ -1,7 +1,7 @@
 {
-    "version": "1.0.59",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.59/gestor360-1.0.59.zip",
-    "checksum": "e635af2f19b94ec44d724aef121cc213b16df117bc47ae4b447ac2634b556df0",
-    "notes": "PDV nunca desconecta por ociosidade: sessao estendida para 8h, keep-alive automatico a cada 8 minutos, e alerta visivel se sessao expirar por outros motivos",
-    "date": "2026-06-10 17:04:59"
+    "version": "1.0.61",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.61/gestor360-1.0.61.zip",
+    "checksum": "dc9df06e7e9ecdf556f75eb0751b1bfdd270dc8825d0213322269cb6e967f02d",
+    "notes": "Contas a Pagar: aba padrao agora mostra as Pendentes (vencidas + vencendo hoje), novo botao Imprimir que gera PDF conforme os filtros aplicados, e barra com o total do filtro. Importacao de contas a pagar do BR SISTEMAS. Correcao na sincronizacao de contas a pagar entre caixas (terminais que nao recebiam as contas). Melhorias de estabilidade.",
+    "date": "2026-06-12 09:12:41"
 }
