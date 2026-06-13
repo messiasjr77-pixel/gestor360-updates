@@ -1,7 +1,7 @@
 {
-    "version": "1.0.68",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.68/gestor360-1.0.68.zip",
-    "checksum": "15344bbb997ee59800374b63efa28e5dea4a9722994b8d7dbbb39545d4a272b9",
-    "notes": "Performance: OPcache ativo, nginx otimizado (sendfile/workers/buffers), SQLite 8MB cache + pragmas, indices de performance nas queries do PDV e dashboard",
-    "date": "2026-06-13 09:07:38"
+    "version": "1.0.69",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.69/gestor360-1.0.69.zip",
+    "checksum": "a6b9acc63ceaafca6bfc79cb5f84133c2d293c3813aaca36a20b7d0fb9ffec3a",
+    "notes": "Seguranca: painel Admin > Backups com backup manual + auto-backup diario no daemon (VACUUM INTO, 30 dias de retencao, download pelo browser)",
+    "date": "2026-06-13 09:29:49"
 }
