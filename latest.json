@@ -1,7 +1,7 @@
 {
-    "version": "1.0.70",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.70/gestor360-1.0.70.zip",
-    "checksum": "6e675b4b074ea6eee3de2bbfdeb4697e8f5b98ef147c3c4bfe2f1b859459e73b",
-    "notes": "App desktop nativo (Gestor360.exe) sem cara de navegador; F9 entra no PDV ja em tela cheia; suporte a multiplas empresas no mesmo PC",
-    "date": "2026-06-13 10:20:22"
+    "version": "1.0.71",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.71/gestor360-1.0.71.zip",
+    "checksum": "17052a8ab703d365404f9dcdc38d84f90c38b3a58eed59b9d829931584e9da3b",
+    "notes": "PDV: NFC-e emitida em background - pesquisa de produtos liberada imediatamente apos finalizar venda (sem esperar SEFAZ). Check WebView2 no instalador.",
+    "date": "2026-06-13 16:31:35"
 }
