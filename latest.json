@@ -1,7 +1,7 @@
 {
-    "version": "1.0.69",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.69/gestor360-1.0.69.zip",
-    "checksum": "a6b9acc63ceaafca6bfc79cb5f84133c2d293c3813aaca36a20b7d0fb9ffec3a",
-    "notes": "Seguranca: painel Admin > Backups com backup manual + auto-backup diario no daemon (VACUUM INTO, 30 dias de retencao, download pelo browser)",
-    "date": "2026-06-13 09:29:49"
+    "version": "1.0.70",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.70/gestor360-1.0.70.zip",
+    "checksum": "6e675b4b074ea6eee3de2bbfdeb4697e8f5b98ef147c3c4bfe2f1b859459e73b",
+    "notes": "App desktop nativo (Gestor360.exe) sem cara de navegador; F9 entra no PDV ja em tela cheia; suporte a multiplas empresas no mesmo PC",
+    "date": "2026-06-13 10:20:22"
 }
