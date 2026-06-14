@@ -1,7 +1,7 @@
 {
-    "version": "1.0.71",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.71/gestor360-1.0.71.zip",
-    "checksum": "17052a8ab703d365404f9dcdc38d84f90c38b3a58eed59b9d829931584e9da3b",
-    "notes": "PDV: NFC-e emitida em background - pesquisa de produtos liberada imediatamente apos finalizar venda (sem esperar SEFAZ). Check WebView2 no instalador.",
-    "date": "2026-06-13 16:31:35"
+    "version": "1.0.72",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.72/gestor360-1.0.72.zip",
+    "checksum": "a8de10b3a8c2c2709e419f472bdb8dff97c5858b589fe0e45d7408a0709afe3d",
+    "notes": "Correcao de lentidao no PDV (lock de sessao da conexao em tempo real SSE); busca de produtos tolerante a dados importados em Windows-1252; estabilidade do servidor (pool de workers php-cgi, watchdog anti-zumbi); app nativo com tela cheia e autofill corrigidos.",
+    "date": "2026-06-14 15:19:52"
 }
