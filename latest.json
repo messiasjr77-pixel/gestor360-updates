@@ -1,7 +1,7 @@
 {
-    "version": "1.0.72",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.72/gestor360-1.0.72.zip",
-    "checksum": "a8de10b3a8c2c2709e419f472bdb8dff97c5858b589fe0e45d7408a0709afe3d",
-    "notes": "Correcao de lentidao no PDV (lock de sessao da conexao em tempo real SSE); busca de produtos tolerante a dados importados em Windows-1252; estabilidade do servidor (pool de workers php-cgi, watchdog anti-zumbi); app nativo com tela cheia e autofill corrigidos.",
-    "date": "2026-06-14 15:19:52"
+    "version": "1.0.73",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.73/gestor360-1.0.73.zip",
+    "checksum": "694214711c9da6b21810be159a78c1f11c80df8d2912bc63580105cbe947738b",
+    "notes": "Vendas do Dia mostra canceladas com badge e totais separados; protecao contra venda duplicada no PDV; tela Abrir Caixa apos login; ESC fecha Buscar Vendas de qualquer campo; Trocar Operador (Ctrl+D)",
+    "date": "2026-06-15 11:07:28"
 }
