@@ -1,7 +1,7 @@
 {
-    "version": "1.0.75",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.75/gestor360-1.0.75.zip",
-    "checksum": "bd503e0e3c9014174f5e9105048414582818300c717ceb4658c5610b46d799ef",
-    "notes": "Fix: check de atualização preserva versão conhecida quando GitHub está lento; timeout aumentado para 20s",
-    "date": "2026-06-15 13:09:53"
+    "version": "1.0.76",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.76/gestor360-1.0.76.zip",
+    "checksum": "c16c430887ca03a201ed67620f5ac2caacdf8af4b094eb2e99bd2dca9ad2ac7f",
+    "notes": "Trocar usuario (Ctrl+D) no menu lateral; melhorias no fechamento de operador (resumo, recalculo automatico, cards retrateis, ESC); ajustes no PDV e nas buscas de clientes e de vendas.",
+    "date": "2026-06-15 17:43:02"
 }
