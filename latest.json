@@ -1,7 +1,7 @@
 {
-    "version": "1.0.73",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.73/gestor360-1.0.73.zip",
-    "checksum": "694214711c9da6b21810be159a78c1f11c80df8d2912bc63580105cbe947738b",
-    "notes": "Vendas do Dia mostra canceladas com badge e totais separados; protecao contra venda duplicada no PDV; tela Abrir Caixa apos login; ESC fecha Buscar Vendas de qualquer campo; Trocar Operador (Ctrl+D)",
-    "date": "2026-06-15 11:07:28"
+    "version": "1.0.74",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.74/gestor360-1.0.74.zip",
+    "checksum": "bd3d9d33785abe61e7954f4490799c62672be6fc9d79dc34246c57791d482c4e",
+    "notes": "Atalhos de teclado na tela de Atualização: V = Verificar agora, Enter = Aplicar atualização (GitHub ou peer)",
+    "date": "2026-06-15 11:44:05"
 }
