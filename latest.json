@@ -1,7 +1,7 @@
 {
-    "version": "1.0.77",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.77/gestor360-1.0.77.zip",
-    "checksum": "37c7d19859c03ba2bd59f8e7d69db0b7a89064128184232585edf3e196c76364",
-    "notes": "fix: corrige loop de zoom que fazia a tela piscar (dashboard/PDV); exige login ao reabrir o app",
-    "date": "2026-06-16 09:53:38"
+    "version": "1.0.78",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.78/gestor360-1.0.78.zip",
+    "checksum": "105273f55e9e9c66283d92f899fa718de7f9408e9921059c07986af1b7122688",
+    "notes": "fix: no-cache global em paginas autenticadas (evita 302 cacheado / PDV nao abre no app)",
+    "date": "2026-06-16 10:42:32"
 }
