@@ -1,7 +1,7 @@
 {
-    "version": "1.0.79",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.79/gestor360-1.0.79.zip",
-    "checksum": "1424b4ca131acafdd8fb5f4f9cce48edf728679ced1b53772b6fa0be2034124a",
-    "notes": "ajuste: cabecalho da tabela de entrada de mercadorias (sticky->static)",
-    "date": "2026-06-16 11:53:04"
+    "version": "1.0.80",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.80/gestor360-1.0.80.zip",
+    "checksum": "dd10871400497471e112fb63008a7ad7fd9c8222432319a514bcb5332d8bc720",
+    "notes": "Pareamento de terminais pela tela (botao Colar secret); item Importar Produtos (BR) no menu Operacoes; tela de importacao BR mostra o servidor real; sincronizacao inicial mais rapida (lote maior por ciclo); tema claro: cards de codigo de barras e ultimo item em azul claro no PDV.",
+    "date": "2026-06-16 18:12:13"
 }
