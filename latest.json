@@ -1,7 +1,7 @@
 {
-    "version": "1.0.80",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.80/gestor360-1.0.80.zip",
-    "checksum": "dd10871400497471e112fb63008a7ad7fd9c8222432319a514bcb5332d8bc720",
-    "notes": "Pareamento de terminais pela tela (botao Colar secret); item Importar Produtos (BR) no menu Operacoes; tela de importacao BR mostra o servidor real; sincronizacao inicial mais rapida (lote maior por ciclo); tema claro: cards de codigo de barras e ultimo item em azul claro no PDV.",
-    "date": "2026-06-16 18:12:13"
+    "version": "1.0.81",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.81/gestor360-1.0.81.zip",
+    "checksum": "809da716cbf9d6485e52c683af3e1155e26f143ddc0e4b9aa320f736eb9c7160",
+    "notes": "Cadastro de peer detecta a porta automaticamente (80, 9093...); importacao do BR inteligente (so registra produtos que mudaram, nao infla mais o sync_log).",
+    "date": "2026-06-18 16:05:49"
 }
