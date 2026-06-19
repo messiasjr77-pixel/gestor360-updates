@@ -1,7 +1,7 @@
 {
-    "version": "1.0.82",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.82/gestor360-1.0.82.zip",
-    "checksum": "2f2fbd389a4696082c706087b3d34357f152b4fa02dad431c2ed0bddef052ac6",
-    "notes": "Corrige produtos do BR com caractere especial (No/grau) que nao sincronizavam: sanitiza UTF-8 na importacao e no log de sincronizacao.",
-    "date": "2026-06-19 07:54:15"
+    "version": "1.0.83",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.83/gestor360-1.0.83.zip",
+    "checksum": "402ecab6d4523a154c19014bbb1a0d3d7d2ef18b8bcde9f916fb14824819c500",
+    "notes": "Crediario: entrada opcional ao finalizar venda a prazo (mostra limite do cliente); nova tela Financeiro > Contas a Receber; recebimento de crediario direto no PDV (menu F1 ou Ctrl+R) com quitacao de contas especificas, forma de pagamento e limite disponivel. Limpeza automatica de backups antigos pre-atualizacao.",
+    "date": "2026-06-19 09:58:26"
 }
