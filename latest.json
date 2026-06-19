@@ -1,7 +1,7 @@
 {
-    "version": "1.0.81",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.81/gestor360-1.0.81.zip",
-    "checksum": "809da716cbf9d6485e52c683af3e1155e26f143ddc0e4b9aa320f736eb9c7160",
-    "notes": "Cadastro de peer detecta a porta automaticamente (80, 9093...); importacao do BR inteligente (so registra produtos que mudaram, nao infla mais o sync_log).",
-    "date": "2026-06-18 16:05:49"
+    "version": "1.0.82",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.82/gestor360-1.0.82.zip",
+    "checksum": "2f2fbd389a4696082c706087b3d34357f152b4fa02dad431c2ed0bddef052ac6",
+    "notes": "Corrige produtos do BR com caractere especial (No/grau) que nao sincronizavam: sanitiza UTF-8 na importacao e no log de sincronizacao.",
+    "date": "2026-06-19 07:54:15"
 }
