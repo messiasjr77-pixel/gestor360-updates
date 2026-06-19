@@ -1,7 +1,7 @@
 {
-    "version": "1.0.83",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.83/gestor360-1.0.83.zip",
-    "checksum": "402ecab6d4523a154c19014bbb1a0d3d7d2ef18b8bcde9f916fb14824819c500",
-    "notes": "Crediario: entrada opcional ao finalizar venda a prazo (mostra limite do cliente); nova tela Financeiro > Contas a Receber; recebimento de crediario direto no PDV (menu F1 ou Ctrl+R) com quitacao de contas especificas, forma de pagamento e limite disponivel. Limpeza automatica de backups antigos pre-atualizacao.",
-    "date": "2026-06-19 09:58:26"
+    "version": "1.0.84",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.84/gestor360-1.0.84.zip",
+    "checksum": "d088892e3e53f1287388418281e5e7bd1dfb02dc44924ab8c3df3b5d8379d502",
+    "notes": "PDV: avisa PRODUTO NAO CADASTRADO; busca acha por codigo de barras (corrige produtos importados que sumiam). Corrige erro ao salvar produto (coluna de sync faltando em codigos_barras_produto). Busca do cadastro prioriza nomes que comecam com o termo. Campos de estoque/quantidade aceitam qualquer decimal. Codigo de balanca visivel e editavel (usa o EAN/PLU). Exclusao de produto remove dependencias (corrige erro de chave estrangeira). Recebimento de crediario no PDV com venda especifica.",
+    "date": "2026-06-19 18:19:49"
 }
