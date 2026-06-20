@@ -1,7 +1,7 @@
 {
-    "version": "1.0.87",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.87/gestor360-1.0.87.zip",
-    "checksum": "00677d2abb6257bc9581867b7423cf1e331d944985a6ea956403d3bc9bc237f9",
-    "notes": "Login: Administrador ja vem selecionado por padrao e mantem o usuario escolhido se errar a senha (campo senha focado). Cadastro de produtos: atalho Alt+L para Limpar e foco automatico no Cod. de barras (EAN) ao limpar/novo.",
-    "date": "2026-06-20 16:18:18"
+    "version": "1.0.88",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.88/gestor360-1.0.88.zip",
+    "checksum": "8fcfcd18989e6ac7d030d716d650b92c3455caf4ef36029819e07c35369690c4",
+    "notes": "Tela de Sincronizacao: corrige o horario exibido — 'ultimo sync' agora em horario local (estava em UTC) e o log do daemon passa a registrar no fuso correto. (Apos atualizar, reiniciar o daemon de sync no terminal para o log novo sair na hora certa.)",
+    "date": "2026-06-20 16:45:53"
 }
