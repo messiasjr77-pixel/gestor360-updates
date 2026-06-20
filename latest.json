@@ -1,7 +1,7 @@
 {
-    "version": "1.0.85",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.85/gestor360-1.0.85.zip",
-    "checksum": "cc7b63dcc75aecd9b7ed37866bceb0a62e596c1385e442109f967ca115f1caf3",
-    "notes": "PDV: aviso PRODUTO NAO CADASTRADO grande no centro da tela; tela de fechamento mostra o atalho na lista de forma de pagamento e ganha campo de Desconto; confirmacoes de cancelar venda/identificar cliente agora usam modal central (sem popup do navegador). Cadastro de produtos: campo Cod. de barras ja vem focado. Menu: F8 abre Calculadora, Alt+P abre Etiqueta de Preco, F3 abre Produtos.",
-    "date": "2026-06-19 19:08:59"
+    "version": "1.0.86",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.86/gestor360-1.0.86.zip",
+    "checksum": "663e4570fd45c91dd650ac5cf23fcc8566711ac4ee7b879b555b422f2ebf2377",
+    "notes": "PDV: tela de Orcamento (F7) independente da venda, com busca/inclusao de produtos, lista editavel e opcao de SALVAR/reabrir/excluir. Desconto no fechamento em R$ ou % (atalho F9) com troco quando paga mais que o total. Entrada manual: aparece no historico, atualiza preco e estoque do produto, e Enter navega campo a campo.",
+    "date": "2026-06-20 13:00:23"
 }
