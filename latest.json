@@ -1,7 +1,7 @@
 {
-    "version": "1.0.91",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.91/gestor360-1.0.91.zip",
-    "checksum": "5d0ffd826d6594fde681e6b884c85bd955143ccb776b87fa61a348ee3b7aee4e",
-    "notes": "Tema claro: modal F2 consulta preco e fechamento de caixa em azul claro",
-    "date": "2026-06-22 15:56:44"
+    "version": "1.0.92",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.92/gestor360-1.0.92.zip",
+    "checksum": "24cbedb189898ad920d3181e886af0f87bd2b1ecdc19c3d714f10ef6a3957275",
+    "notes": "Fechamento de venda: navegacao por teclado (Enter avanca forma->valor->finalizar; Shift+Enter volta uma casa). Fechamento de Caixa com fundo azul no tema claro.",
+    "date": "2026-06-22 17:01:25"
 }
