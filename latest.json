@@ -1,7 +1,7 @@
 {
     "version": "1.0.90",
     "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.90/gestor360-1.0.90.zip",
-    "checksum": "e01aa3b78c039525af59a2e254be43a73bc875e4ac80c8edf38d267069fb6ce2",
+    "checksum": "eb71c9dcf78cb97b4dbaa25cffd25cf02223b803005c620ec4a29d6af9e249f6",
     "notes": "Seletor de porta da impressora de etiqueta restaurado; barra de progresso no update remoto; importar todos os itens da lista de compras no novo pedido",
-    "date": "2026-06-22 12:05:01"
+    "date": "2026-06-22 12:06:00"
 }
