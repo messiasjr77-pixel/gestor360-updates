@@ -1,7 +1,7 @@
 {
-    "version": "1.0.89",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.89/gestor360-1.0.89.zip",
-    "checksum": "fa06ccb508750ef82d01ca66aae82854ee76c0d760a51cfb7380b56f2a17553b",
-    "notes": "Entrada Manual: rascunho/finalizar entrada, multiplos boletos, busca de produto corrigida, tabela de produtos compacta, header reorganizado",
-    "date": "2026-06-22 10:52:56"
+    "version": "1.0.79",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.79/gestor360-1.0.79.zip",
+    "checksum": "cb193b1e9bfed57fbeeae1c3474553c12a172c855f5c4e2d422239b0ed06376f",
+    "notes": "Seletor de porta da impressora de etiqueta restaurado; barra de progresso no update remoto; importar todos os itens da lista de compras no novo pedido",
+    "date": "2026-06-22 12:03:50"
 }
