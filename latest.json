@@ -1,7 +1,7 @@
 {
-    "version": "1.0.88",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.88/gestor360-1.0.88.zip",
-    "checksum": "8fcfcd18989e6ac7d030d716d650b92c3455caf4ef36029819e07c35369690c4",
-    "notes": "Tela de Sincronizacao: corrige o horario exibido — 'ultimo sync' agora em horario local (estava em UTC) e o log do daemon passa a registrar no fuso correto. (Apos atualizar, reiniciar o daemon de sync no terminal para o log novo sair na hora certa.)",
-    "date": "2026-06-20 16:45:53"
+    "version": "1.0.89",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.89/gestor360-1.0.89.zip",
+    "checksum": "fa06ccb508750ef82d01ca66aae82854ee76c0d760a51cfb7380b56f2a17553b",
+    "notes": "Entrada Manual: rascunho/finalizar entrada, multiplos boletos, busca de produto corrigida, tabela de produtos compacta, header reorganizado",
+    "date": "2026-06-22 10:52:56"
 }
