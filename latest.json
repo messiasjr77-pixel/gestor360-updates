@@ -1,7 +1,7 @@
 {
-    "version": "1.0.93",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.93/gestor360-1.0.93.zip",
-    "checksum": "9fe8e7908d29c64fd036d10f8191bdd5852a1c7d0497966806f6ee3d9c282029",
-    "notes": "fix: adiciona USB002/003/004 ao seletor de porta da etiqueta de preco",
-    "date": "2026-06-23 10:12:37"
+    "version": "1.0.94",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.94/gestor360-1.0.94.zip",
+    "checksum": "07c4bad783531412c3d77c79e111e9b849efd7e95f364b8aedde37a9cc8402d4",
+    "notes": "Etiqueta de preco: impressao via driver Windows (GDI raster) para maquinas onde a DLL Daruma nao comunica - seletor 'Imprimir via' na tela",
+    "date": "2026-06-23 18:41:06"
 }
