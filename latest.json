@@ -1,7 +1,7 @@
 {
-    "version": "1.0.94",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.94/gestor360-1.0.94.zip",
-    "checksum": "07c4bad783531412c3d77c79e111e9b849efd7e95f364b8aedde37a9cc8402d4",
-    "notes": "Etiqueta de preco: impressao via driver Windows (GDI raster) para maquinas onde a DLL Daruma nao comunica - seletor 'Imprimir via' na tela",
-    "date": "2026-06-23 18:41:06"
+    "version": "1.0.95",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.95/gestor360-1.0.95.zip",
+    "checksum": "ed9beb8792b74ee9eac6ef6b94d0d1e15b6a5a1e98e7e3dfdb62bc5ef0f98006",
+    "notes": "Impressao termica unificada (cupom/NFC-e) via driver Windows com QR Code. Config de impressora vale para etiqueta, cupom e NFC-e.",
+    "date": "2026-06-24 08:36:26"
 }
