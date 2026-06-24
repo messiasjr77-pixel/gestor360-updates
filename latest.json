@@ -1,7 +1,7 @@
 {
-    "version": "1.0.97",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.97/gestor360-1.0.97.zip",
-    "checksum": "728da52e84bbd8447a98ccbe8e4ecd2d58d305c71831b2481a0233a5c2398b56",
-    "notes": "Novo layout Fechamento de Caixa: design 2 colunas, stat cards, tabela de movimentação com devoluções por forma, conferência de dinheiro simplificada e resumo na sidebar",
-    "date": "2026-06-24 13:56:10"
+    "version": "1.0.98",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.98/gestor360-1.0.98.zip",
+    "checksum": "2fd1d0750d8afe5b42c48db302f5a0b179948d5a3b2ba1b3e3f50058bcb97e20",
+    "notes": "Impressão Daruma: ao finalizar fechamento de caixa pergunta se deseja imprimir; cupom com resumo por forma, conferência e saldo",
+    "date": "2026-06-24 14:03:08"
 }
