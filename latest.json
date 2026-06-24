@@ -1,7 +1,7 @@
 {
-    "version": "1.0.98",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.98/gestor360-1.0.98.zip",
-    "checksum": "2fd1d0750d8afe5b42c48db302f5a0b179948d5a3b2ba1b3e3f50058bcb97e20",
-    "notes": "Impressão Daruma: ao finalizar fechamento de caixa pergunta se deseja imprimir; cupom com resumo por forma, conferência e saldo",
-    "date": "2026-06-24 14:03:08"
+    "version": "1.0.99",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.99/gestor360-1.0.99.zip",
+    "checksum": "e8c1a91aab4e94d16bca95dbe3a22a4e356b05b8b455ed142fbd68d42f0a47b4",
+    "notes": "Imprimir Resumo do fechamento envia para impressora Daruma (cupom 42 colunas) em vez de imprimir a pagina web",
+    "date": "2026-06-24 14:09:48"
 }
