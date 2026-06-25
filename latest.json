@@ -1,7 +1,7 @@
 {
-    "version": "1.1.00",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.00/gestor360-1.1.00.zip",
-    "checksum": "5be9c44f32dfd11653e112e45e767c26a2702ea07b4c09643ecacf8ed6bfcc98",
-    "notes": "PDV: status CAIXA EM OPERACAO/FECHADO no header; nao-admin e perguntado ao entrar; apos fechamento muda para FECHADO; F9 ou clique no status reabre o modal de abertura",
-    "date": "2026-06-24 14:27:15"
+    "version": "1.0.97",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.97/gestor360-1.0.97.zip",
+    "checksum": "94576d55253fafeaf4fa72f98df2fcc97bdbf5d7fc9c8afe00099b00f9b02c81",
+    "notes": "feat: resolver fuzzy de nome de impressora (DR800 → Daruma DR800 Spooler) nos scripts GDI de cupom e etiqueta",
+    "date": "2026-06-24 16:07:07"
 }
