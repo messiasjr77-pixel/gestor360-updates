@@ -1,7 +1,7 @@
 {
     "version": "1.1.16",
     "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.16/gestor360-1.1.16.zip",
-    "checksum": "af29a7700eb2f2e37f129dd9670f4e2d9d13539c3ad9a81001691e2a3b1a2357",
-    "notes": "Fix: cupom simples e autorização de cancelamento agora funcionam para perfil caixa/vendedor",
-    "date": "2026-06-26 14:29:58"
+    "checksum": "9c58b0ee24dcb7645b3deb08a1affa5a066d1c2554608ef925134c21b72652a6",
+    "notes": "Corrige NOT NULL em clientes.email para importacao do BR (multiplos clientes sem email)",
+    "date": "2026-06-26 14:35:48"
 }
