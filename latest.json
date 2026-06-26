@@ -1,7 +1,7 @@
 {
-    "version": "1.1.19",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.19/gestor360-1.1.19.zip",
-    "checksum": "18989ca2c7cd4bde84a10575ac0e8a4f12220ca861fe29ac8bf321e982691160",
-    "notes": "F5 cancela item por numero; cupom simples qualidade impressao; formas Sodexo (F7) e Alelo (F8); Orcamento->Ctrl+O Calculadora->Ctrl+K",
-    "date": "2026-06-26 22:03:09"
+    "version": "1.1.20",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.20/gestor360-1.1.20.zip",
+    "checksum": "af3488abba1b61c6f7a67290ee087df0f85758dace75bdde86dd4c512d316ea9",
+    "notes": "PDV: alterar a forma de pagamento de uma venda finalizada no mesmo dia (Buscar Vendas > detalhe da venda > Alterar pagamento, tecla P) — atualiza tambem o fechamento de caixa por forma; bloqueia crediario, pagamento misto e vendas de outro dia. Ajustes no cadastro de clientes.",
+    "date": "2026-06-26 19:24:56"
 }
