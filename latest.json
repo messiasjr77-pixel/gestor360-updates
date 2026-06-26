@@ -1,7 +1,7 @@
 {
-    "version": "1.1.02",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.02/gestor360-1.1.02.zip",
-    "checksum": "1f8932e5525b13697ca21ba8d07eaa63859205112c6ecdd282f70156358e7ec2",
-    "notes": "fix: Ctrl+F8 e Ctrl+F9 (MEI) conflitavam com F8 (calculadora) e F9 (abrir caixa)",
-    "date": "2026-06-25 22:56:03"
+    "version": "1.1.03",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.03/gestor360-1.1.03.zip",
+    "checksum": "f74d05e8f62fd6316e8967551b4de4c21f835c7095259542f6009bbfb1e1d624",
+    "notes": "feat: propagar senha de usuario para todos os terminais ao salvar (bypass UUID); sync fallback por login na tabela usuarios",
+    "date": "2026-06-25 23:10:23"
 }
