@@ -1,7 +1,7 @@
 {
-    "version": "1.1.06",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.06/gestor360-1.1.06.zip",
-    "checksum": "e650bf5890a8418fdc19452476fd49d03cd94c419256462fcb37b7bb9e3af2fd",
-    "notes": "Botoes NFC-e e cupom simples agora sao exclusivos; configuracoes PDV: opcao de exibir desconto na venda e de habilitar/desabilitar emissao de NFC-e",
-    "date": "2026-06-25 23:28:40"
+    "version": "1.1.07",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.07/gestor360-1.1.07.zip",
+    "checksum": "72a8c004eb6a0ad1bdabbc3e19fce4adf52b836557503c8eebd56c3d7c16d40d",
+    "notes": "PDV: cancelar item e cancelar venda exigem senha de administrador; admin logado no PDV nao precisa digitar",
+    "date": "2026-06-26 07:37:07"
 }
