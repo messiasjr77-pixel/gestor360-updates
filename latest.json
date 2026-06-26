@@ -1,7 +1,7 @@
 {
-    "version": "1.0.98",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.0.98/gestor360-1.0.98.zip",
-    "checksum": "e1763355d0becd870e4a7f0069e5a3251718b13070b0095a67c447b23bcc33a9",
+    "version": "1.1.01",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.01/gestor360-1.1.01.zip",
+    "checksum": "80a797735cc5cdad3b25e62bbb1485398728c070b9dd269908ab0b02c4359933",
     "notes": "feat: botoes MEI (NFC-e Ctrl+F8 / Cupom simples Ctrl+F9) na statusbar; overlay de venda concluida no header (valor, forma, troco, 5s ou proximo item)",
-    "date": "2026-06-25 22:51:08"
+    "date": "2026-06-25 22:52:55"
 }
