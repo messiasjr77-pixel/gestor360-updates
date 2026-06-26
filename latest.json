@@ -1,7 +1,7 @@
 {
-    "version": "1.1.16",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.16/gestor360-1.1.16.zip",
-    "checksum": "9c58b0ee24dcb7645b3deb08a1affa5a066d1c2554608ef925134c21b72652a6",
-    "notes": "Corrige NOT NULL em clientes.email para importacao do BR (multiplos clientes sem email)",
-    "date": "2026-06-26 14:35:48"
+    "version": "1.1.17",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.17/gestor360-1.1.17.zip",
+    "checksum": "a1112cd2ea0710ab752231f0ec2ce9b6f5c2674edd262f912480dacaa2f3b736",
+    "notes": "Crediário: botão Marcar todas as contas no recebimento",
+    "date": "2026-06-26 17:47:08"
 }
