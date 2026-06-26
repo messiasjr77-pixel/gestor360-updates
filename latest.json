@@ -1,7 +1,7 @@
 {
-    "version": "1.1.04",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.04/gestor360-1.1.04.zip",
-    "checksum": "9d143213afac6551a5c248759ce4cbffffc110edca1849916979465b89cd0726",
-    "notes": "feat: admin pode visualizar senha dos usuarios (botao olho); migration 031 adiciona coluna senha_plain",
-    "date": "2026-06-25 23:17:16"
+    "version": "1.1.05",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.05/gestor360-1.1.05.zip",
+    "checksum": "e5582fdc395558e04ef3193e0d4aabf3b4c1bdb4ffbd6a780c447010fdc5f827",
+    "notes": "fix: cupom simples (Ctrl+F9) sem CUPOM NAO FISCAL e sem numero da venda; rodape so data/hora",
+    "date": "2026-06-25 23:19:41"
 }
