@@ -1,7 +1,7 @@
 {
-    "version": "1.1.11",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.11/gestor360-1.1.11.zip",
-    "checksum": "9aae540e2c63f048211212d1e8dcb78b9e5f0eae89af45c418e76cc3281a6967",
-    "notes": "Fix: modal F5 Cancelar Item agora exige senha de admin (botao x e tecla Delete/Enter)",
-    "date": "2026-06-26 14:00:40"
+    "version": "1.1.12",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.12/gestor360-1.1.12.zip",
+    "checksum": "a5b2b1a7e611073b9a530b9d1baa41d8177da3fcd84a3fa43183123fc4dbb995",
+    "notes": "Preco de atacado por quantidade no PDV: a partir de X unidades o preco unitario vira o de atacado",
+    "date": "2026-06-26 14:04:24"
 }
