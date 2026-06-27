@@ -1,7 +1,7 @@
 {
-    "version": "1.1.20",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.20/gestor360-1.1.20.zip",
-    "checksum": "a2cff924f14b59babb97f209dd5cab096df236dd7aa250b52110da287d68c516",
-    "notes": "feat: PIX Direto (F5) + PIX QR renomeado (F4); crediario movido para F9; abertura de caixa Ctrl+B; timezone Sao_Paulo; hora abertura caixa preserva 1a entrada; sem bloqueio de login",
-    "date": "2026-06-27 06:45:09"
+    "version": "1.1.21",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.21/gestor360-1.1.21.zip",
+    "checksum": "3cf583b03651a3188e9c63bbb1ced54d0377c6350fd3fa14541fe16cb168d021",
+    "notes": "Fechamento de caixa: as entradas passam a puxar automaticamente as vendas do dia (dinheiro, cartao, pix). Fechamento Geral agora soma a diferenca de caixa de TODOS os operadores, terminais e turnos do dia. Cofrinho reformulado: mostra o total reservado para pagamentos futuros (saidas marcadas como Futuro), por despesa. Novo atalho Ctrl+T abre Contas a Pagar. Correcoes e melhorias.",
+    "date": "2026-06-27 08:54:36"
 }
