@@ -1,7 +1,7 @@
 {
-    "version": "1.1.22",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.22/gestor360-1.1.22.zip",
-    "checksum": "555885c5979abd88484fea0522149c1c05592ba7b4923038a1db40ca7d06cb5e",
-    "notes": "Fechamento de caixa: crediario nao conta mais como entrada (e venda a prazo, fica em Contas a Receber). Inclui tambem: entradas puxam vendas do dia, diferenca de operadores soma todos os terminais/turnos, cofrinho de reserva para pagamentos futuros e atalho Ctrl+T em Contas a Pagar.",
-    "date": "2026-06-27 09:07:16"
+    "version": "1.1.23",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.23/gestor360-1.1.23.zip",
+    "checksum": "e21b1b54ce32ba9dc3e61e9c5981b2d6d8d2a79605106ed90c74550af48eb47f",
+    "notes": "Fechamento de caixa geral agora e duravel e sincroniza entre terminais (nao se perde mais o valor contado). Reabrir fechamento passou a preservar o registro no historico (soft-delete) em vez de apagar.",
+    "date": "2026-06-27 14:18:21"
 }
