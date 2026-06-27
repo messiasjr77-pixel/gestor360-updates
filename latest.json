@@ -1,7 +1,7 @@
 {
-    "version": "1.1.21",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.21/gestor360-1.1.21.zip",
-    "checksum": "5e04ea49e031f5a9736dac4967af6086d3a1711dceea3c8df661f5a3af57fbdc",
-    "notes": "feat: reimprimir fechamentos anteriores do dia — sidebar de fechar_operador lista fechamentos do mesmo dia com botao Imprimir",
-    "date": "2026-06-27 17:28:47"
+    "version": "1.1.22",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.22/gestor360-1.1.22.zip",
+    "checksum": "b607df1bc4e1d869d5396f2d8a51756fa09ea89a67f42d6f1d06f543207b04bb",
+    "notes": "fix: operador ve todas as vendas do turno (limite 2000, era 50); feat: navegacao com seta/Enter na tela Ctrl+P de vendas finalizadas",
+    "date": "2026-06-27 18:33:04"
 }
