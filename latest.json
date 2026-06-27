@@ -1,7 +1,7 @@
 {
-    "version": "1.1.21",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.21/gestor360-1.1.21.zip",
-    "checksum": "3cf583b03651a3188e9c63bbb1ced54d0377c6350fd3fa14541fe16cb168d021",
-    "notes": "Fechamento de caixa: as entradas passam a puxar automaticamente as vendas do dia (dinheiro, cartao, pix). Fechamento Geral agora soma a diferenca de caixa de TODOS os operadores, terminais e turnos do dia. Cofrinho reformulado: mostra o total reservado para pagamentos futuros (saidas marcadas como Futuro), por despesa. Novo atalho Ctrl+T abre Contas a Pagar. Correcoes e melhorias.",
-    "date": "2026-06-27 08:54:36"
+    "version": "1.1.22",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.22/gestor360-1.1.22.zip",
+    "checksum": "555885c5979abd88484fea0522149c1c05592ba7b4923038a1db40ca7d06cb5e",
+    "notes": "Fechamento de caixa: crediario nao conta mais como entrada (e venda a prazo, fica em Contas a Receber). Inclui tambem: entradas puxam vendas do dia, diferenca de operadores soma todos os terminais/turnos, cofrinho de reserva para pagamentos futuros e atalho Ctrl+T em Contas a Pagar.",
+    "date": "2026-06-27 09:07:16"
 }
