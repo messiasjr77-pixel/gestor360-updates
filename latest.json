@@ -1,7 +1,7 @@
 {
     "version": "1.1.20",
     "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.20/gestor360-1.1.20.zip",
-    "checksum": "af3488abba1b61c6f7a67290ee087df0f85758dace75bdde86dd4c512d316ea9",
-    "notes": "PDV: alterar a forma de pagamento de uma venda finalizada no mesmo dia (Buscar Vendas > detalhe da venda > Alterar pagamento, tecla P) — atualiza tambem o fechamento de caixa por forma; bloqueia crediario, pagamento misto e vendas de outro dia. Ajustes no cadastro de clientes.",
-    "date": "2026-06-26 19:24:56"
+    "checksum": "a2cff924f14b59babb97f209dd5cab096df236dd7aa250b52110da287d68c516",
+    "notes": "feat: PIX Direto (F5) + PIX QR renomeado (F4); crediario movido para F9; abertura de caixa Ctrl+B; timezone Sao_Paulo; hora abertura caixa preserva 1a entrada; sem bloqueio de login",
+    "date": "2026-06-27 06:45:09"
 }
