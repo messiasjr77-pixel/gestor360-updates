@@ -1,7 +1,7 @@
 {
-    "version": "1.1.22",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.22/gestor360-1.1.22.zip",
-    "checksum": "b607df1bc4e1d869d5396f2d8a51756fa09ea89a67f42d6f1d06f543207b04bb",
-    "notes": "fix: operador ve todas as vendas do turno (limite 2000, era 50); feat: navegacao com seta/Enter na tela Ctrl+P de vendas finalizadas",
-    "date": "2026-06-27 18:33:04"
+    "version": "1.1.23",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.23/gestor360-1.1.23.zip",
+    "checksum": "f63d234e566278df8c8d8789572f3a757a1d968061b7472e43e8e445aefaceda",
+    "notes": "",
+    "date": "2026-06-27 19:30:37"
 }
