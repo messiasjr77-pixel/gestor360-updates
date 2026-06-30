@@ -1,7 +1,7 @@
 {
-    "version": "1.1.24",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.24/gestor360-1.1.24.zip",
-    "checksum": "3667f0736acb0e4917627aea84ae32b2a8d214f1aa06ba4303fd231d64b7358c",
-    "notes": "Cadastro de produtos redesenhado; apresentações comerciais; histórico de fechamento do operador",
-    "date": "2026-06-27 22:20:50"
+    "version": "1.1.25",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.25/gestor360-1.1.25.zip",
+    "checksum": "a8a27639dc6a49bddef3084dc4866c7928a45cf98a61e2ee43d3f8eed70b021f",
+    "notes": "Vendas do turno visiveis; reimpressao de fechamentos anteriores; melhorias de cadastro, etiquetas, estoque, financeiro e sincronizacao.",
+    "date": "2026-06-30 11:23:07"
 }
