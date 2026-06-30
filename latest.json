@@ -1,7 +1,7 @@
 {
-    "version": "1.1.30",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.30/gestor360-1.1.30.zip",
-    "checksum": "3a198a6cae6742157db80d9e6bec83a5b7f0e0e193640156ebc1a04d4b8549ea",
-    "notes": "fix: preco de custo por cliente agora funciona em todas as buscas e reprecifica itens ja no carrinho ao selecionar o cliente",
-    "date": "2026-06-30 12:59:15"
+    "version": "1.1.31",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.31/gestor360-1.1.31.zip",
+    "checksum": "8f44b5f659e17bfb7b51b867ee51593b7814f5d2f586b4ecac7a5b6bb000bcd9",
+    "notes": "PDV: Ctrl+H abre mensagem rapida para outro terminal (ou todos), entregue em tempo real via SSE",
+    "date": "2026-06-30 18:07:48"
 }
