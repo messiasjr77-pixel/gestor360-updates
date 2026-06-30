@@ -1,7 +1,7 @@
 {
     "version": "1.1.25",
     "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.25/gestor360-1.1.25.zip",
-    "checksum": "a8a27639dc6a49bddef3084dc4866c7928a45cf98a61e2ee43d3f8eed70b021f",
-    "notes": "Vendas do turno visiveis; reimpressao de fechamentos anteriores; melhorias de cadastro, etiquetas, estoque, financeiro e sincronizacao.",
-    "date": "2026-06-30 11:23:07"
+    "checksum": "f10128849128a8a4d16864d903ecea789a4997ff101d0d3d810dd9c0768fb004",
+    "notes": "Fechamento de operador: reimprimir histórico do dia; Ctrl+P: todas as vendas do turno (limite 2000) com navegação por seta; Entrada manual: cards lado a lado, resumo removido",
+    "date": "2026-06-30 11:29:48"
 }
