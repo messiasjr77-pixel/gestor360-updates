@@ -1,7 +1,7 @@
 {
-    "version": "1.1.31",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.31/gestor360-1.1.31.zip",
-    "checksum": "8f44b5f659e17bfb7b51b867ee51593b7814f5d2f586b4ecac7a5b6bb000bcd9",
-    "notes": "PDV: Ctrl+H abre mensagem rapida para outro terminal (ou todos), entregue em tempo real via SSE",
-    "date": "2026-06-30 18:07:48"
+    "version": "1.1.32",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.32/gestor360-1.1.32.zip",
+    "checksum": "9fd3056fc522e215ece414833ceaf3a4c9eb2a3d2e10ef59155d7f754b691c60",
+    "notes": "Libera perfil caixa (vendedor) para Recebimento de Crediario e Enviar Mensagem (Ctrl+H) no PDV",
+    "date": "2026-06-30 18:29:26"
 }
