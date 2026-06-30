@@ -1,7 +1,7 @@
 {
-    "version": "1.1.28",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.28/gestor360-1.1.28.zip",
-    "checksum": "eb326e013a468e8851d88d213a3f09e326ab5b5126b3b2d5f5fbcd93bce4d25b",
-    "notes": "Erro de codigo duplicado na loja agora exibe overlay com nome, EAN e preco do produto conflitante + botao para editar ou voltar",
-    "date": "2026-06-30 12:14:36"
+    "version": "1.1.29",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.29/gestor360-1.1.29.zip",
+    "checksum": "9b0ac44fec4cbb22abf2d0dfaf0fab6b04aa460c360d5bc7255a63f9db68ce23",
+    "notes": "PDV: clientes com 'compra a preco de custo' agora recebem o preco_compra ao adicionar produto; divida no crediario desconta pagamentos ja recebidos",
+    "date": "2026-06-30 12:36:06"
 }
