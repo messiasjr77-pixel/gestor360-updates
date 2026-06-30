@@ -1,7 +1,7 @@
 {
-    "version": "1.1.27",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.27/gestor360-1.1.27.zip",
-    "checksum": "f597cbc462c027c8c7164c0ebf92e9e8f1d17804fecfad5fe62ade5bd1c2aeab",
-    "notes": "fix: entrada manual – crash JS ao abrir historico corrigido (referencias a inputs removidos do sidebar)",
-    "date": "2026-06-30 11:50:58"
+    "version": "1.1.28",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.28/gestor360-1.1.28.zip",
+    "checksum": "eb326e013a468e8851d88d213a3f09e326ab5b5126b3b2d5f5fbcd93bce4d25b",
+    "notes": "Erro de codigo duplicado na loja agora exibe overlay com nome, EAN e preco do produto conflitante + botao para editar ou voltar",
+    "date": "2026-06-30 12:14:36"
 }
