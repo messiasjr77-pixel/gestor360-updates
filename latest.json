@@ -1,7 +1,7 @@
 {
-    "version": "1.1.29",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.29/gestor360-1.1.29.zip",
-    "checksum": "9b0ac44fec4cbb22abf2d0dfaf0fab6b04aa460c360d5bc7255a63f9db68ce23",
-    "notes": "PDV: clientes com 'compra a preco de custo' agora recebem o preco_compra ao adicionar produto; divida no crediario desconta pagamentos ja recebidos",
-    "date": "2026-06-30 12:36:06"
+    "version": "1.1.30",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.30/gestor360-1.1.30.zip",
+    "checksum": "3a198a6cae6742157db80d9e6bec83a5b7f0e0e193640156ebc1a04d4b8549ea",
+    "notes": "fix: preco de custo por cliente agora funciona em todas as buscas e reprecifica itens ja no carrinho ao selecionar o cliente",
+    "date": "2026-06-30 12:59:15"
 }
