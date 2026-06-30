@@ -1,7 +1,7 @@
 {
-    "version": "1.1.26",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.26/gestor360-1.1.26.zip",
-    "checksum": "59eccebfdfcf72819bdd8023d6318fa0de6582966e80369479421d0ebb8f2cd9",
-    "notes": "Entrada manual: Enter no campo Total adiciona nova linha de produto automaticamente",
-    "date": "2026-06-30 11:40:02"
+    "version": "1.1.27",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.27/gestor360-1.1.27.zip",
+    "checksum": "f597cbc462c027c8c7164c0ebf92e9e8f1d17804fecfad5fe62ade5bd1c2aeab",
+    "notes": "fix: entrada manual – crash JS ao abrir historico corrigido (referencias a inputs removidos do sidebar)",
+    "date": "2026-06-30 11:50:58"
 }
