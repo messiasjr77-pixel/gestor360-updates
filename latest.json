@@ -1,7 +1,7 @@
 {
-    "version": "1.1.36",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.36/gestor360-1.1.36.zip",
-    "checksum": "82ca33ff728d31ccac701404c56eaa33e3f8456e51a462baa518688c8b3c80ed",
-    "notes": "Mensagem entre terminais: deduplica por uuid no cliente (nunca repete popup, mesmo se o servidor reenviar)",
-    "date": "2026-06-30 19:40:27"
+    "version": "1.1.37",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.37/gestor360-1.1.37.zip",
+    "checksum": "04c5849573576ea216739ae7894ffe22d8b4aa42e97f0da1a30fbdee703b2295",
+    "notes": "Botao Atualizar em Movimento > Vendas do Dia",
+    "date": "2026-07-01 07:51:10"
 }
