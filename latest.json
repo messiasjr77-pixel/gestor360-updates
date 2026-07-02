@@ -1,7 +1,7 @@
 {
-    "version": "1.1.37",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.37/gestor360-1.1.37.zip",
-    "checksum": "04c5849573576ea216739ae7894ffe22d8b4aa42e97f0da1a30fbdee703b2295",
-    "notes": "Botao Atualizar em Movimento > Vendas do Dia",
-    "date": "2026-07-01 07:51:10"
+    "version": "1.1.38",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.38/gestor360-1.1.38.zip",
+    "checksum": "c0e4d67b1d86900647d9dd1c60c2fa46dbef1fbd95a3814f5da0dacd6271a98e",
+    "notes": "Vendas do Dia: filtro por horario (de/ate) nos cards e na lista; correcao de corrida nas migracoes do primeiro boot",
+    "date": "2026-07-01 21:11:45"
 }
