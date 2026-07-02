@@ -1,7 +1,7 @@
 {
-    "version": "1.1.38",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.38/gestor360-1.1.38.zip",
-    "checksum": "c0e4d67b1d86900647d9dd1c60c2fa46dbef1fbd95a3814f5da0dacd6271a98e",
-    "notes": "Vendas do Dia: filtro por horario (de/ate) nos cards e na lista; correcao de corrida nas migracoes do primeiro boot",
-    "date": "2026-07-01 21:11:45"
+    "version": "1.1.39",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.39/gestor360-1.1.39.zip",
+    "checksum": "d018d873cf23034e5b771ac36380a19db70bf5778da90dc2a1d512a0c634112f",
+    "notes": "fix: NFC-e nao imprimia para operador de caixa (poll bloqueado por perfil) - autorizava na SEFAZ mas DANFE nao saia",
+    "date": "2026-07-02 15:18:18"
 }
