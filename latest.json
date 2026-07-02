@@ -1,7 +1,7 @@
 {
-    "version": "1.1.39",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.39/gestor360-1.1.39.zip",
-    "checksum": "d018d873cf23034e5b771ac36380a19db70bf5778da90dc2a1d512a0c634112f",
-    "notes": "fix: NFC-e nao imprimia para operador de caixa (poll bloqueado por perfil) - autorizava na SEFAZ mas DANFE nao saia",
-    "date": "2026-07-02 15:18:18"
+    "version": "1.1.40",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.40/gestor360-1.1.40.zip",
+    "checksum": "60d7c03cd2a46b02150d6361613b89b697491213aa29b82776623e2c5e68549b",
+    "notes": "fix: sync cria tabelas/colunas faltantes no receptor (terminal novo ficava com contas a pagar/funcionarios/cartoes zerados) e nao avanca cursor de push com erro (evita perda silenciosa); inclui tambem os fixes da 1.1.39 (NFC-e operador de caixa, SSL)",
+    "date": "2026-07-02 15:51:20"
 }
