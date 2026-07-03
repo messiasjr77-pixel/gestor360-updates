@@ -1,7 +1,7 @@
 {
-    "version": "1.1.41",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.41/gestor360-1.1.41.zip",
-    "checksum": "86a54fa4d31b6ccbac13d1e872cf41fe2a3fc62d24e30e743b78f6168a6ed7e1",
-    "notes": "fix: PDV - cancelar item/venda com senha de admin nao executava a acao para perfil caixa (modal fechava mas item continuava na tela)",
-    "date": "2026-07-03 09:06:30"
+    "version": "1.1.42",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.42/gestor360-1.1.42.zip",
+    "checksum": "63be45b51560b70f4f90cce176f335b2e923dc1ff7d05f2c0f66dd5726847257",
+    "notes": "Nome do terminal se propaga pela rede automaticamente.",
+    "date": "2026-07-03 11:34:17"
 }
