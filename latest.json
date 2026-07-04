@@ -1,7 +1,7 @@
 {
-    "version": "1.1.43",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.43/gestor360-1.1.43.zip",
-    "checksum": "c53547979310ceac27c7f1a02821c7436d27dfb5834c199827e4f67dfa51ab29",
-    "notes": "Reenvio automatico diario de NFC-e pendentes (1x/dia, so notas do proprio terminal)",
-    "date": "2026-07-03 19:05:48"
+    "version": "1.1.44",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.44/gestor360-1.1.44.zip",
+    "checksum": "cd66889e81ba1159e6c4bb281ca96ebfd8d61a6fde0aa4e92fcac8044e3d372b",
+    "notes": "Desconto por quantidade no cadastro de produtos: informe 'A partir de' (quantidade) e o 'Preco com desconto'; o PDV aplica sozinho. Ativacao automatica ao preencher a quantidade (sem caixa de marcar); campos padronizados com o visual dos cards.",
+    "date": "2026-07-04 09:13:54"
 }
