@@ -1,7 +1,7 @@
 {
-    "version": "1.1.46",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.46/gestor360-1.1.46.zip",
-    "checksum": "d20865c1740478eb5634de7f94cb90594429460c0c1b078c5f5b325a81fdb1bd",
-    "notes": "Novo menu Utilitarios (abaixo de Operacoes) com Calculadora e Recibo. Recibo: gera recibo imprimivel pre-preenchido com dados da empresa e data do dia, valor por extenso, numero automatico (comeca em 01), impressao de 1 ou 2 vias na mesma folha A4 (cada recibo ocupa meia folha). Atalho Ctrl+E abre o Recibo.",
-    "date": "2026-07-04 16:15:42"
+    "version": "1.1.47",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.47/gestor360-1.1.47.zip",
+    "checksum": "e5f1f56d66cfb13d118077802a327cf170deddc2d32a463013f65abc81a1b86a",
+    "notes": "Entrada manual: campo Total editavel — digite o total pago e a Qtd, o Vl. Unit. e calculado automaticamente",
+    "date": "2026-07-04 17:42:19"
 }
