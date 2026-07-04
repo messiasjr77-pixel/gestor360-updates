@@ -1,7 +1,7 @@
 {
-    "version": "1.1.44",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.44/gestor360-1.1.44.zip",
-    "checksum": "cd66889e81ba1159e6c4bb281ca96ebfd8d61a6fde0aa4e92fcac8044e3d372b",
-    "notes": "Desconto por quantidade no cadastro de produtos: informe 'A partir de' (quantidade) e o 'Preco com desconto'; o PDV aplica sozinho. Ativacao automatica ao preencher a quantidade (sem caixa de marcar); campos padronizados com o visual dos cards.",
-    "date": "2026-07-04 09:13:54"
+    "version": "1.1.45",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.45/gestor360-1.1.45.zip",
+    "checksum": "f1e0e507fa712f5749b4f0c3b614bea8713abcc3669c75458612603e8cecdffe",
+    "notes": "Entrada manual: preco medio ponderado (vira o custo ao finalizar), preco por atacado por produto (botao na linha), 'Salvar e liberar estoque' (da entrada no estoque ja no salvar, idempotente), layout em cartao unico mais compacto e Caixa Geral como padrao. Cadastro de produtos: desconto por quantidade com ativacao automatica (sem caixa de marcar).",
+    "date": "2026-07-04 13:50:55"
 }
