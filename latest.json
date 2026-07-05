@@ -1,7 +1,7 @@
 {
-    "version": "1.1.48",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.48/gestor360-1.1.48.zip",
-    "checksum": "4757a452be9807b8ca0116de4ad45c92678934c732f9e8953822b229edcc7b42",
-    "notes": "Recibo (Utilitarios): novo seletor Recebemos/Recebi — para pagamento a funcionario/terceiro o texto vira 'Recebi de [empresa]' e a assinatura passa a ser do recebedor, com campo de CPF. Inclui tambem correcao de caixa (edicao do tipo de saida inline; 'Futuro' renomeado para 'Reserva').",
-    "date": "2026-07-04 18:56:16"
+    "version": "1.1.49",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.49/gestor360-1.1.49.zip",
+    "checksum": "f441e28e3a886a9d1ae69b40cab45977e24828ec62fec4d7f7b43e561748a27f",
+    "notes": "Recibo (Utilitarios): seletor renomeado para Recebemos/Pagamos (visao da empresa) e documento do recebedor aceita CPF ou CNPJ com mascara automatica.",
+    "date": "2026-07-05 10:43:29"
 }
