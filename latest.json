@@ -1,7 +1,7 @@
 {
-    "version": "1.1.49",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.49/gestor360-1.1.49.zip",
-    "checksum": "f441e28e3a886a9d1ae69b40cab45977e24828ec62fec4d7f7b43e561748a27f",
-    "notes": "Recibo (Utilitarios): seletor renomeado para Recebemos/Pagamos (visao da empresa) e documento do recebedor aceita CPF ou CNPJ com mascara automatica.",
-    "date": "2026-07-05 10:43:29"
+    "version": "1.1.50",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.50/gestor360-1.1.50.zip",
+    "checksum": "3a5204ad932c3712810ba2e2be839c30e0cdc8e8634b8facfaa01e4b95db6fd8",
+    "notes": "PDV: tema claro aplicado aos modais restantes (recebimento de crediário, orçamento, e família de janelas: alterar qtd, cancelar item, buscar/detalhe de venda, alterar pagamento, crediário, mensagem, item em falta) — antes apareciam escuros no tema claro",
+    "date": "2026-07-05 11:15:49"
 }
