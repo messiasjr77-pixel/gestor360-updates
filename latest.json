@@ -1,7 +1,7 @@
 {
-    "version": "1.1.50",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.50/gestor360-1.1.50.zip",
-    "checksum": "3a5204ad932c3712810ba2e2be839c30e0cdc8e8634b8facfaa01e4b95db6fd8",
-    "notes": "PDV: tema claro aplicado aos modais restantes (recebimento de crediário, orçamento, e família de janelas: alterar qtd, cancelar item, buscar/detalhe de venda, alterar pagamento, crediário, mensagem, item em falta) — antes apareciam escuros no tema claro",
-    "date": "2026-07-05 11:15:49"
+    "version": "1.1.51",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.51/gestor360-1.1.51.zip",
+    "checksum": "8e70e2a2e77c926ba23637542960897bbabd090f8e7d4c082d744337c77dd1e9",
+    "notes": "Recibo (Utilitarios): seletor Pagamos/Recebemos com Pagamos como padrao (caso mais comum) e correcao do botao Novo que cortava. PDV: alterar a forma de pagamento de uma venda, incluindo converter para crediario (vira divida do cliente; exige cliente vinculado).",
+    "date": "2026-07-05 14:24:33"
 }
