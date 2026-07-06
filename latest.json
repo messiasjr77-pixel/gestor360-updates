@@ -1,7 +1,7 @@
 {
-    "version": "1.1.53",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.53/gestor360-1.1.53.zip",
-    "checksum": "6d3d0c9ca3adc592a273f399ff2f945012e67ebd0e2b5bbe24501f06a0c22e39",
-    "notes": "Corrige Rejeicao 865 na NFC-e (reconcilia pagamento com total em vendas fracionadas)",
-    "date": "2026-07-06 08:54:37"
+    "version": "1.1.54",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.54/gestor360-1.1.54.zip",
+    "checksum": "5e0f6831f74ea58d1a890db023643af6316acc6153005cd095ac66c45b7a4a38",
+    "notes": "Corrige Rejeicao 865 em vendas com desconto (desconto embutido no valor dos produtos na NFC-e)",
+    "date": "2026-07-06 13:00:54"
 }
