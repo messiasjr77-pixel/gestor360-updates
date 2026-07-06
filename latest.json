@@ -1,7 +1,7 @@
 {
-    "version": "1.1.54",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.54/gestor360-1.1.54.zip",
-    "checksum": "5e0f6831f74ea58d1a890db023643af6316acc6153005cd095ac66c45b7a4a38",
-    "notes": "Corrige Rejeicao 865 em vendas com desconto (desconto embutido no valor dos produtos na NFC-e)",
-    "date": "2026-07-06 13:00:54"
+    "version": "1.1.55",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.55/gestor360-1.1.55.zip",
+    "checksum": "11b447ad87229e7fe97e1b8469056e6d67de74706521455e6da8318c747b8639",
+    "notes": "Impressao termica DLL: passa a porta configurada (etiqueta_porta) pro wrapper Daruma, tornando a impressao deterministica",
+    "date": "2026-07-06 18:55:26"
 }
