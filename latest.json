@@ -1,7 +1,7 @@
 {
-    "version": "1.1.52",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.52/gestor360-1.1.52.zip",
-    "checksum": "ac4b214d85eecd542e4461e0f4ca7332d0a0f4bfb48bb1ba862f24de1dbf4065",
-    "notes": "Menu: item PDV renomeado (antes PDV - Resolucao). Fechamento de caixa: tema segue o seletor claro/escuro global do menu (antes ficava preso no tema do PDV); tema claro mantem paleta azul. Vendas do Dia: filtro por forma de pagamento (cards, lista e canceladas respeitam o filtro; combinavel com horario).",
-    "date": "2026-07-05 15:23:24"
+    "version": "1.1.53",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.53/gestor360-1.1.53.zip",
+    "checksum": "6d3d0c9ca3adc592a273f399ff2f945012e67ebd0e2b5bbe24501f06a0c22e39",
+    "notes": "Corrige Rejeicao 865 na NFC-e (reconcilia pagamento com total em vendas fracionadas)",
+    "date": "2026-07-06 08:54:37"
 }
