@@ -1,7 +1,7 @@
 {
-    "version": "1.1.55",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.55/gestor360-1.1.55.zip",
-    "checksum": "11b447ad87229e7fe97e1b8469056e6d67de74706521455e6da8318c747b8639",
-    "notes": "Impressao termica DLL: passa a porta configurada (etiqueta_porta) pro wrapper Daruma, tornando a impressao deterministica",
-    "date": "2026-07-06 18:55:26"
+    "version": "1.1.56",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.56/gestor360-1.1.56.zip",
+    "checksum": "ffd1a259ea3d5c14bef6f56c9e3ad9d0446401494ba5f4afcae3ffef0b7711ab",
+    "notes": "Impressao termica DR700: negrito (legibilidade) + espacamento simples + 5x mais rapida",
+    "date": "2026-07-08 12:11:25"
 }
