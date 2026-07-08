@@ -1,7 +1,7 @@
 {
-    "version": "1.1.56",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.56/gestor360-1.1.56.zip",
-    "checksum": "ffd1a259ea3d5c14bef6f56c9e3ad9d0446401494ba5f4afcae3ffef0b7711ab",
-    "notes": "Impressao termica DR700: negrito (legibilidade) + espacamento simples + 5x mais rapida",
-    "date": "2026-07-08 12:11:25"
+    "version": "1.1.57",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.57/gestor360-1.1.57.zip",
+    "checksum": "a890dd4f0d59ac779878f1b0a55291c71b9639f288731494a271116aed8da15b",
+    "notes": "Nova tela Admin > Impressora: configura cupom/etiqueta, testa impressao sem venda e detecta a porta automaticamente (imprime marcador em cada porta)",
+    "date": "2026-07-08 15:25:58"
 }
