@@ -1,7 +1,7 @@
 {
-    "version": "1.1.62",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.62/gestor360-1.1.62.zip",
-    "checksum": "d7fd961ac28e0b21928f801c99ec7b79ac30c6bc21ad31c18857b70d70d7476e",
-    "notes": "Produtos: codigos do pacote e da caixa agora ficam pesquisaveis no PDV mesmo sem quantidade informada; busca por codigo extra encontra o produto e respeita o fator da embalagem.",
-    "date": "2026-07-10 10:50:48"
+    "version": "1.1.63",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.63/gestor360-1.1.63.zip",
+    "checksum": "ce552953fa9ffedd07040b440101d3a62d3e1ed6e12458b7f9e83c1eafa23993",
+    "notes": "Produtos: no cadastro, os campos de codigo do pacote e da caixa agora localizam produto existente ao pressionar Enter ou sair do campo.",
+    "date": "2026-07-10 11:02:05"
 }
