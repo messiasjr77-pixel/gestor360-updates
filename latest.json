@@ -1,7 +1,7 @@
 {
-    "version": "1.1.65",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.65/gestor360-1.1.65.zip",
-    "checksum": "22c025db845487ab3fc70318a8dc8fa27e14d46190274a13ad6c9e8b1c4cde22",
-    "notes": "Fornecedores: a fusao agora tambem encontra nomes historicos vindos de contas a pagar e permite fundir direto pela tela de cadastro, criando o fornecedor principal quando necessario.",
-    "date": "2026-07-10 11:51:26"
+    "version": "1.1.66",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.66/gestor360-1.1.66.zip",
+    "checksum": "d85177925f08836cd302c81b96ec5946729bedbf3cf00b054ad4f33da8d62f80",
+    "notes": "Interface: libera novamente o zoom nativo do navegador por Ctrl+roda do mouse, Ctrl++ e Ctrl+- em todas as telas.",
+    "date": "2026-07-10 17:30:09"
 }
