@@ -1,7 +1,7 @@
 {
-    "version": "1.1.60",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.60/gestor360-1.1.60.zip",
-    "checksum": "420b2f49a3382cffb0f294eab27a33e24be326ce6f549d8d042f1ae325426880",
-    "notes": "Sync: malha de terminais se auto-corrige (aprende peer novo e conserta endpoint/porta errada sozinho)",
-    "date": "2026-07-10 13:06:06"
+    "version": "1.1.61",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.61/gestor360-1.1.61.zip",
+    "checksum": "0abad0cf3e63502c557f17bcdc9a38b37566726c87e612b667412ef4c89c9feb",
+    "notes": "Cadastro de produtos: o Cod. da loja nao vem mais preenchido automaticamente — ao salvar sem codigo, o sistema sugere o proximo livre. PDV: botao Reimprimir no detalhe da venda.",
+    "date": "2026-07-10 10:19:08"
 }
