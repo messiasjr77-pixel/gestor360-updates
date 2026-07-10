@@ -1,7 +1,7 @@
 {
-    "version": "1.1.64",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.64/gestor360-1.1.64.zip",
-    "checksum": "4ecc0658aa520bdd81ff7749285050cc48d056059b5a6d22b23c74ae1085a7de",
-    "notes": "Fornecedores: adiciona funcao para fundir cadastros duplicados, reatribuindo produtos, contas, entradas, notas avulsas, lista de compras e pedidos para o fornecedor principal.",
-    "date": "2026-07-10 11:25:19"
+    "version": "1.1.65",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.65/gestor360-1.1.65.zip",
+    "checksum": "22c025db845487ab3fc70318a8dc8fa27e14d46190274a13ad6c9e8b1c4cde22",
+    "notes": "Fornecedores: a fusao agora tambem encontra nomes historicos vindos de contas a pagar e permite fundir direto pela tela de cadastro, criando o fornecedor principal quando necessario.",
+    "date": "2026-07-10 11:51:26"
 }
