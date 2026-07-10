@@ -1,7 +1,7 @@
 {
-    "version": "1.1.58",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.58/gestor360-1.1.58.zip",
-    "checksum": "a9a77d7b7ae55b0e45d72e5cadb4c6384e31e67f91cf95bcb858ded09b8deedd",
-    "notes": "PDV: troco no recebimento de crediario (forma Dinheiro) + opcao de imprimir recibo de pagamento",
-    "date": "2026-07-09 15:31:08"
+    "version": "1.1.59",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.59/gestor360-1.1.59.zip",
+    "checksum": "c7c3a9f46ce5637881b10ad1f681265300305b1a29fdfba003c05928188b64ee",
+    "notes": "Instalador agora suporta mais de uma empresa na mesma maquina: escolhe portas proprias automaticamente, gera launcher.json e cria atalhos por empresa (sem sobrescrever a outra). Correcao de migracao em contas a pagar.",
+    "date": "2026-07-10 08:52:20"
 }
