@@ -1,7 +1,7 @@
 {
-    "version": "1.1.74",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.74/gestor360-1.1.74.zip",
-    "checksum": "5a724bf2cf956e13055be6221c8cadb4fcc9ad8e40431c3dffa0266ad76d67b4",
-    "notes": "Analises: novo menu Analises com Painel de Vendas para decisao gerencial, incluindo produtos mais vendidos, lucro estimado, Curva ABC, estoque x vendas, categoria, fornecedor e decisoes sugeridas.",
-    "date": "2026-07-11 16:07:52"
+    "version": "1.1.75",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.75/gestor360-1.1.75.zip",
+    "checksum": "018d6e23fb7de4b2b74c9b6f795a92334a594a8a2bc2a159f98d5405e2c07e8e",
+    "notes": "Analises: ajusta layout da Curva ABC para exibir Faturamento e Acumulado e adiciona explicacao do acumulado no cabecalho.",
+    "date": "2026-07-11 16:33:30"
 }
