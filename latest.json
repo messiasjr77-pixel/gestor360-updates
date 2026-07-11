@@ -1,7 +1,7 @@
 {
-    "version": "1.1.73",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.73/gestor360-1.1.73.zip",
-    "checksum": "95d7817d8d23a0822e392364f75a180916c92fa63c562e66f156a3d664e8a235",
-    "notes": "Entrada NF-e: Enter no modal Unidade/Pacote navega e confirma (evita perder o par pacote ao finalizar)",
-    "date": "2026-07-11 15:13:25"
+    "version": "1.1.74",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.74/gestor360-1.1.74.zip",
+    "checksum": "5a724bf2cf956e13055be6221c8cadb4fcc9ad8e40431c3dffa0266ad76d67b4",
+    "notes": "Analises: novo menu Analises com Painel de Vendas para decisao gerencial, incluindo produtos mais vendidos, lucro estimado, Curva ABC, estoque x vendas, categoria, fornecedor e decisoes sugeridas.",
+    "date": "2026-07-11 16:07:52"
 }
