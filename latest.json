@@ -1,7 +1,7 @@
 {
-    "version": "1.1.70",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.70/gestor360-1.1.70.zip",
-    "checksum": "6e99721e4667cb1ba1ade2f1d270beb71daf8db6e291762642287cfccbab3e1a",
-    "notes": "Entrada NF-e: ajusta o layout do modal Unidade/Pacote para caber em telas menores, com corpo rolavel, rodape acessivel e campos responsivos.",
-    "date": "2026-07-11 10:41:41"
+    "version": "1.1.71",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.71/gestor360-1.1.71.zip",
+    "checksum": "0672861d1b0541e468f1f482013c7561040dda45357b1f18ed148238eabd6c35",
+    "notes": "Entrada NF-e: remove o prefixo cad antes do preco cadastrado, deixando apenas o valor na coluna Preco cad.",
+    "date": "2026-07-11 11:05:55"
 }
