@@ -1,7 +1,7 @@
 {
-    "version": "1.1.76",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.76/gestor360-1.1.76.zip",
-    "checksum": "8e7c9c795b1af2af6fd4cbd7584caf9eaefc34fd4838f43da3abbbbd3d8c2e57",
-    "notes": "NFC-e: botao Corrigir NCM nas rejeitadas (edita NCM do produto e reenvia na hora)",
-    "date": "2026-07-11 18:10:25"
+    "version": "1.1.77",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.77/gestor360-1.1.77.zip",
+    "checksum": "2dff47e9c5aba760a83b3e55060fa589daf7f4ed157f8c8d7e802140b2fa6399",
+    "notes": "NFC-e: botao Corrigir NCM aparece so em rejeicao de NCM",
+    "date": "2026-07-11 18:15:42"
 }
