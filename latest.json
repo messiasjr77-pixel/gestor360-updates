@@ -1,7 +1,7 @@
 {
-    "version": "1.1.72",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.72/gestor360-1.1.72.zip",
-    "checksum": "f9c802c2cdf0b1b2be54b4f65c50ac643002274f69c824def1678888ea64118c",
-    "notes": "Entrada NF-e: preco cadastrado agora aparece em branco; margem fica em azul e o campo de margem mostra o simbolo de porcentagem ao lado.",
-    "date": "2026-07-11 11:08:34"
+    "version": "1.1.73",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.73/gestor360-1.1.73.zip",
+    "checksum": "95d7817d8d23a0822e392364f75a180916c92fa63c562e66f156a3d664e8a235",
+    "notes": "Entrada NF-e: Enter no modal Unidade/Pacote navega e confirma (evita perder o par pacote ao finalizar)",
+    "date": "2026-07-11 15:13:25"
 }
