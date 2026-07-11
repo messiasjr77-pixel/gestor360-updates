@@ -1,7 +1,7 @@
 {
-    "version": "1.1.69",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.69/gestor360-1.1.69.zip",
-    "checksum": "e96e75a240a4f667a3f2051e20626b064a8170cdbeadc120155393516b6f8fdf",
-    "notes": "Entrada NF-e: campo Cód. da loja da unidade no modal Unidade/Pacote + margem de lucro ao vivo (pacote e unidade)",
-    "date": "2026-07-11 10:35:01"
+    "version": "1.1.70",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.70/gestor360-1.1.70.zip",
+    "checksum": "6e99721e4667cb1ba1ade2f1d270beb71daf8db6e291762642287cfccbab3e1a",
+    "notes": "Entrada NF-e: ajusta o layout do modal Unidade/Pacote para caber em telas menores, com corpo rolavel, rodape acessivel e campos responsivos.",
+    "date": "2026-07-11 10:41:41"
 }
