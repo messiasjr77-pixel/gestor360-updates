@@ -1,7 +1,7 @@
 {
-    "version": "1.1.82",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.82/gestor360-1.1.82.zip",
-    "checksum": "d8ac022e7769f12c782f8e882cf369782ac21f06af45a2c6d13e54d77626fe89",
-    "notes": "Corrige cadastro de produtos para nao repetir o nome da unidade na descricao do pacote ao abrir produto.",
-    "date": "2026-07-12 15:33:42"
+    "version": "1.1.83",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.83/gestor360-1.1.83.zip",
+    "checksum": "6048320b01e03a396a52214a4532692ce9d748215450ef8d6884fe183c6cd13d",
+    "notes": "Entrada manual: vincula item por nome exato unico e grava unidade/pacote da linha, convertendo pacote em unidades ao salvar.",
+    "date": "2026-07-12 15:52:46"
 }
