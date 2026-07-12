@@ -1,7 +1,7 @@
 {
-    "version": "1.1.83",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.83/gestor360-1.1.83.zip",
-    "checksum": "6048320b01e03a396a52214a4532692ce9d748215450ef8d6884fe183c6cd13d",
-    "notes": "Entrada manual: vincula item por nome exato unico e grava unidade/pacote da linha, convertendo pacote em unidades ao salvar.",
-    "date": "2026-07-12 15:52:46"
+    "version": "1.1.84",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.84/gestor360-1.1.84.zip",
+    "checksum": "51a1ed7e887bea9b833712784e90bdfa394aaba77b4bdcc757ccf561e2fbc313",
+    "notes": "Corrige entrada manual ao salvar e liberar estoque: atualiza códigos do produto, prepara sincronização para terminais e ajusta clique em campos editáveis.",
+    "date": "2026-07-12 16:33:49"
 }
