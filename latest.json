@@ -1,7 +1,7 @@
 {
-    "version": "1.1.78",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.78/gestor360-1.1.78.zip",
-    "checksum": "9931f51d752d2923beaf251e06436db4b5d58d47cb44f840c9e383cf671aaf77",
-    "notes": "NFC-e: auto-recuperacao apos falha de conexao (timeout/reset) — consulta a SEFAZ e autoriza sozinha se a nota ja passou, em vez de deixar pendente",
-    "date": "2026-07-11 18:39:31"
+    "version": "1.1.79",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.79/gestor360-1.1.79.zip",
+    "checksum": "83fce615e10e010586b20b361b3623e79b38130a026df3e7d454f8f9adec2cd2",
+    "notes": "Corrige sincronizacao de produtos incompletos entre terminais, recuperando cadastro por snapshot do peer; repara placeholders SYNC e amplia overlay de produtos nas analises.",
+    "date": "2026-07-12 09:45:09"
 }
