@@ -1,7 +1,7 @@
 {
-    "version": "1.1.79",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.79/gestor360-1.1.79.zip",
-    "checksum": "83fce615e10e010586b20b361b3623e79b38130a026df3e7d454f8f9adec2cd2",
-    "notes": "Corrige sincronizacao de produtos incompletos entre terminais, recuperando cadastro por snapshot do peer; repara placeholders SYNC e amplia overlay de produtos nas analises.",
-    "date": "2026-07-12 09:45:09"
+    "version": "1.1.80",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.80/gestor360-1.1.80.zip",
+    "checksum": "05f3bbbec15ad92a73471da6594effe5efcb01ed978c16c449d3ab986cc509ce",
+    "notes": "Tela Produtos compacta (cabeçalho 2 linhas), 2 fontes padronizadas, entrada manual grava/retorna códigos ao editar + botão Salvar e liberar estoque na edição, Corrigir NCM nas rejeitadas",
+    "date": "2026-07-12 11:29:07"
 }
