@@ -1,7 +1,7 @@
 {
-    "version": "1.1.85",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.85/gestor360-1.1.85.zip",
-    "checksum": "3b361d00afdc142e074f07d2bd4b2d6d1b84a1f943a00f314866255a55508720",
-    "notes": "Entrada Manual: rascunho permanece na tela, cadastro rapido de fornecedor em overlay, atalhos F2/F4/F6, Enter/Shift+Enter ajustados, EAN/Cod loja avancam para descricao, linha vazia ignorada, preco medio/estoque_ajuste preservado e scrollbar discreta.",
-    "date": "2026-07-13 10:58:41"
+    "version": "1.1.86",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.86/gestor360-1.1.86.zip",
+    "checksum": "9e6ccfb85a9d9d290c20922ba74a48bbbfa80056cf5d36244f6d10fcc772fdb3",
+    "notes": "NFC-e: recuperar XMLs em lote pela chave (Exportar XMLs); ferramenta de reconciliação de terminal reinstalado",
+    "date": "2026-07-13 12:10:07"
 }
