@@ -1,7 +1,14 @@
 {
-    "version": "1.1.86",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.86/gestor360-1.1.86.zip",
-    "checksum": "9e6ccfb85a9d9d290c20922ba74a48bbbfa80056cf5d36244f6d10fcc772fdb3",
-    "notes": "NFC-e: recuperar XMLs em lote pela chave (Exportar XMLs); ferramenta de reconciliação de terminal reinstalado",
-    "date": "2026-07-13 12:10:07"
+    "version": "1.1.87",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.87/gestor360-1.1.87.zip",
+    "checksum": "7550b225f82928344e9a49d557e32cd9c56b411dcb19dc08e15350fd391d241a",
+    "notes": "Entrada NF-e: suporte a caixa/fardo, pacote e unidade; busca automatica de unidade no overlay; layout compacto/recolhido; alerta de divergencia; valor total editavel; historico acumulado de atualizacoes.",
+    "history": [
+        {
+            "version": "1.1.87",
+            "notes": "Entrada NF-e: suporte a caixa/fardo, pacote e unidade; busca automatica de unidade no overlay; layout compacto/recolhido; alerta de divergencia; valor total editavel; historico acumulado de atualizacoes.",
+            "date": "2026-07-13 18:23:44"
+        }
+    ],
+    "date": "2026-07-13 18:23:44"
 }
