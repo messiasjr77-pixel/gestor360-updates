@@ -1,14 +1,19 @@
 {
-    "version": "1.1.87",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.87/gestor360-1.1.87.zip",
-    "checksum": "7550b225f82928344e9a49d557e32cd9c56b411dcb19dc08e15350fd391d241a",
-    "notes": "Entrada NF-e: suporte a caixa/fardo, pacote e unidade; busca automatica de unidade no overlay; layout compacto/recolhido; alerta de divergencia; valor total editavel; historico acumulado de atualizacoes.",
+    "version": "1.1.88",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.88/gestor360-1.1.88.zip",
+    "checksum": "3d08b30172736c8c8b2a875200605f91480f3d3f8393c43d705656e513000432",
+    "notes": "Entrada NF-e: corrige o desconto por item ao reabrir rascunho — o total nao infla mais (ex.: notas com abatimento). Inclui pendencias de entrada (item que faltou + boleto pra refazer) e melhorias de caixa/pacote.",
     "history": [
+        {
+            "version": "1.1.88",
+            "notes": "Entrada NF-e: corrige o desconto por item ao reabrir rascunho — o total nao infla mais (ex.: notas com abatimento). Inclui pendencias de entrada (item que faltou + boleto pra refazer) e melhorias de caixa/pacote.",
+            "date": "2026-07-13 18:48:38"
+        },
         {
             "version": "1.1.87",
             "notes": "Entrada NF-e: suporte a caixa/fardo, pacote e unidade; busca automatica de unidade no overlay; layout compacto/recolhido; alerta de divergencia; valor total editavel; historico acumulado de atualizacoes.",
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-13 18:23:44"
+    "date": "2026-07-13 18:48:38"
 }
