@@ -1,9 +1,14 @@
 {
-    "version": "1.1.88",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.88/gestor360-1.1.88.zip",
-    "checksum": "3d08b30172736c8c8b2a875200605f91480f3d3f8393c43d705656e513000432",
-    "notes": "Entrada NF-e: corrige o desconto por item ao reabrir rascunho — o total nao infla mais (ex.: notas com abatimento). Inclui pendencias de entrada (item que faltou + boleto pra refazer) e melhorias de caixa/pacote.",
+    "version": "1.1.89",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.89/gestor360-1.1.89.zip",
+    "checksum": "e355b8a97ac8b14ccd8d70e45d8028247c3f9af574286409bf118e582bf2f96d",
+    "notes": "Novo Painel Financeiro com regime de caixa, projecao de 90 dias, analises de contas, despesas, historico e decisoes sugeridas; saldo acumulado com data e valor inicial configuraveis; deep links seguros para pagar e receber; vencimento do crediario; melhorias em contas recorrentes, cofrinho, categorias, estoque, zoom e operacao do PDV; atualizador agora verifica se todos os arquivos foram realmente aplicados.",
     "history": [
+        {
+            "version": "1.1.89",
+            "notes": "Novo Painel Financeiro com regime de caixa, projecao de 90 dias, analises de contas, despesas, historico e decisoes sugeridas; saldo acumulado com data e valor inicial configuraveis; deep links seguros para pagar e receber; vencimento do crediario; melhorias em contas recorrentes, cofrinho, categorias, estoque, zoom e operacao do PDV; atualizador agora verifica se todos os arquivos foram realmente aplicados.",
+            "date": "2026-07-16 10:44:39"
+        },
         {
             "version": "1.1.88",
             "notes": "Entrada NF-e: corrige o desconto por item ao reabrir rascunho — o total nao infla mais (ex.: notas com abatimento). Inclui pendencias de entrada (item que faltou + boleto pra refazer) e melhorias de caixa/pacote.",
@@ -15,5 +20,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-13 18:48:38"
+    "date": "2026-07-16 10:44:39"
 }
