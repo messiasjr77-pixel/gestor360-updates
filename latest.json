@@ -1,9 +1,14 @@
 {
-    "version": "1.1.91",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.91/gestor360-1.1.91.zip",
-    "checksum": "a8c2c52518b2fc2637527391c84a6dd71fdd50d3156cc36fa86875cd9e670bf9",
-    "notes": "Código do fornecedor na entrada manual (aprendizado automático de-para), modal ⚙️ unificado (Pacote/Atacado/Estoque mín.), normalização de boleto ao bipar, cores nas colunas da NF-e, zoom do PDV persistido, subcategoria nível 3 em contas a pagar",
+    "version": "1.1.92",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.92/gestor360-1.1.92.zip",
+    "checksum": "4c002135599f78fd7dc8343c0a0b71a45fb3a9094f808a276a7ea94baa754528",
+    "notes": "Saídas: coluna Item (nível 3), ícones coloridos, fix FK categoria, filtro nível 2; mover subcategoria entre categorias; atalhos Ctrl+G e Alt+D no menu; NCM na entrada manual",
     "history": [
+        {
+            "version": "1.1.92",
+            "notes": "Saídas: coluna Item (nível 3), ícones coloridos, fix FK categoria, filtro nível 2; mover subcategoria entre categorias; atalhos Ctrl+G e Alt+D no menu; NCM na entrada manual",
+            "date": "2026-07-18 12:56:17"
+        },
         {
             "version": "1.1.91",
             "notes": "Código do fornecedor na entrada manual (aprendizado automático de-para), modal ⚙️ unificado (Pacote/Atacado/Estoque mín.), normalização de boleto ao bipar, cores nas colunas da NF-e, zoom do PDV persistido, subcategoria nível 3 em contas a pagar",
@@ -30,5 +35,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-18 09:53:44"
+    "date": "2026-07-18 12:56:17"
 }
