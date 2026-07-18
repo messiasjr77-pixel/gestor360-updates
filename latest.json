@@ -1,9 +1,14 @@
 {
-    "version": "1.1.93",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.93/gestor360-1.1.93.zip",
-    "checksum": "942883e2b3ff9e75e5fe12b230d5b8cb040e9237eea72f9d3b2c1f99fd5e0c9f",
-    "notes": "PDV: F2 Consultar Preco com numeros garrafais (monitores ruins) - bipar mostra preco gigante automatico, Enter na lista tambem, atacado em letra menor. Fix: faixa de busca do PDV nao corta mais (altura dinamica).",
+    "version": "1.1.94",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.94/gestor360-1.1.94.zip",
+    "checksum": "fad5e14cde902858b2077c32cbea0e35092f78b60c3dcc5cef5d934065c7fb29",
+    "notes": "PDV finalizacao: titulo e Total a pagar lado a lado, Pre-visualizar e Finalizar lado a lado, painel de itens mais estreito e painel azul com folga acima dos atalhos (telas ~1024px).",
     "history": [
+        {
+            "version": "1.1.94",
+            "notes": "PDV finalizacao: titulo e Total a pagar lado a lado, Pre-visualizar e Finalizar lado a lado, painel de itens mais estreito e painel azul com folga acima dos atalhos (telas ~1024px).",
+            "date": "2026-07-18 18:43:27"
+        },
         {
             "version": "1.1.93",
             "notes": "PDV: F2 Consultar Preco com numeros garrafais (monitores ruins) - bipar mostra preco gigante automatico, Enter na lista tambem, atacado em letra menor. Fix: faixa de busca do PDV nao corta mais (altura dinamica).",
@@ -35,5 +40,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-18 16:32:18"
+    "date": "2026-07-18 18:43:27"
 }
