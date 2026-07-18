@@ -1,9 +1,14 @@
 {
-    "version": "1.1.90",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.90/gestor360-1.1.90.zip",
-    "checksum": "0a43c5cf3140765df28a20dc35f34c4c0f609a9ba33c6104f121722be1f736bf",
-    "notes": "Unifica categorias de contas a pagar e corrige o cadastro de novas subcategorias.",
+    "version": "1.1.91",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.91/gestor360-1.1.91.zip",
+    "checksum": "a8c2c52518b2fc2637527391c84a6dd71fdd50d3156cc36fa86875cd9e670bf9",
+    "notes": "Código do fornecedor na entrada manual (aprendizado automático de-para), modal ⚙️ unificado (Pacote/Atacado/Estoque mín.), normalização de boleto ao bipar, cores nas colunas da NF-e, zoom do PDV persistido, subcategoria nível 3 em contas a pagar",
     "history": [
+        {
+            "version": "1.1.91",
+            "notes": "Código do fornecedor na entrada manual (aprendizado automático de-para), modal ⚙️ unificado (Pacote/Atacado/Estoque mín.), normalização de boleto ao bipar, cores nas colunas da NF-e, zoom do PDV persistido, subcategoria nível 3 em contas a pagar",
+            "date": "2026-07-18 09:53:44"
+        },
         {
             "version": "1.1.90",
             "notes": "Unifica categorias de contas a pagar e corrige o cadastro de novas subcategorias.",
@@ -25,5 +30,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-16 11:18:10"
+    "date": "2026-07-18 09:53:44"
 }
