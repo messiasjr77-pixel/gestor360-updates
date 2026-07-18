@@ -1,13 +1,13 @@
 {
-    "version": "1.1.92",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.92/gestor360-1.1.92.zip",
-    "checksum": "4c002135599f78fd7dc8343c0a0b71a45fb3a9094f808a276a7ea94baa754528",
-    "notes": "Saídas: coluna Item (nível 3), ícones coloridos, fix FK categoria, filtro nível 2; mover subcategoria entre categorias; atalhos Ctrl+G e Alt+D no menu; NCM na entrada manual",
+    "version": "1.1.93",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.93/gestor360-1.1.93.zip",
+    "checksum": "942883e2b3ff9e75e5fe12b230d5b8cb040e9237eea72f9d3b2c1f99fd5e0c9f",
+    "notes": "PDV: F2 Consultar Preco com numeros garrafais (monitores ruins) - bipar mostra preco gigante automatico, Enter na lista tambem, atacado em letra menor. Fix: faixa de busca do PDV nao corta mais (altura dinamica).",
     "history": [
         {
-            "version": "1.1.92",
-            "notes": "Saídas: coluna Item (nível 3), ícones coloridos, fix FK categoria, filtro nível 2; mover subcategoria entre categorias; atalhos Ctrl+G e Alt+D no menu; NCM na entrada manual",
-            "date": "2026-07-18 12:56:17"
+            "version": "1.1.93",
+            "notes": "PDV: F2 Consultar Preco com numeros garrafais (monitores ruins) - bipar mostra preco gigante automatico, Enter na lista tambem, atacado em letra menor. Fix: faixa de busca do PDV nao corta mais (altura dinamica).",
+            "date": "2026-07-18 16:32:18"
         },
         {
             "version": "1.1.91",
@@ -35,5 +35,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-18 12:56:17"
+    "date": "2026-07-18 16:32:18"
 }
