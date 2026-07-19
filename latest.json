@@ -1,9 +1,14 @@
 {
-    "version": "1.1.94",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.94/gestor360-1.1.94.zip",
-    "checksum": "fad5e14cde902858b2077c32cbea0e35092f78b60c3dcc5cef5d934065c7fb29",
-    "notes": "PDV finalizacao: titulo e Total a pagar lado a lado, Pre-visualizar e Finalizar lado a lado, painel de itens mais estreito e painel azul com folga acima dos atalhos (telas ~1024px).",
+    "version": "1.1.95",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.95/gestor360-1.1.95.zip",
+    "checksum": "87714e32ebef3f6a03fd446d99e61a74b541004cb66ce5bf0c392a1aa4084e5c",
+    "notes": "Cupom GDI: espacamento entre linhas mais compacto (economiza papel) e QR Code do NFC-e reduzido pela metade. Metodo/impressora configuraveis em Admin > Impressora.",
     "history": [
+        {
+            "version": "1.1.95",
+            "notes": "Cupom GDI: espacamento entre linhas mais compacto (economiza papel) e QR Code do NFC-e reduzido pela metade. Metodo/impressora configuraveis em Admin > Impressora.",
+            "date": "2026-07-19 19:03:49"
+        },
         {
             "version": "1.1.94",
             "notes": "PDV finalizacao: titulo e Total a pagar lado a lado, Pre-visualizar e Finalizar lado a lado, painel de itens mais estreito e painel azul com folga acima dos atalhos (telas ~1024px).",
@@ -40,5 +45,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-18 18:43:27"
+    "date": "2026-07-19 19:03:49"
 }
