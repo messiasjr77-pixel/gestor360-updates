@@ -1,9 +1,14 @@
 {
-    "version": "1.1.95",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.95/gestor360-1.1.95.zip",
-    "checksum": "87714e32ebef3f6a03fd446d99e61a74b541004cb66ce5bf0c392a1aa4084e5c",
-    "notes": "Cupom GDI: espacamento entre linhas mais compacto (economiza papel) e QR Code do NFC-e reduzido pela metade. Metodo/impressora configuraveis em Admin > Impressora.",
+    "version": "1.1.96",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.96/gestor360-1.1.96.zip",
+    "checksum": "56ac6c4e9850482e66aeb0d6fa4939d97f1ac6c32e419aec791e076283cb9a66",
+    "notes": "Admin > Impressora: diagnostico e reparo da impressora do Windows (mostra porta/status, botao Corrigir porta e limpar fila) - facilita configurar o metodo GDI em novos terminais.",
     "history": [
+        {
+            "version": "1.1.96",
+            "notes": "Admin > Impressora: diagnostico e reparo da impressora do Windows (mostra porta/status, botao Corrigir porta e limpar fila) - facilita configurar o metodo GDI em novos terminais.",
+            "date": "2026-07-19 20:01:23"
+        },
         {
             "version": "1.1.95",
             "notes": "Cupom GDI: espacamento entre linhas mais compacto (economiza papel) e QR Code do NFC-e reduzido pela metade. Metodo/impressora configuraveis em Admin > Impressora.",
@@ -45,5 +50,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-19 19:03:49"
+    "date": "2026-07-19 20:01:23"
 }
