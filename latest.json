@@ -1,18 +1,33 @@
 {
-    "version": "1.1.93",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.93/gestor360-1.1.93.zip",
-    "checksum": "de068290ae51e059998e10a3178bec37d585086f0e6192056ffb4d5028b85e08",
-    "notes": "PDV: encontra o pacote digitando o nome do produto (nao so o codigo) e cobra o preco cadastrado da embalagem tambem na lista de sugestoes. Entrada manual: estoque so entra no Finalizar (rascunho nao mexe no saldo), marcador de conferencia por linha, consulta de Produtos (F3) com vendas por periodo, rodape com subtotal/desconto/total. Saidas: coluna Item e cadastro de item pelo proprio formulario.",
+    "version": "1.1.97",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.97/gestor360-1.1.97.zip",
+    "checksum": "0ea8682ef825243fe0cf3dde16245fbd4f3286015385886a792e2444f14918fa",
+    "notes": "PDV: agora da pra achar o produto de PACOTE digitando o nome, sem precisar do codigo do fardo - a embalagem aparece como uma linha propria na lista. Corrige tambem o preco do pacote na lista de sugestoes, que cobrava unidade x quantidade em vez do preco cadastrado da embalagem. Entrada manual: o estoque so e movimentado ao Finalizar (salvar rascunho nao altera mais o saldo), marcador de conferencia por linha, consulta de Produtos (F3) com vendas por periodo e rodape com subtotal/desconto/total. Saidas: coluna Item e cadastro de item pelo proprio formulario.",
     "history": [
         {
-            "version": "1.1.93",
-            "notes": "PDV: encontra o pacote digitando o nome do produto (nao so o codigo) e cobra o preco cadastrado da embalagem tambem na lista de sugestoes. Entrada manual: estoque so entra no Finalizar (rascunho nao mexe no saldo), marcador de conferencia por linha, consulta de Produtos (F3) com vendas por periodo, rodape com subtotal/desconto/total. Saidas: coluna Item e cadastro de item pelo proprio formulario.",
-            "date": "2026-07-20 18:49:51"
+            "version": "1.1.97",
+            "notes": "PDV: agora da pra achar o produto de PACOTE digitando o nome, sem precisar do codigo do fardo - a embalagem aparece como uma linha propria na lista. Corrige tambem o preco do pacote na lista de sugestoes, que cobrava unidade x quantidade em vez do preco cadastrado da embalagem. Entrada manual: o estoque so e movimentado ao Finalizar (salvar rascunho nao altera mais o saldo), marcador de conferencia por linha, consulta de Produtos (F3) com vendas por periodo e rodape com subtotal/desconto/total. Saidas: coluna Item e cadastro de item pelo proprio formulario.",
+            "date": "2026-07-20 18:56:37"
         },
         {
-            "version": "1.1.92",
-            "notes": "Saídas: coluna Item (nível 3), ícones coloridos, fix FK categoria, filtro nível 2; mover subcategoria entre categorias; atalhos Ctrl+G e Alt+D no menu; NCM na entrada manual",
-            "date": "2026-07-18 12:56:17"
+            "version": "1.1.96",
+            "notes": "Admin > Impressora: diagnostico e reparo da impressora do Windows (mostra porta/status, botao Corrigir porta e limpar fila) - facilita configurar o metodo GDI em novos terminais.",
+            "date": "2026-07-19 20:01:23"
+        },
+        {
+            "version": "1.1.95",
+            "notes": "Cupom GDI: espacamento entre linhas mais compacto (economiza papel) e QR Code do NFC-e reduzido pela metade. Metodo/impressora configuraveis em Admin > Impressora.",
+            "date": "2026-07-19 19:03:49"
+        },
+        {
+            "version": "1.1.94",
+            "notes": "PDV finalizacao: titulo e Total a pagar lado a lado, Pre-visualizar e Finalizar lado a lado, painel de itens mais estreito e painel azul com folga acima dos atalhos (telas ~1024px).",
+            "date": "2026-07-18 18:43:27"
+        },
+        {
+            "version": "1.1.93",
+            "notes": "PDV: F2 Consultar Preco com numeros garrafais (monitores ruins) - bipar mostra preco gigante automatico, Enter na lista tambem, atacado em letra menor. Fix: faixa de busca do PDV nao corta mais (altura dinamica).",
+            "date": "2026-07-18 16:32:18"
         },
         {
             "version": "1.1.91",
@@ -40,5 +55,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-20 18:49:51"
+    "date": "2026-07-20 18:56:37"
 }
