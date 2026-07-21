@@ -1,9 +1,14 @@
 {
-    "version": "1.1.97",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.97/gestor360-1.1.97.zip",
-    "checksum": "0ea8682ef825243fe0cf3dde16245fbd4f3286015385886a792e2444f14918fa",
-    "notes": "PDV: agora da pra achar o produto de PACOTE digitando o nome, sem precisar do codigo do fardo - a embalagem aparece como uma linha propria na lista. Corrige tambem o preco do pacote na lista de sugestoes, que cobrava unidade x quantidade em vez do preco cadastrado da embalagem. Entrada manual: o estoque so e movimentado ao Finalizar (salvar rascunho nao altera mais o saldo), marcador de conferencia por linha, consulta de Produtos (F3) com vendas por periodo e rodape com subtotal/desconto/total. Saidas: coluna Item e cadastro de item pelo proprio formulario.",
+    "version": "1.1.98",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.98/gestor360-1.1.98.zip",
+    "checksum": "9aa193e7578a2aca6eaee3558323942721ee900e50bb7fa3f4e1d46240917805",
+    "notes": "NFC-e: serie por caixa para corrigir duplicidade (cada caixa emite na sua propria serie, configurada em Admin -> Fiscal). Entrada manual: correcao de estoque persiste ao reabrir rascunho. Notas pendentes: sugestao automatica de NCM pelo nome do produto.",
     "history": [
+        {
+            "version": "1.1.98",
+            "notes": "NFC-e: serie por caixa para corrigir duplicidade (cada caixa emite na sua propria serie, configurada em Admin -> Fiscal). Entrada manual: correcao de estoque persiste ao reabrir rascunho. Notas pendentes: sugestao automatica de NCM pelo nome do produto.",
+            "date": "2026-07-21 16:20:57"
+        },
         {
             "version": "1.1.97",
             "notes": "PDV: agora da pra achar o produto de PACOTE digitando o nome, sem precisar do codigo do fardo - a embalagem aparece como uma linha propria na lista. Corrige tambem o preco do pacote na lista de sugestoes, que cobrava unidade x quantidade em vez do preco cadastrado da embalagem. Entrada manual: o estoque so e movimentado ao Finalizar (salvar rascunho nao altera mais o saldo), marcador de conferencia por linha, consulta de Produtos (F3) com vendas por periodo e rodape com subtotal/desconto/total. Saidas: coluna Item e cadastro de item pelo proprio formulario.",
@@ -55,5 +60,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-20 18:56:37"
+    "date": "2026-07-21 16:20:57"
 }
