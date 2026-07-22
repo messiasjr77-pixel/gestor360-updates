@@ -1,9 +1,14 @@
 {
-    "version": "1.1.99",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.99/gestor360-1.1.99.zip",
-    "checksum": "f88dc416214e474da5c9cf7d3f0e493bc613bc3e1e18072cae30a01a52068275",
-    "notes": "App mobile de estoque: consulta offline, pareamento de dispositivos, entrada, contagem e impressao de etiquetas.",
+    "version": "1.1.100",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.100/gestor360-1.1.100.zip",
+    "checksum": "ff8eea0336a250596c8d213efe91266799e7a651531e1b9e8976449a3911595b",
+    "notes": "Adiciona exclusao segura de dispositivos mobile.",
     "history": [
+        {
+            "version": "1.1.100",
+            "notes": "Adiciona exclusao segura de dispositivos mobile.",
+            "date": "2026-07-22 14:06:20"
+        },
         {
             "version": "1.1.99",
             "notes": "App mobile de estoque: consulta offline, pareamento de dispositivos, entrada, contagem e impressao de etiquetas.",
@@ -65,5 +70,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-22 08:43:29"
+    "date": "2026-07-22 14:06:20"
 }
