@@ -1,9 +1,14 @@
 {
-    "version": "1.1.100",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.100/gestor360-1.1.100.zip",
-    "checksum": "ff8eea0336a250596c8d213efe91266799e7a651531e1b9e8976449a3911595b",
-    "notes": "Adiciona exclusao segura de dispositivos mobile.",
+    "version": "1.1.101",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.101/gestor360-1.1.101.zip",
+    "checksum": "c71364669187a949f7c5a564562b954970b252b24432c79fcd39cba88fc9e846",
+    "notes": "App mobile: edicao por toque do estoque e estoque minimo; vendas dos ultimos 30 dias",
     "history": [
+        {
+            "version": "1.1.101",
+            "notes": "App mobile: edicao por toque do estoque e estoque minimo; vendas dos ultimos 30 dias",
+            "date": "2026-07-22 16:21:35"
+        },
         {
             "version": "1.1.100",
             "notes": "Adiciona exclusao segura de dispositivos mobile.",
@@ -70,5 +75,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-22 14:06:20"
+    "date": "2026-07-22 16:21:35"
 }
