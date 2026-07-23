@@ -1,9 +1,14 @@
 {
-    "version": "1.1.101",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.101/gestor360-1.1.101.zip",
-    "checksum": "c71364669187a949f7c5a564562b954970b252b24432c79fcd39cba88fc9e846",
-    "notes": "App mobile: edicao por toque do estoque e estoque minimo; vendas dos ultimos 30 dias",
+    "version": "1.1.102",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.102/gestor360-1.1.102.zip",
+    "checksum": "d4263ffdaadb3b82cbe397431cab832a02f6ecf71d01987bc8c0fe2a6461ea9c",
+    "notes": "Fluxo de Caixa: ver os produtos da nota em cada duplicata/conta (botao itens) e categoria do caixa agrupada pela subcategoria correta. Historico de fechamentos do PDV: abre so a lista, clique mostra o detalhe em tela cheia sem rolagem, filtros e altura melhorados.",
     "history": [
+        {
+            "version": "1.1.102",
+            "notes": "Fluxo de Caixa: ver os produtos da nota em cada duplicata/conta (botao itens) e categoria do caixa agrupada pela subcategoria correta. Historico de fechamentos do PDV: abre so a lista, clique mostra o detalhe em tela cheia sem rolagem, filtros e altura melhorados.",
+            "date": "2026-07-23 17:22:00"
+        },
         {
             "version": "1.1.101",
             "notes": "App mobile: edicao por toque do estoque e estoque minimo; vendas dos ultimos 30 dias",
@@ -75,5 +80,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-22 16:21:35"
+    "date": "2026-07-23 17:22:00"
 }
