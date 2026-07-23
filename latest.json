@@ -1,9 +1,14 @@
 {
-    "version": "1.1.102",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.102/gestor360-1.1.102.zip",
-    "checksum": "d4263ffdaadb3b82cbe397431cab832a02f6ecf71d01987bc8c0fe2a6461ea9c",
-    "notes": "Fluxo de Caixa: ver os produtos da nota em cada duplicata/conta (botao itens) e categoria do caixa agrupada pela subcategoria correta. Historico de fechamentos do PDV: abre so a lista, clique mostra o detalhe em tela cheia sem rolagem, filtros e altura melhorados.",
+    "version": "1.1.103",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.103/gestor360-1.1.103.zip",
+    "checksum": "5fa311237a775358f59148820a8ca5e83252a3a76f1c97f37f01b94af3020cb8",
+    "notes": "Pendencias fiscais e operacionais: estimativa do DAS, painel NFC-e, data no abastecimento, trava de caixa para admin e verificacao de codigo na entrada NF-e",
     "history": [
+        {
+            "version": "1.1.103",
+            "notes": "Pendencias fiscais e operacionais: estimativa do DAS, painel NFC-e, data no abastecimento, trava de caixa para admin e verificacao de codigo na entrada NF-e",
+            "date": "2026-07-23 18:27:34"
+        },
         {
             "version": "1.1.102",
             "notes": "Fluxo de Caixa: ver os produtos da nota em cada duplicata/conta (botao itens) e categoria do caixa agrupada pela subcategoria correta. Historico de fechamentos do PDV: abre so a lista, clique mostra o detalhe em tela cheia sem rolagem, filtros e altura melhorados.",
@@ -80,5 +85,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-23 17:22:00"
+    "date": "2026-07-23 18:27:34"
 }
