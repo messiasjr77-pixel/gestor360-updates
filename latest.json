@@ -1,9 +1,14 @@
 {
-    "version": "1.1.103",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.103/gestor360-1.1.103.zip",
-    "checksum": "5fa311237a775358f59148820a8ca5e83252a3a76f1c97f37f01b94af3020cb8",
-    "notes": "Pendencias fiscais e operacionais: estimativa do DAS, painel NFC-e, data no abastecimento, trava de caixa para admin e verificacao de codigo na entrada NF-e",
+    "version": "1.1.104",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.104/gestor360-1.1.104.zip",
+    "checksum": "6ee9ba2d02d4c1741e5fe7b4f501957dfc8beb302fd46d56b8082d6ecf722c75",
+    "notes": "Filtros por periodo, melhorias na entrada manual, saneamento cadastral, ajustes financeiros e correcoes operacionais.",
     "history": [
+        {
+            "version": "1.1.104",
+            "notes": "Filtros por periodo, melhorias na entrada manual, saneamento cadastral, ajustes financeiros e correcoes operacionais.",
+            "date": "2026-07-25 13:10:04"
+        },
         {
             "version": "1.1.103",
             "notes": "Pendencias fiscais e operacionais: estimativa do DAS, painel NFC-e, data no abastecimento, trava de caixa para admin e verificacao de codigo na entrada NF-e",
@@ -85,5 +90,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-23 18:27:34"
+    "date": "2026-07-25 13:10:04"
 }
