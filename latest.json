@@ -1,9 +1,14 @@
 {
-    "version": "1.1.104",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.104/gestor360-1.1.104.zip",
-    "checksum": "6ee9ba2d02d4c1741e5fe7b4f501957dfc8beb302fd46d56b8082d6ecf722c75",
-    "notes": "Filtros por periodo, melhorias na entrada manual, saneamento cadastral, ajustes financeiros e correcoes operacionais.",
+    "version": "1.1.105",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.105/gestor360-1.1.105.zip",
+    "checksum": "372f13f886ae7b37ad9c7f5e2320a5d8bf62291da7f32c01a96d7ba5e9ad1fd8",
+    "notes": "Produtos: bloqueia cadastro/edicao com preco de venda abaixo do custo (Cadastro de produtos e Painel de Vendas); entradas de NF-e/manual nao travam. Produtos Alterados: mostra o usuario que alterou o preco.",
     "history": [
+        {
+            "version": "1.1.105",
+            "notes": "Produtos: bloqueia cadastro/edicao com preco de venda abaixo do custo (Cadastro de produtos e Painel de Vendas); entradas de NF-e/manual nao travam. Produtos Alterados: mostra o usuario que alterou o preco.",
+            "date": "2026-07-25 15:23:59"
+        },
         {
             "version": "1.1.104",
             "notes": "Filtros por periodo, melhorias na entrada manual, saneamento cadastral, ajustes financeiros e correcoes operacionais.",
@@ -90,5 +95,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-25 13:10:04"
+    "date": "2026-07-25 15:23:59"
 }
