@@ -1,9 +1,14 @@
 {
-    "version": "1.1.105",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.105/gestor360-1.1.105.zip",
-    "checksum": "372f13f886ae7b37ad9c7f5e2320a5d8bf62291da7f32c01a96d7ba5e9ad1fd8",
-    "notes": "Produtos: bloqueia cadastro/edicao com preco de venda abaixo do custo (Cadastro de produtos e Painel de Vendas); entradas de NF-e/manual nao travam. Produtos Alterados: mostra o usuario que alterou o preco.",
+    "version": "1.1.106",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.106/gestor360-1.1.106.zip",
+    "checksum": "55cfd5bbdfc9385be17d2ece14ee5f6b66a7298446743d37de11ab15c7b9ec02",
+    "notes": "Corrige sincronizacao da recategorizacao de contas a pagar e adiciona reenvio das contas corrigidas no CAIXA2",
     "history": [
+        {
+            "version": "1.1.106",
+            "notes": "Corrige sincronizacao da recategorizacao de contas a pagar e adiciona reenvio das contas corrigidas no CAIXA2",
+            "date": "2026-07-25 16:32:32"
+        },
         {
             "version": "1.1.105",
             "notes": "Produtos: bloqueia cadastro/edicao com preco de venda abaixo do custo (Cadastro de produtos e Painel de Vendas); entradas de NF-e/manual nao travam. Produtos Alterados: mostra o usuario que alterou o preco.",
@@ -95,5 +100,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-25 15:23:59"
+    "date": "2026-07-25 16:32:32"
 }
