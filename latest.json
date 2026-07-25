@@ -1,9 +1,14 @@
 {
-    "version": "1.1.106",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.106/gestor360-1.1.106.zip",
-    "checksum": "55cfd5bbdfc9385be17d2ece14ee5f6b66a7298446743d37de11ab15c7b9ec02",
-    "notes": "Corrige sincronizacao da recategorizacao de contas a pagar e adiciona reenvio das contas corrigidas no CAIXA2",
+    "version": "1.1.107",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.107/gestor360-1.1.107.zip",
+    "checksum": "e80a0081e80c444d6b58b66f1ff6330f08cd2394fb43e74ec880f0364ce46335",
+    "notes": "Padroniza a subcategoria FORNECEDOR - FORMAL NF-E, oculta subcategorias financeiras desativadas e inclui rotina de normalizacao",
     "history": [
+        {
+            "version": "1.1.107",
+            "notes": "Padroniza a subcategoria FORNECEDOR - FORMAL NF-E, oculta subcategorias financeiras desativadas e inclui rotina de normalizacao",
+            "date": "2026-07-25 18:08:08"
+        },
         {
             "version": "1.1.106",
             "notes": "Corrige sincronizacao da recategorizacao de contas a pagar e adiciona reenvio das contas corrigidas no CAIXA2",
@@ -100,5 +105,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-25 16:32:32"
+    "date": "2026-07-25 18:08:08"
 }
