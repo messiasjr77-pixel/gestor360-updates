@@ -1,9 +1,14 @@
 {
-    "version": "1.1.107",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.107/gestor360-1.1.107.zip",
-    "checksum": "e80a0081e80c444d6b58b66f1ff6330f08cd2394fb43e74ec880f0364ce46335",
-    "notes": "Padroniza a subcategoria FORNECEDOR - FORMAL NF-E, oculta subcategorias financeiras desativadas e inclui rotina de normalizacao",
+    "version": "1.1.108",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.108/gestor360-1.1.108.zip",
+    "checksum": "4a4e99917615c84518e3b2121e825655abe44e50cc7be4ca126cb06d6d509870",
+    "notes": "PDV: Ctrl+F8 agora cicla 3 modos de NFC-e automatica - desligada (padrao), ativa e imprime (verde), ativa sem imprimir (azul: emite a nota mas nao sai no papel).",
     "history": [
+        {
+            "version": "1.1.108",
+            "notes": "PDV: Ctrl+F8 agora cicla 3 modos de NFC-e automatica - desligada (padrao), ativa e imprime (verde), ativa sem imprimir (azul: emite a nota mas nao sai no papel).",
+            "date": "2026-07-27 10:36:06"
+        },
         {
             "version": "1.1.107",
             "notes": "Padroniza a subcategoria FORNECEDOR - FORMAL NF-E, oculta subcategorias financeiras desativadas e inclui rotina de normalizacao",
@@ -105,5 +110,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-25 18:08:08"
+    "date": "2026-07-27 10:36:06"
 }
