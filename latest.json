@@ -1,9 +1,14 @@
 {
-    "version": "1.1.108",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.108/gestor360-1.1.108.zip",
-    "checksum": "4a4e99917615c84518e3b2121e825655abe44e50cc7be4ca126cb06d6d509870",
-    "notes": "PDV: Ctrl+F8 agora cicla 3 modos de NFC-e automatica - desligada (padrao), ativa e imprime (verde), ativa sem imprimir (azul: emite a nota mas nao sai no papel).",
+    "version": "1.1.109",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.109/gestor360-1.1.109.zip",
+    "checksum": "818faeba7b7d3badb1c8255d37e6d945b3f901d14d7a4a2a58de79eae8bedfa7",
+    "notes": "Cadastro de produtos: Grupo/Subgrupo viram lista cadastravel (selects + botao +, com overlay para criar/renomear/excluir); Grupo obrigatorio. Precos e Margens: todos os campos editaveis (Unidade e Pacote), coluna Margem antes do Preco de venda, Enter/Shift+Enter navega entre campos. NCM aceita colar com pontos. Produtos Alterados: nova aba Produtos novos. Contas a Pagar: clicar no fornecedor mostra os produtos da nota. Estoque: nova tela Compras por Fornecedor (itens comprados por fornecedor + periodo).",
     "history": [
+        {
+            "version": "1.1.109",
+            "notes": "Cadastro de produtos: Grupo/Subgrupo viram lista cadastravel (selects + botao +, com overlay para criar/renomear/excluir); Grupo obrigatorio. Precos e Margens: todos os campos editaveis (Unidade e Pacote), coluna Margem antes do Preco de venda, Enter/Shift+Enter navega entre campos. NCM aceita colar com pontos. Produtos Alterados: nova aba Produtos novos. Contas a Pagar: clicar no fornecedor mostra os produtos da nota. Estoque: nova tela Compras por Fornecedor (itens comprados por fornecedor + periodo).",
+            "date": "2026-07-27 15:19:20"
+        },
         {
             "version": "1.1.108",
             "notes": "PDV: Ctrl+F8 agora cicla 3 modos de NFC-e automatica - desligada (padrao), ativa e imprime (verde), ativa sem imprimir (azul: emite a nota mas nao sai no papel).",
@@ -110,5 +115,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-27 10:36:06"
+    "date": "2026-07-27 15:19:20"
 }
