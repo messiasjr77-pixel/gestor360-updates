@@ -1,9 +1,14 @@
 {
-    "version": "1.1.110",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.110/gestor360-1.1.110.zip",
-    "checksum": "dc93b83e757c7ca031c6e721a416ca7b80fc58d1ce353f133a384d8ec04c047f",
-    "notes": "Recibo de crediario em 2 vias (operador + cliente com as contas pagas); Saneamento: coluna 'Ja vendeu com prejuizo?' (prejuizo real); fix fuso na 'ultima venda' (nao aparece mais no futuro); tela Produtos Alterados mostra EAN certo (por uuid).",
+    "version": "1.1.111",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.111/gestor360-1.1.111.zip",
+    "checksum": "3fc3d65b03a94d4e1e6d892123f348940d5aae33dc4cdc1686b136373f235c5f",
+    "notes": "Usuarios: removidos os genericos Administrador e Vendedor (agora sao apenas PERFIL de usuarios nomeados); seed nao recria em terminal ja pareado. Entrada de mercadorias: aviso ao finalizar sem boleto/duplicata.",
     "history": [
+        {
+            "version": "1.1.111",
+            "notes": "Usuarios: removidos os genericos Administrador e Vendedor (agora sao apenas PERFIL de usuarios nomeados); seed nao recria em terminal ja pareado. Entrada de mercadorias: aviso ao finalizar sem boleto/duplicata.",
+            "date": "2026-07-29 15:37:26"
+        },
         {
             "version": "1.1.110",
             "notes": "Recibo de crediario em 2 vias (operador + cliente com as contas pagas); Saneamento: coluna 'Ja vendeu com prejuizo?' (prejuizo real); fix fuso na 'ultima venda' (nao aparece mais no futuro); tela Produtos Alterados mostra EAN certo (por uuid).",
@@ -120,5 +125,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-29 10:16:02"
+    "date": "2026-07-29 15:37:26"
 }
