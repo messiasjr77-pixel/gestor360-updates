@@ -1,9 +1,14 @@
 {
-    "version": "1.1.109",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.109/gestor360-1.1.109.zip",
-    "checksum": "818faeba7b7d3badb1c8255d37e6d945b3f901d14d7a4a2a58de79eae8bedfa7",
-    "notes": "Cadastro de produtos: Grupo/Subgrupo viram lista cadastravel (selects + botao +, com overlay para criar/renomear/excluir); Grupo obrigatorio. Precos e Margens: todos os campos editaveis (Unidade e Pacote), coluna Margem antes do Preco de venda, Enter/Shift+Enter navega entre campos. NCM aceita colar com pontos. Produtos Alterados: nova aba Produtos novos. Contas a Pagar: clicar no fornecedor mostra os produtos da nota. Estoque: nova tela Compras por Fornecedor (itens comprados por fornecedor + periodo).",
+    "version": "1.1.110",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.110/gestor360-1.1.110.zip",
+    "checksum": "dc93b83e757c7ca031c6e721a416ca7b80fc58d1ce353f133a384d8ec04c047f",
+    "notes": "Recibo de crediario em 2 vias (operador + cliente com as contas pagas); Saneamento: coluna 'Ja vendeu com prejuizo?' (prejuizo real); fix fuso na 'ultima venda' (nao aparece mais no futuro); tela Produtos Alterados mostra EAN certo (por uuid).",
     "history": [
+        {
+            "version": "1.1.110",
+            "notes": "Recibo de crediario em 2 vias (operador + cliente com as contas pagas); Saneamento: coluna 'Ja vendeu com prejuizo?' (prejuizo real); fix fuso na 'ultima venda' (nao aparece mais no futuro); tela Produtos Alterados mostra EAN certo (por uuid).",
+            "date": "2026-07-29 10:16:02"
+        },
         {
             "version": "1.1.109",
             "notes": "Cadastro de produtos: Grupo/Subgrupo viram lista cadastravel (selects + botao +, com overlay para criar/renomear/excluir); Grupo obrigatorio. Precos e Margens: todos os campos editaveis (Unidade e Pacote), coluna Margem antes do Preco de venda, Enter/Shift+Enter navega entre campos. NCM aceita colar com pontos. Produtos Alterados: nova aba Produtos novos. Contas a Pagar: clicar no fornecedor mostra os produtos da nota. Estoque: nova tela Compras por Fornecedor (itens comprados por fornecedor + periodo).",
@@ -115,5 +120,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-27 15:19:20"
+    "date": "2026-07-29 10:16:02"
 }
