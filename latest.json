@@ -1,9 +1,14 @@
 {
-    "version": "1.1.111",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.111/gestor360-1.1.111.zip",
-    "checksum": "3fc3d65b03a94d4e1e6d892123f348940d5aae33dc4cdc1686b136373f235c5f",
-    "notes": "Usuarios: removidos os genericos Administrador e Vendedor (agora sao apenas PERFIL de usuarios nomeados); seed nao recria em terminal ja pareado. Entrada de mercadorias: aviso ao finalizar sem boleto/duplicata.",
+    "version": "1.1.112",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.112/gestor360-1.1.112.zip",
+    "checksum": "6e5eb52563302a8c01e9c518ef29e330d56785f3ed9a5779bc62c5eec0b9a1c0",
+    "notes": "Numeracao de vendas por caixa (fim de numeros duplicados entre caixas). NFC-e: 'Corrigir NCM' mostra so o produto rejeitado; correcao da Rejeicao 866 (troco/arredondamento). Produtos: botao 'Verificar codigo'; ao atualizar mantem os dados na tela; coluna Cod. EAN em Produtos Alterados. Saneamento: opcao de novo preco de custo. Manutencao: diagnostico de plano de energia + Defender mais confiavel; otimizador reinicia os servicos sozinho.",
     "history": [
+        {
+            "version": "1.1.112",
+            "notes": "Numeracao de vendas por caixa (fim de numeros duplicados entre caixas). NFC-e: 'Corrigir NCM' mostra so o produto rejeitado; correcao da Rejeicao 866 (troco/arredondamento). Produtos: botao 'Verificar codigo'; ao atualizar mantem os dados na tela; coluna Cod. EAN em Produtos Alterados. Saneamento: opcao de novo preco de custo. Manutencao: diagnostico de plano de energia + Defender mais confiavel; otimizador reinicia os servicos sozinho.",
+            "date": "2026-07-30 08:36:27"
+        },
         {
             "version": "1.1.111",
             "notes": "Usuarios: removidos os genericos Administrador e Vendedor (agora sao apenas PERFIL de usuarios nomeados); seed nao recria em terminal ja pareado. Entrada de mercadorias: aviso ao finalizar sem boleto/duplicata.",
@@ -125,5 +130,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-29 15:37:26"
+    "date": "2026-07-30 08:36:27"
 }
