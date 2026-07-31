@@ -1,9 +1,14 @@
 {
-    "version": "1.1.115",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.115/gestor360-1.1.115.zip",
-    "checksum": "3c9b783e8510c778c4510b195b28be3189c524490cb8ef5c0825bddc4e2ee624",
-    "notes": "Entrada Manual: tela vira so cadastro/estoque de produtos; ao finalizar pergunta se quer lancar em Contas a Pagar (abre overlay Nova conta). Contas a Pagar WhatsApp: botao Voltar (nao trava mais no WebView2). Estoque: edicao manual limpa residuo de ponto flutuante (ex.: -4.8e-13 vira 0). PDV: alerta 'produto nao cadastrado' so fecha com Enter/ESC deliberado (leitor nao dispensa sozinho).",
+    "version": "1.1.116",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.116/gestor360-1.1.116.zip",
+    "checksum": "66d73b66238d9354bb48b4eacbcd347f38ded0a5f2c2543317f3aff66fd1d6e0",
+    "notes": "PDV: cancelar item (F5) agora seleciona direto no carrinho — a linha destaca em laranja, setas navegam e Enter cancela, sem escurecer a tela. Remocao da nota de campos obrigatorios na entrada manual.",
     "history": [
+        {
+            "version": "1.1.116",
+            "notes": "PDV: cancelar item (F5) agora seleciona direto no carrinho — a linha destaca em laranja, setas navegam e Enter cancela, sem escurecer a tela. Remocao da nota de campos obrigatorios na entrada manual.",
+            "date": "2026-07-31 16:32:41"
+        },
         {
             "version": "1.1.115",
             "notes": "Entrada Manual: tela vira so cadastro/estoque de produtos; ao finalizar pergunta se quer lancar em Contas a Pagar (abre overlay Nova conta). Contas a Pagar WhatsApp: botao Voltar (nao trava mais no WebView2). Estoque: edicao manual limpa residuo de ponto flutuante (ex.: -4.8e-13 vira 0). PDV: alerta 'produto nao cadastrado' so fecha com Enter/ESC deliberado (leitor nao dispensa sozinho).",
@@ -145,5 +150,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-31 15:44:00"
+    "date": "2026-07-31 16:32:41"
 }
