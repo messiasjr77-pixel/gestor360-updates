@@ -1,9 +1,14 @@
 {
-    "version": "1.1.113",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.113/gestor360-1.1.113.zip",
-    "checksum": "16e1c45faba1b68c60d51430fcfbc2d78832d931742f733fcc2ee6aa7d32008b",
-    "notes": "Nova tela Financeiro > Quebra de Caixa (diferencas por operador p/ contabilidade). Entrada Manual/Ajustes do produto: valida codigo da loja ja em uso ao memorizar, sincroniza os 2 campos de codigo, e a apresentacao do pacote herda o nome do produto.",
+    "version": "1.1.114",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.114/gestor360-1.1.114.zip",
+    "checksum": "20e6d650874894d653f32a8349f609c765f3947287500a1a47de30f616e59042",
+    "notes": "Contas a Pagar: fornecedor so em Mercadorias (demais categorias travam o campo); nome da conta passa a ser a subcategoria (inclusive ao editar). Saidas: tipo Reserva nao exige categoria/subcategoria (so conferencia).",
     "history": [
+        {
+            "version": "1.1.114",
+            "notes": "Contas a Pagar: fornecedor so em Mercadorias (demais categorias travam o campo); nome da conta passa a ser a subcategoria (inclusive ao editar). Saidas: tipo Reserva nao exige categoria/subcategoria (so conferencia).",
+            "date": "2026-07-31 10:00:37"
+        },
         {
             "version": "1.1.113",
             "notes": "Nova tela Financeiro > Quebra de Caixa (diferencas por operador p/ contabilidade). Entrada Manual/Ajustes do produto: valida codigo da loja ja em uso ao memorizar, sincroniza os 2 campos de codigo, e a apresentacao do pacote herda o nome do produto.",
@@ -135,5 +140,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-31 08:38:19"
+    "date": "2026-07-31 10:00:37"
 }
