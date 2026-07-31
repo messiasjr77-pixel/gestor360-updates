@@ -1,9 +1,14 @@
 {
-    "version": "1.1.116",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.116/gestor360-1.1.116.zip",
-    "checksum": "66d73b66238d9354bb48b4eacbcd347f38ded0a5f2c2543317f3aff66fd1d6e0",
-    "notes": "PDV: cancelar item (F5) agora seleciona direto no carrinho — a linha destaca em laranja, setas navegam e Enter cancela, sem escurecer a tela. Remocao da nota de campos obrigatorios na entrada manual.",
+    "version": "1.1.117",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.117/gestor360-1.1.117.zip",
+    "checksum": "87bee15e9e6cca85d47703ec19fa53351d944bf31f0eed88c0298099d818f404",
+    "notes": "PDV: correcao do cancelar item (F5) — o destaque laranja agora aparece na lista visivel ITENS DA VENDA; setas navegam e Enter cancela.",
     "history": [
+        {
+            "version": "1.1.117",
+            "notes": "PDV: correcao do cancelar item (F5) — o destaque laranja agora aparece na lista visivel ITENS DA VENDA; setas navegam e Enter cancela.",
+            "date": "2026-07-31 16:44:25"
+        },
         {
             "version": "1.1.116",
             "notes": "PDV: cancelar item (F5) agora seleciona direto no carrinho — a linha destaca em laranja, setas navegam e Enter cancela, sem escurecer a tela. Remocao da nota de campos obrigatorios na entrada manual.",
@@ -150,5 +155,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-31 16:32:41"
+    "date": "2026-07-31 16:44:25"
 }
