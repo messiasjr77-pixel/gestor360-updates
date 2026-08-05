@@ -1,9 +1,14 @@
 {
-    "version": "1.1.118",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.118/gestor360-1.1.118.zip",
-    "checksum": "e1a2a93b3daa50e07807c7b34cca69ca3576e79b2b933e36cc6efc14e923b69c",
-    "notes": "PDV: a quantidade na lista ITENS DA VENDA estava branca no fundo branco (so aparecia ao selecionar); agora e escura e em negrito.",
+    "version": "1.1.119",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.119/gestor360-1.1.119.zip",
+    "checksum": "8970bd3360d197aa9eee18b24f1109ecd1674dbe820c2828dcb6776d6f39f985",
+    "notes": "Entrada Manual: nova tela redesenhada (entrada_notas_avulsas_v2) com editor de 1 produto + cards, autocomplete por nome, secoes recolhiveis, abas Historico/Pendencias, estoque atual/minimo editaveis nos cartoes, Enter avanca campo a campo; menu aponta pra ela. Contas a Pagar: tipo Previsto (amarelo, soma normal), parcelamento por quantidade de parcelas, filtro por periodo (so pendentes), aviso ao excluir conta paga, fornecedor opcional, WhatsApp so nome+valor com botao Voltar. PDV: calculadora nao rouba mais o teclado quando digita em campo; alerta produto nao cadastrado so fecha com toque deliberado; ao finalizar fechamento apaga vendas guardadas com aviso. Estoque: edicao manual limpa residuo de ponto flutuante.",
     "history": [
+        {
+            "version": "1.1.119",
+            "notes": "Entrada Manual: nova tela redesenhada (entrada_notas_avulsas_v2) com editor de 1 produto + cards, autocomplete por nome, secoes recolhiveis, abas Historico/Pendencias, estoque atual/minimo editaveis nos cartoes, Enter avanca campo a campo; menu aponta pra ela. Contas a Pagar: tipo Previsto (amarelo, soma normal), parcelamento por quantidade de parcelas, filtro por periodo (so pendentes), aviso ao excluir conta paga, fornecedor opcional, WhatsApp so nome+valor com botao Voltar. PDV: calculadora nao rouba mais o teclado quando digita em campo; alerta produto nao cadastrado so fecha com toque deliberado; ao finalizar fechamento apaga vendas guardadas com aviso. Estoque: edicao manual limpa residuo de ponto flutuante.",
+            "date": "2026-08-05 15:24:15"
+        },
         {
             "version": "1.1.118",
             "notes": "PDV: a quantidade na lista ITENS DA VENDA estava branca no fundo branco (so aparecia ao selecionar); agora e escura e em negrito.",
@@ -160,5 +165,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-07-31 16:51:02"
+    "date": "2026-08-05 15:24:15"
 }
