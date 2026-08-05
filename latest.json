@@ -1,9 +1,14 @@
 {
-    "version": "1.1.119",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.119/gestor360-1.1.119.zip",
-    "checksum": "8970bd3360d197aa9eee18b24f1109ecd1674dbe820c2828dcb6776d6f39f985",
-    "notes": "Entrada Manual: nova tela redesenhada (entrada_notas_avulsas_v2) com editor de 1 produto + cards, autocomplete por nome, secoes recolhiveis, abas Historico/Pendencias, estoque atual/minimo editaveis nos cartoes, Enter avanca campo a campo; menu aponta pra ela. Contas a Pagar: tipo Previsto (amarelo, soma normal), parcelamento por quantidade de parcelas, filtro por periodo (so pendentes), aviso ao excluir conta paga, fornecedor opcional, WhatsApp so nome+valor com botao Voltar. PDV: calculadora nao rouba mais o teclado quando digita em campo; alerta produto nao cadastrado so fecha com toque deliberado; ao finalizar fechamento apaga vendas guardadas com aviso. Estoque: edicao manual limpa residuo de ponto flutuante.",
+    "version": "1.1.120",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.120/gestor360-1.1.120.zip",
+    "checksum": "9d6636bd22b4d0d8759372f7071085c10454c6cc43cb84a51ca0d3b176284911",
+    "notes": "Entrada Manual v2: Preco medio ponderado pelo estoque (usa estoque corrigido) com preco de compra estatico; total do item editavel (deriva valor de compra); valor de compra reflete no produto unidade mantendo venda e variando margem; grupo obrigatorio + botao (+) para cadastrar grupo/subgrupo; opcao Produto de balanca (PLU) que grava no produto (novo ou existente); cards com margem/preco de venda e nome em linha propria; foco vai pra Quantidade ao selecionar produto; Enter no desconto vai pro total depois foca o botao; Limpar limpa so o produto atual; layout mais compacto; abas na linha do titulo. Produto novo pela entrada agora grava grupo/subgrupo.",
     "history": [
+        {
+            "version": "1.1.120",
+            "notes": "Entrada Manual v2: Preco medio ponderado pelo estoque (usa estoque corrigido) com preco de compra estatico; total do item editavel (deriva valor de compra); valor de compra reflete no produto unidade mantendo venda e variando margem; grupo obrigatorio + botao (+) para cadastrar grupo/subgrupo; opcao Produto de balanca (PLU) que grava no produto (novo ou existente); cards com margem/preco de venda e nome em linha propria; foco vai pra Quantidade ao selecionar produto; Enter no desconto vai pro total depois foca o botao; Limpar limpa so o produto atual; layout mais compacto; abas na linha do titulo. Produto novo pela entrada agora grava grupo/subgrupo.",
+            "date": "2026-08-05 17:48:24"
+        },
         {
             "version": "1.1.119",
             "notes": "Entrada Manual: nova tela redesenhada (entrada_notas_avulsas_v2) com editor de 1 produto + cards, autocomplete por nome, secoes recolhiveis, abas Historico/Pendencias, estoque atual/minimo editaveis nos cartoes, Enter avanca campo a campo; menu aponta pra ela. Contas a Pagar: tipo Previsto (amarelo, soma normal), parcelamento por quantidade de parcelas, filtro por periodo (so pendentes), aviso ao excluir conta paga, fornecedor opcional, WhatsApp so nome+valor com botao Voltar. PDV: calculadora nao rouba mais o teclado quando digita em campo; alerta produto nao cadastrado so fecha com toque deliberado; ao finalizar fechamento apaga vendas guardadas com aviso. Estoque: edicao manual limpa residuo de ponto flutuante.",
@@ -165,5 +170,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-05 15:24:15"
+    "date": "2026-08-05 17:48:24"
 }
