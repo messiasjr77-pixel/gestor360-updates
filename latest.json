@@ -1,9 +1,14 @@
 {
-    "version": "1.1.120",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.120/gestor360-1.1.120.zip",
-    "checksum": "9d6636bd22b4d0d8759372f7071085c10454c6cc43cb84a51ca0d3b176284911",
-    "notes": "Entrada Manual v2: Preco medio ponderado pelo estoque (usa estoque corrigido) com preco de compra estatico; total do item editavel (deriva valor de compra); valor de compra reflete no produto unidade mantendo venda e variando margem; grupo obrigatorio + botao (+) para cadastrar grupo/subgrupo; opcao Produto de balanca (PLU) que grava no produto (novo ou existente); cards com margem/preco de venda e nome em linha propria; foco vai pra Quantidade ao selecionar produto; Enter no desconto vai pro total depois foca o botao; Limpar limpa so o produto atual; layout mais compacto; abas na linha do titulo. Produto novo pela entrada agora grava grupo/subgrupo.",
+    "version": "1.1.121",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.121/gestor360-1.1.121.zip",
+    "checksum": "0fa2c223219ca97a02d2cab391a48fe7ee453c9d83c663a3300657a291a5ed88",
+    "notes": "Entrada NF-e: engrenagem 'Aplicar e memorizar' nao pede mais quantidade de pacote quando so se quer por NCM/Grupo/Estoque/Atacado (codigos de caixa/pacote/unidade vem pre-preenchidos na NF-e; agora so a QUANTIDADE conta como montar pacote). Entrada Manual v2: ao finalizar abre direto o overlay de Nova Conta a Pagar; Shift+Enter em Cod.loja/EAN volta um campo. Calculadora (F8 e Ctrl+K): ao abrir tira o foco do campo pra receber o teclado mesmo com um campo selecionado.",
     "history": [
+        {
+            "version": "1.1.121",
+            "notes": "Entrada NF-e: engrenagem 'Aplicar e memorizar' nao pede mais quantidade de pacote quando so se quer por NCM/Grupo/Estoque/Atacado (codigos de caixa/pacote/unidade vem pre-preenchidos na NF-e; agora so a QUANTIDADE conta como montar pacote). Entrada Manual v2: ao finalizar abre direto o overlay de Nova Conta a Pagar; Shift+Enter em Cod.loja/EAN volta um campo. Calculadora (F8 e Ctrl+K): ao abrir tira o foco do campo pra receber o teclado mesmo com um campo selecionado.",
+            "date": "2026-08-06 08:51:02"
+        },
         {
             "version": "1.1.120",
             "notes": "Entrada Manual v2: Preco medio ponderado pelo estoque (usa estoque corrigido) com preco de compra estatico; total do item editavel (deriva valor de compra); valor de compra reflete no produto unidade mantendo venda e variando margem; grupo obrigatorio + botao (+) para cadastrar grupo/subgrupo; opcao Produto de balanca (PLU) que grava no produto (novo ou existente); cards com margem/preco de venda e nome em linha propria; foco vai pra Quantidade ao selecionar produto; Enter no desconto vai pro total depois foca o botao; Limpar limpa so o produto atual; layout mais compacto; abas na linha do titulo. Produto novo pela entrada agora grava grupo/subgrupo.",
@@ -170,5 +175,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-05 17:48:24"
+    "date": "2026-08-06 08:51:02"
 }
