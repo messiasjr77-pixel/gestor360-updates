@@ -1,9 +1,14 @@
 {
-    "version": "1.1.123",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.123/gestor360-1.1.123.zip",
-    "checksum": "a1621aceb586cdf5fea772114750d2a292f672cc4c9dd3716df4c47cc9033849",
-    "notes": "assetlinks com fingerprint do APK Android (TWA)",
+    "version": "1.1.124",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.124/gestor360-1.1.124.zip",
+    "checksum": "d145cdbe750e6b97800bc5b73b2a8a55f7700ddac7b3ab46b10a43f01f68ed6d",
+    "notes": "Envio de mensagem entre terminais agora e global: item 'Mensagem' na barra lateral + Ctrl+H em qualquer tela (nao precisa abrir o PDV). Login: contas-modelo (Administrador, Desenvolvedor, Operador, Vendedor) voltam a ficar ocultas do seletor de usuario — sao apenas tipos de perfil.",
     "history": [
+        {
+            "version": "1.1.124",
+            "notes": "Envio de mensagem entre terminais agora e global: item 'Mensagem' na barra lateral + Ctrl+H em qualquer tela (nao precisa abrir o PDV). Login: contas-modelo (Administrador, Desenvolvedor, Operador, Vendedor) voltam a ficar ocultas do seletor de usuario — sao apenas tipos de perfil.",
+            "date": "2026-08-06 18:30:51"
+        },
         {
             "version": "1.1.123",
             "notes": "assetlinks com fingerprint do APK Android (TWA)",
@@ -185,5 +190,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-06 19:27:47"
+    "date": "2026-08-06 18:30:51"
 }
