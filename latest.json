@@ -1,9 +1,14 @@
 {
-    "version": "1.1.121",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.121/gestor360-1.1.121.zip",
-    "checksum": "0fa2c223219ca97a02d2cab391a48fe7ee453c9d83c663a3300657a291a5ed88",
-    "notes": "Entrada NF-e: engrenagem 'Aplicar e memorizar' nao pede mais quantidade de pacote quando so se quer por NCM/Grupo/Estoque/Atacado (codigos de caixa/pacote/unidade vem pre-preenchidos na NF-e; agora so a QUANTIDADE conta como montar pacote). Entrada Manual v2: ao finalizar abre direto o overlay de Nova Conta a Pagar; Shift+Enter em Cod.loja/EAN volta um campo. Calculadora (F8 e Ctrl+K): ao abrir tira o foco do campo pra receber o teclado mesmo com um campo selecionado.",
+    "version": "1.1.122",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.122/gestor360-1.1.122.zip",
+    "checksum": "fdd68ee2c53bb97d9f6408e6c07fcfd30069aa0b531815a341638a4518cb21d0",
+    "notes": "Medidor de estoque com borda azul; fica verde por 30 dias apos contagem pelo app. App de estoque pronto para virar APK (TWA).",
     "history": [
+        {
+            "version": "1.1.122",
+            "notes": "Medidor de estoque com borda azul; fica verde por 30 dias apos contagem pelo app. App de estoque pronto para virar APK (TWA).",
+            "date": "2026-08-06 16:07:03"
+        },
         {
             "version": "1.1.121",
             "notes": "Entrada NF-e: engrenagem 'Aplicar e memorizar' nao pede mais quantidade de pacote quando so se quer por NCM/Grupo/Estoque/Atacado (codigos de caixa/pacote/unidade vem pre-preenchidos na NF-e; agora so a QUANTIDADE conta como montar pacote). Entrada Manual v2: ao finalizar abre direto o overlay de Nova Conta a Pagar; Shift+Enter em Cod.loja/EAN volta um campo. Calculadora (F8 e Ctrl+K): ao abrir tira o foco do campo pra receber o teclado mesmo com um campo selecionado.",
@@ -175,5 +180,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-06 08:51:02"
+    "date": "2026-08-06 16:07:03"
 }
