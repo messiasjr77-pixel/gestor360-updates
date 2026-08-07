@@ -1,9 +1,14 @@
 {
-    "version": "1.1.126",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.126/gestor360-1.1.126.zip",
-    "checksum": "5a8da8bdad26f9aca35f9888a636b268f88c94448ea217a000ffff3aa1788746",
-    "notes": "Correcao de versionamento + app Android TWA (assetlinks liberado no nginx via update)",
+    "version": "1.1.127",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.127/gestor360-1.1.127.zip",
+    "checksum": "0de95b6c1ade9ff520293838cf48076b1ca1b2d138a3065ca5c812d05cdf2c63",
+    "notes": "Contagem de estoque do app mobile agora e ABSOLUTA: o numero conferido vira o mesmo em todos os terminais (nao vira mais delta/soma). Entrada Manual: botao WhatsApp abre overlay com a lista pra copiar; Enter navega Descricao->Cod.loja->EAN->Preco medio; EAN detecta bipada (leitor busca, digitacao avanca); desconto atualiza o preco medio; cartao Produto Pacote recolhivel. Contas a Pagar: mostra o item (subcategoria nivel 3) na linha. Categorias Financeiras: fundir subcategorias.",
     "history": [
+        {
+            "version": "1.1.127",
+            "notes": "Contagem de estoque do app mobile agora e ABSOLUTA: o numero conferido vira o mesmo em todos os terminais (nao vira mais delta/soma). Entrada Manual: botao WhatsApp abre overlay com a lista pra copiar; Enter navega Descricao->Cod.loja->EAN->Preco medio; EAN detecta bipada (leitor busca, digitacao avanca); desconto atualiza o preco medio; cartao Produto Pacote recolhivel. Contas a Pagar: mostra o item (subcategoria nivel 3) na linha. Categorias Financeiras: fundir subcategorias.",
+            "date": "2026-08-07 18:12:59"
+        },
         {
             "version": "1.1.126",
             "notes": "Correcao de versionamento + app Android TWA (assetlinks liberado no nginx via update)",
@@ -200,5 +205,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-07 18:46:07"
+    "date": "2026-08-07 18:12:59"
 }
