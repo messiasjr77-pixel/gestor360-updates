@@ -1,9 +1,14 @@
 {
-    "version": "1.1.124",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.124/gestor360-1.1.124.zip",
-    "checksum": "c97cb910a170672ec8edb9139c0f3dd522930ade919da276a471bbd07f1b2fb0",
-    "notes": "App Android TWA abre em tela cheia: update libera /.well-known/assetlinks.json no nginx automaticamente",
+    "version": "1.1.126",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.126/gestor360-1.1.126.zip",
+    "checksum": "5a8da8bdad26f9aca35f9888a636b268f88c94448ea217a000ffff3aa1788746",
+    "notes": "Correcao de versionamento + app Android TWA (assetlinks liberado no nginx via update)",
     "history": [
+        {
+            "version": "1.1.126",
+            "notes": "Correcao de versionamento + app Android TWA (assetlinks liberado no nginx via update)",
+            "date": "2026-08-07 18:46:07"
+        },
         {
             "version": "1.1.125",
             "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' abre o historico (data, hora, operador, justificativa e valor) mesmo sem retiradas. Entrada Manual: Enter no campo Estoque avanca pra Qtd (Shift+Enter volta). (Corrige o versionamento: a 1.1.119 havia sido publicada por engano sobre a 1.1.124.)",
@@ -195,5 +200,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-07 18:19:09"
+    "date": "2026-08-07 18:46:07"
 }
