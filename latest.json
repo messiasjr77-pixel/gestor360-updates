@@ -1,9 +1,14 @@
 {
-    "version": "1.1.119",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.119/gestor360-1.1.119.zip",
-    "checksum": "9c5d2508676f7750b2f1d6f0a9790387f4d54ce0851878c24a5cecb4906bf480",
-    "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' no topo abre o historico (data, hora, operador, justificativa e valor) mesmo quando ainda nao ha retiradas.",
+    "version": "1.1.125",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.125/gestor360-1.1.125.zip",
+    "checksum": "ae23baecca6bfed70a65f051515054b0c58669fb7bdf14d07412053884e329c8",
+    "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' abre o historico (data, hora, operador, justificativa e valor) mesmo sem retiradas. Entrada Manual: Enter no campo Estoque avanca pra Qtd (Shift+Enter volta). (Corrige o versionamento: a 1.1.119 havia sido publicada por engano sobre a 1.1.124.)",
     "history": [
+        {
+            "version": "1.1.125",
+            "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' abre o historico (data, hora, operador, justificativa e valor) mesmo sem retiradas. Entrada Manual: Enter no campo Estoque avanca pra Qtd (Shift+Enter volta). (Corrige o versionamento: a 1.1.119 havia sido publicada por engano sobre a 1.1.124.)",
+            "date": "2026-08-07 08:56:21"
+        },
         {
             "version": "1.1.124",
             "notes": "Envio de mensagem entre terminais agora e global: item 'Mensagem' na barra lateral + Ctrl+H em qualquer tela (nao precisa abrir o PDV). Login: contas-modelo (Administrador, Desenvolvedor, Operador, Vendedor) voltam a ficar ocultas do seletor de usuario — sao apenas tipos de perfil.",
@@ -190,5 +195,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-07 08:23:36"
+    "date": "2026-08-07 08:56:21"
 }
