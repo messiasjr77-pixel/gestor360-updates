@@ -1,8 +1,8 @@
 {
-    "version": "1.1.124",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.124/gestor360-1.1.124.zip",
-    "checksum": "d145cdbe750e6b97800bc5b73b2a8a55f7700ddac7b3ab46b10a43f01f68ed6d",
-    "notes": "Envio de mensagem entre terminais agora e global: item 'Mensagem' na barra lateral + Ctrl+H em qualquer tela (nao precisa abrir o PDV). Login: contas-modelo (Administrador, Desenvolvedor, Operador, Vendedor) voltam a ficar ocultas do seletor de usuario — sao apenas tipos de perfil.",
+    "version": "1.1.119",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.119/gestor360-1.1.119.zip",
+    "checksum": "9c5d2508676f7750b2f1d6f0a9790387f4d54ce0851878c24a5cecb4906bf480",
+    "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' no topo abre o historico (data, hora, operador, justificativa e valor) mesmo quando ainda nao ha retiradas.",
     "history": [
         {
             "version": "1.1.124",
@@ -31,8 +31,8 @@
         },
         {
             "version": "1.1.119",
-            "notes": "Entrada Manual: nova tela redesenhada (entrada_notas_avulsas_v2) com editor de 1 produto + cards, autocomplete por nome, secoes recolhiveis, abas Historico/Pendencias, estoque atual/minimo editaveis nos cartoes, Enter avanca campo a campo; menu aponta pra ela. Contas a Pagar: tipo Previsto (amarelo, soma normal), parcelamento por quantidade de parcelas, filtro por periodo (so pendentes), aviso ao excluir conta paga, fornecedor opcional, WhatsApp so nome+valor com botao Voltar. PDV: calculadora nao rouba mais o teclado quando digita em campo; alerta produto nao cadastrado so fecha com toque deliberado; ao finalizar fechamento apaga vendas guardadas com aviso. Estoque: edicao manual limpa residuo de ponto flutuante.",
-            "date": "2026-08-05 15:24:15"
+            "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' no topo abre o historico (data, hora, operador, justificativa e valor) mesmo quando ainda nao ha retiradas.",
+            "date": "2026-08-07 08:23:36"
         },
         {
             "version": "1.1.118",
@@ -190,5 +190,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-06 18:30:51"
+    "date": "2026-08-07 08:23:36"
 }
