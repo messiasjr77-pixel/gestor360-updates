@@ -1,9 +1,14 @@
 {
-    "version": "1.1.128",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.128/gestor360-1.1.128.zip",
-    "checksum": "4aef380b0d6cf89b7979f9bf461726b9dbd14361856878e24fffce8a6d36d1c9",
-    "notes": "Fechamento de Caixa: quebra deixa de contar o valor antes do cancelamento (abate a devolucao em dinheiro). Buscar Vendas: horario do detalhe agora bate com o da lista (corrige diferenca de 3h UTC). PDV: digitar um codigo que e o codigo da loja de um produto para de trazer outro produto que tem esse numero no codigo de barras. Padronizado estoque/quantidades em ate 3 casas decimais (PDV, Entrada Manual, Produtos). Entrada Manual: campo Fornecedor no cabecalho.",
+    "version": "1.1.129",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.129/gestor360-1.1.129.zip",
+    "checksum": "17bcaa22a1c81a9d4a08cf1ab9f143ba2457d102e91cffdcd634512e7ea32c25",
+    "notes": "Fornecedores: suporte a MULTIPLOS CNPJs por fornecedor (campo 'CNPJs adicionais' no cadastro). Import de NF-e e o salvar reconhecem o fornecedor por qualquer um dos CNPJs (principal ou adicionais) - nao duplica fornecedores com matriz+CDs. Fusao de fornecedores agora consolida todos os CNPJs no principal. Correcao: entrada v2 - overlay de Nova Conta a Pagar abre tambem ao finalizar nota editada; sincronizacao financeira nao exige categoria/subcategoria quando nao ha parcela (v2 sem_pagamento). Renomear grupo/subgrupo direto na Entrada Manual (botao lapis).",
     "history": [
+        {
+            "version": "1.1.129",
+            "notes": "Fornecedores: suporte a MULTIPLOS CNPJs por fornecedor (campo 'CNPJs adicionais' no cadastro). Import de NF-e e o salvar reconhecem o fornecedor por qualquer um dos CNPJs (principal ou adicionais) - nao duplica fornecedores com matriz+CDs. Fusao de fornecedores agora consolida todos os CNPJs no principal. Correcao: entrada v2 - overlay de Nova Conta a Pagar abre tambem ao finalizar nota editada; sincronizacao financeira nao exige categoria/subcategoria quando nao ha parcela (v2 sem_pagamento). Renomear grupo/subgrupo direto na Entrada Manual (botao lapis).",
+            "date": "2026-08-08 16:47:03"
+        },
         {
             "version": "1.1.128",
             "notes": "Fechamento de Caixa: quebra deixa de contar o valor antes do cancelamento (abate a devolucao em dinheiro). Buscar Vendas: horario do detalhe agora bate com o da lista (corrige diferenca de 3h UTC). PDV: digitar um codigo que e o codigo da loja de um produto para de trazer outro produto que tem esse numero no codigo de barras. Padronizado estoque/quantidades em ate 3 casas decimais (PDV, Entrada Manual, Produtos). Entrada Manual: campo Fornecedor no cabecalho.",
@@ -210,5 +215,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-08 16:11:55"
+    "date": "2026-08-08 16:47:03"
 }
