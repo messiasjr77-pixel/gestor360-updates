@@ -1,9 +1,14 @@
 {
-    "version": "1.1.127",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.127/gestor360-1.1.127.zip",
-    "checksum": "0de95b6c1ade9ff520293838cf48076b1ca1b2d138a3065ca5c812d05cdf2c63",
-    "notes": "Contagem de estoque do app mobile agora e ABSOLUTA: o numero conferido vira o mesmo em todos os terminais (nao vira mais delta/soma). Entrada Manual: botao WhatsApp abre overlay com a lista pra copiar; Enter navega Descricao->Cod.loja->EAN->Preco medio; EAN detecta bipada (leitor busca, digitacao avanca); desconto atualiza o preco medio; cartao Produto Pacote recolhivel. Contas a Pagar: mostra o item (subcategoria nivel 3) na linha. Categorias Financeiras: fundir subcategorias.",
+    "version": "1.1.128",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.128/gestor360-1.1.128.zip",
+    "checksum": "4aef380b0d6cf89b7979f9bf461726b9dbd14361856878e24fffce8a6d36d1c9",
+    "notes": "Fechamento de Caixa: quebra deixa de contar o valor antes do cancelamento (abate a devolucao em dinheiro). Buscar Vendas: horario do detalhe agora bate com o da lista (corrige diferenca de 3h UTC). PDV: digitar um codigo que e o codigo da loja de um produto para de trazer outro produto que tem esse numero no codigo de barras. Padronizado estoque/quantidades em ate 3 casas decimais (PDV, Entrada Manual, Produtos). Entrada Manual: campo Fornecedor no cabecalho.",
     "history": [
+        {
+            "version": "1.1.128",
+            "notes": "Fechamento de Caixa: quebra deixa de contar o valor antes do cancelamento (abate a devolucao em dinheiro). Buscar Vendas: horario do detalhe agora bate com o da lista (corrige diferenca de 3h UTC). PDV: digitar um codigo que e o codigo da loja de um produto para de trazer outro produto que tem esse numero no codigo de barras. Padronizado estoque/quantidades em ate 3 casas decimais (PDV, Entrada Manual, Produtos). Entrada Manual: campo Fornecedor no cabecalho.",
+            "date": "2026-08-08 16:11:55"
+        },
         {
             "version": "1.1.127",
             "notes": "Contagem de estoque do app mobile agora e ABSOLUTA: o numero conferido vira o mesmo em todos os terminais (nao vira mais delta/soma). Entrada Manual: botao WhatsApp abre overlay com a lista pra copiar; Enter navega Descricao->Cod.loja->EAN->Preco medio; EAN detecta bipada (leitor busca, digitacao avanca); desconto atualiza o preco medio; cartao Produto Pacote recolhivel. Contas a Pagar: mostra o item (subcategoria nivel 3) na linha. Categorias Financeiras: fundir subcategorias.",
@@ -205,5 +210,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-07 18:12:59"
+    "date": "2026-08-08 16:11:55"
 }
