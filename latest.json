@@ -1,9 +1,14 @@
 {
-    "version": "1.1.129",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.129/gestor360-1.1.129.zip",
-    "checksum": "17bcaa22a1c81a9d4a08cf1ab9f143ba2457d102e91cffdcd634512e7ea32c25",
-    "notes": "Fornecedores: suporte a MULTIPLOS CNPJs por fornecedor (campo 'CNPJs adicionais' no cadastro). Import de NF-e e o salvar reconhecem o fornecedor por qualquer um dos CNPJs (principal ou adicionais) - nao duplica fornecedores com matriz+CDs. Fusao de fornecedores agora consolida todos os CNPJs no principal. Correcao: entrada v2 - overlay de Nova Conta a Pagar abre tambem ao finalizar nota editada; sincronizacao financeira nao exige categoria/subcategoria quando nao ha parcela (v2 sem_pagamento). Renomear grupo/subgrupo direto na Entrada Manual (botao lapis).",
+    "version": "1.1.130",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.130/gestor360-1.1.130.zip",
+    "checksum": "a802e57a807f9910833d5895bb9926d003870c355734175aa5dfb44dfba7f142",
+    "notes": "Categorias de Contas a Pagar: renomear categoria/subcategoria agora propaga pro historico (contas_pagar.categoria/tipo/subtipo) - Fluxo de Caixa e relatorios refletem o nome novo. Entrada Manual v2: Enter nos campos de codigo volta a buscar o produto (manual e leitor); campos das linhas alinhados (select Unidade com mesma altura dos inputs).",
     "history": [
+        {
+            "version": "1.1.130",
+            "notes": "Categorias de Contas a Pagar: renomear categoria/subcategoria agora propaga pro historico (contas_pagar.categoria/tipo/subtipo) - Fluxo de Caixa e relatorios refletem o nome novo. Entrada Manual v2: Enter nos campos de codigo volta a buscar o produto (manual e leitor); campos das linhas alinhados (select Unidade com mesma altura dos inputs).",
+            "date": "2026-08-11 15:11:09"
+        },
         {
             "version": "1.1.129",
             "notes": "Fornecedores: suporte a MULTIPLOS CNPJs por fornecedor (campo 'CNPJs adicionais' no cadastro). Import de NF-e e o salvar reconhecem o fornecedor por qualquer um dos CNPJs (principal ou adicionais) - nao duplica fornecedores com matriz+CDs. Fusao de fornecedores agora consolida todos os CNPJs no principal. Correcao: entrada v2 - overlay de Nova Conta a Pagar abre tambem ao finalizar nota editada; sincronizacao financeira nao exige categoria/subcategoria quando nao ha parcela (v2 sem_pagamento). Renomear grupo/subgrupo direto na Entrada Manual (botao lapis).",
@@ -215,5 +220,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-08 16:47:03"
+    "date": "2026-08-11 15:11:09"
 }
