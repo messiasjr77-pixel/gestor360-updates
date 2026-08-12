@@ -1,9 +1,14 @@
 {
-    "version": "1.1.130",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.130/gestor360-1.1.130.zip",
-    "checksum": "a802e57a807f9910833d5895bb9926d003870c355734175aa5dfb44dfba7f142",
-    "notes": "Categorias de Contas a Pagar: renomear categoria/subcategoria agora propaga pro historico (contas_pagar.categoria/tipo/subtipo) - Fluxo de Caixa e relatorios refletem o nome novo. Entrada Manual v2: Enter nos campos de codigo volta a buscar o produto (manual e leitor); campos das linhas alinhados (select Unidade com mesma altura dos inputs).",
+    "version": "1.1.131",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.131/gestor360-1.1.131.zip",
+    "checksum": "292f4db03a5dc474839972b2b6da7851eb7642e343825084ea598f7cbd40d8c5",
+    "notes": "Contas a Pagar: modal Nova Conta a Pagar horizontal (2 colunas, mais largo). PDV Orcamento: navegacao por seta (cima/baixo) na busca de produto + Enter no item destacado; novo botao 'Enviar pra venda' que joga os produtos do orcamento no carrinho (com qtd e preco cotados).",
     "history": [
+        {
+            "version": "1.1.131",
+            "notes": "Contas a Pagar: modal Nova Conta a Pagar horizontal (2 colunas, mais largo). PDV Orcamento: navegacao por seta (cima/baixo) na busca de produto + Enter no item destacado; novo botao 'Enviar pra venda' que joga os produtos do orcamento no carrinho (com qtd e preco cotados).",
+            "date": "2026-08-12 08:14:00"
+        },
         {
             "version": "1.1.130",
             "notes": "Categorias de Contas a Pagar: renomear categoria/subcategoria agora propaga pro historico (contas_pagar.categoria/tipo/subtipo) - Fluxo de Caixa e relatorios refletem o nome novo. Entrada Manual v2: Enter nos campos de codigo volta a buscar o produto (manual e leitor); campos das linhas alinhados (select Unidade com mesma altura dos inputs).",
@@ -220,5 +225,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-11 15:11:09"
+    "date": "2026-08-12 08:14:00"
 }
