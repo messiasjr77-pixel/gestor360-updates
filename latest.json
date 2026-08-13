@@ -1,9 +1,14 @@
 {
-    "version": "1.1.132",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.132/gestor360-1.1.132.zip",
-    "checksum": "16bc2b994457b5c045881652a16f4e3a80dd3ce61672315e0e3cde2c45d26c8f",
-    "notes": "Contas a Pagar: novo botao 'A vencer' (pendentes vencendo de amanha em diante) e removido o 'Este mes' (redundante com 'Mes'). Pagar conta: campo 'Valor total pago' que calcula os juros automaticamente (total pago - valor - multa), sincronizado com multa/juros.",
+    "version": "1.1.133",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.133/gestor360-1.1.133.zip",
+    "checksum": "f160cf18360701bb71ea070c8572ca6ecc7a377e2069437ac3f99088d2e84d6e",
+    "notes": "Menu: removido grupo Analises; Top produtos vendidos agora fica em Movimento",
     "history": [
+        {
+            "version": "1.1.133",
+            "notes": "Menu: removido grupo Analises; Top produtos vendidos agora fica em Movimento",
+            "date": "2026-08-13 15:02:18"
+        },
         {
             "version": "1.1.132",
             "notes": "Contas a Pagar: novo botao 'A vencer' (pendentes vencendo de amanha em diante) e removido o 'Este mes' (redundante com 'Mes'). Pagar conta: campo 'Valor total pago' que calcula os juros automaticamente (total pago - valor - multa), sincronizado com multa/juros.",
@@ -230,5 +235,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-13 10:24:39"
+    "date": "2026-08-13 15:02:18"
 }
