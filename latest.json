@@ -1,9 +1,14 @@
 {
-    "version": "1.1.131",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.131/gestor360-1.1.131.zip",
-    "checksum": "292f4db03a5dc474839972b2b6da7851eb7642e343825084ea598f7cbd40d8c5",
-    "notes": "Contas a Pagar: modal Nova Conta a Pagar horizontal (2 colunas, mais largo). PDV Orcamento: navegacao por seta (cima/baixo) na busca de produto + Enter no item destacado; novo botao 'Enviar pra venda' que joga os produtos do orcamento no carrinho (com qtd e preco cotados).",
+    "version": "1.1.132",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.132/gestor360-1.1.132.zip",
+    "checksum": "16bc2b994457b5c045881652a16f4e3a80dd3ce61672315e0e3cde2c45d26c8f",
+    "notes": "Contas a Pagar: novo botao 'A vencer' (pendentes vencendo de amanha em diante) e removido o 'Este mes' (redundante com 'Mes'). Pagar conta: campo 'Valor total pago' que calcula os juros automaticamente (total pago - valor - multa), sincronizado com multa/juros.",
     "history": [
+        {
+            "version": "1.1.132",
+            "notes": "Contas a Pagar: novo botao 'A vencer' (pendentes vencendo de amanha em diante) e removido o 'Este mes' (redundante com 'Mes'). Pagar conta: campo 'Valor total pago' que calcula os juros automaticamente (total pago - valor - multa), sincronizado com multa/juros.",
+            "date": "2026-08-13 10:24:39"
+        },
         {
             "version": "1.1.131",
             "notes": "Contas a Pagar: modal Nova Conta a Pagar horizontal (2 colunas, mais largo). PDV Orcamento: navegacao por seta (cima/baixo) na busca de produto + Enter no item destacado; novo botao 'Enviar pra venda' que joga os produtos do orcamento no carrinho (com qtd e preco cotados).",
@@ -225,5 +230,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-12 08:14:00"
+    "date": "2026-08-13 10:24:39"
 }
