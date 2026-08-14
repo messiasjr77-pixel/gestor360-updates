@@ -1,9 +1,14 @@
 {
-    "version": "1.1.136",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.136/gestor360-1.1.136.zip",
-    "checksum": "cae74d7b4c7fc3ebb9d0c3201c63b601bea662bfd4d96c08b0eb92ef771d52e9",
-    "notes": "Correcao: editar entrada de NF-e nao duplica mais itens pela rede (afetava Compras por Fornecedor, estoque e custo).",
+    "version": "1.1.137",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.137/gestor360-1.1.137.zip",
+    "checksum": "bd063a45c03ca132633d8349d433d4a3d7d61a7b7de12790fdcfee5aaecff63c",
+    "notes": "Correcao: itens (nivel 3) de subcategorias agora sincronizam corretamente entre terminais (antes sumiam do dropdown em alguns PCs).",
     "history": [
+        {
+            "version": "1.1.137",
+            "notes": "Correcao: itens (nivel 3) de subcategorias agora sincronizam corretamente entre terminais (antes sumiam do dropdown em alguns PCs).",
+            "date": "2026-08-14 15:13:03"
+        },
         {
             "version": "1.1.136",
             "notes": "Correcao: editar entrada de NF-e nao duplica mais itens pela rede (afetava Compras por Fornecedor, estoque e custo).",
@@ -245,5 +250,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-14 12:06:00"
+    "date": "2026-08-14 15:13:03"
 }
