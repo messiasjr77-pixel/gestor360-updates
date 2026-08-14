@@ -1,9 +1,14 @@
 {
-    "version": "1.1.134",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.134/gestor360-1.1.134.zip",
-    "checksum": "7837fe2965dda2bbc9aec2dd011a28a2840f3afa8579de7372c9a4961453abe6",
-    "notes": "PDV Consultar preco (F2): novo botao Imprimir que envia a etiqueta de preco do produto (nome/codigo/preco) direto pra impressora termica configurada.",
+    "version": "1.1.135",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.135/gestor360-1.1.135.zip",
+    "checksum": "3f93a29d6e849014d20e0712b6b664883242e8f9eb564d9bf05df6f5801d58ec",
+    "notes": "Perdas e Prejuizos: editar/excluir no historico (com estorno de estoque), navegacao por teclado e custo automatico",
     "history": [
+        {
+            "version": "1.1.135",
+            "notes": "Perdas e Prejuizos: editar/excluir no historico (com estorno de estoque), navegacao por teclado e custo automatico",
+            "date": "2026-08-14 10:56:58"
+        },
         {
             "version": "1.1.134",
             "notes": "PDV Consultar preco (F2): novo botao Imprimir que envia a etiqueta de preco do produto (nome/codigo/preco) direto pra impressora termica configurada.",
@@ -235,5 +240,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-13 15:33:17"
+    "date": "2026-08-14 10:56:58"
 }
