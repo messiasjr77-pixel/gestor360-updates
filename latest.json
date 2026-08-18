@@ -1,18 +1,28 @@
 {
-    "version": "1.1.139",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.139/gestor360-1.1.139.zip",
-    "checksum": "ae19c3ae3c4610a27712fefe4222e191a0ed19cd57758a8749287abe03c9786c",
-    "notes": "Cartao: a fatura ABERTA ja aparece em Contas a Pagar e Fluxo de Caixa como 'previsto' (amarelo), por categoria, dando visibilidade imediata do que foi comprado. Atualiza sozinha conforme voce adiciona compras e vira definitiva quando a fatura fecha.",
+    "version": "1.1.140",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.140/gestor360-1.1.140.zip",
+    "checksum": "5593a93bf62de2c110eb8dc4251e367eb753f4e0241faeccf244657549c3b086",
+    "notes": "Produtos: ao navegar as sugestoes do nome com as setas, os campos Cod. loja, EAN e Preco mostram o produto destacado. Usuario 'operador' liberado nas telas de login.",
     "history": [
         {
-            "version": "1.1.139",
-            "notes": "Cartao: a fatura ABERTA ja aparece em Contas a Pagar e Fluxo de Caixa como 'previsto' (amarelo), por categoria, dando visibilidade imediata do que foi comprado. Atualiza sozinha conforme voce adiciona compras e vira definitiva quando a fatura fecha.",
-            "date": "2026-08-15 12:18:11"
+            "version": "1.1.140",
+            "notes": "Produtos: ao navegar as sugestoes do nome com as setas, os campos Cod. loja, EAN e Preco mostram o produto destacado. Usuario 'operador' liberado nas telas de login.",
+            "date": "2026-08-18 15:15:44"
         },
         {
-            "version": "1.1.138",
-            "notes": "Cartao de credito: faturas fechadas voltam a lancar automaticamente em Contas a Pagar (1 conta por categoria da fatura), refletindo no Fluxo de Caixa na categoria correta. So daqui pra frente (nao retroage faturas ja fechadas); botao manual 'Lancar em Saidas' removido. Compra parcelada no cartao: padrao passa a ser 'Valor por parcela'.",
-            "date": "2026-08-15 11:42:39"
+            "version": "1.1.137",
+            "notes": "Correcao: itens (nivel 3) de subcategorias agora sincronizam corretamente entre terminais (antes sumiam do dropdown em alguns PCs).",
+            "date": "2026-08-14 15:13:03"
+        },
+        {
+            "version": "1.1.136",
+            "notes": "Correcao: editar entrada de NF-e nao duplica mais itens pela rede (afetava Compras por Fornecedor, estoque e custo).",
+            "date": "2026-08-14 12:06:00"
+        },
+        {
+            "version": "1.1.135",
+            "notes": "Perdas e Prejuizos: editar/excluir no historico (com estorno de estoque), navegacao por teclado e custo automatico",
+            "date": "2026-08-14 10:56:58"
         },
         {
             "version": "1.1.134",
@@ -245,5 +255,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-15 12:18:11"
+    "date": "2026-08-18 15:15:44"
 }
