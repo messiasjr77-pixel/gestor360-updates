@@ -1,9 +1,14 @@
 {
-    "version": "1.1.141",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.141/gestor360-1.1.141.zip",
-    "checksum": "498a81a45ccee9277992c75eab4e0f6bac02d8ff84ecb271febbc472d8550ea8",
-    "notes": "Novo: Fluxo de Caixa Gerencial (margem de contribuicao e ponto de equilibrio; marque as categorias como Fixa/Variavel). Entrada Manual: os itens agora aparecem no drill-down de Contas a Pagar, igual a NF-e.",
+    "version": "1.1.142",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.142/gestor360-1.1.142.zip",
+    "checksum": "11c81a8141214aca47cfd1293a820159a9b8202a3dc02efa5d2daaf3d99c2a4c",
+    "notes": "Entrada Manual: novo passo de Pagamento ao finalizar - adicione um ou varios boletos, que ficam vinculados a nota (clicar no fornecedor em Contas a Pagar mostra os itens).",
     "history": [
+        {
+            "version": "1.1.142",
+            "notes": "Entrada Manual: novo passo de Pagamento ao finalizar - adicione um ou varios boletos, que ficam vinculados a nota (clicar no fornecedor em Contas a Pagar mostra os itens).",
+            "date": "2026-08-19 09:21:03"
+        },
         {
             "version": "1.1.141",
             "notes": "Novo: Fluxo de Caixa Gerencial (margem de contribuicao e ponto de equilibrio; marque as categorias como Fixa/Variavel). Entrada Manual: os itens agora aparecem no drill-down de Contas a Pagar, igual a NF-e.",
@@ -260,5 +265,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-18 19:07:28"
+    "date": "2026-08-19 09:21:03"
 }
