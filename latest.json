@@ -1,9 +1,14 @@
 {
-    "version": "1.1.145",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.145/gestor360-1.1.145.zip",
-    "checksum": "495f09dfd6742727cf035c089a96529970308e835ffd73bc96833979f5b4791c",
-    "notes": "Exportar p/ YAMPA: filtro por forma de pagamento nos recebimentos (ex.: exportar so as vendas em dinheiro, ou so PIX).",
+    "version": "1.1.146",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.146/gestor360-1.1.146.zip",
+    "checksum": "ed72774f6dd3d9f94f70ce9a6f0b0fd488a45c8578aa65304083f32aa3aa9da5",
+    "notes": "Compras por Fornecedor: clique no item abre o produto no cadastro (F3), resolvendo por codigo/EAN. NF-e: NCM do item preenche automatico ao importar o XML (nao bloqueia mais o finalizar de produto novo). Nova Conta a Pagar: tela compacta em 3 colunas sem rolagem. Abertura de Caixa: Enter avanca campo a campo. Etiqueta de preco: codigo um pouco maior.",
     "history": [
+        {
+            "version": "1.1.146",
+            "notes": "Compras por Fornecedor: clique no item abre o produto no cadastro (F3), resolvendo por codigo/EAN. NF-e: NCM do item preenche automatico ao importar o XML (nao bloqueia mais o finalizar de produto novo). Nova Conta a Pagar: tela compacta em 3 colunas sem rolagem. Abertura de Caixa: Enter avanca campo a campo. Etiqueta de preco: codigo um pouco maior.",
+            "date": "2026-08-20 18:59:51"
+        },
         {
             "version": "1.1.145",
             "notes": "Exportar p/ YAMPA: filtro por forma de pagamento nos recebimentos (ex.: exportar so as vendas em dinheiro, ou so PIX).",
@@ -280,5 +285,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-20 16:39:18"
+    "date": "2026-08-20 18:59:51"
 }
