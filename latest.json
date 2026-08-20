@@ -1,13 +1,18 @@
 {
-    "version": "1.1.142",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.142/gestor360-1.1.142.zip",
-    "checksum": "11c81a8141214aca47cfd1293a820159a9b8202a3dc02efa5d2daaf3d99c2a4c",
-    "notes": "Entrada Manual: novo passo de Pagamento ao finalizar - adicione um ou varios boletos, que ficam vinculados a nota (clicar no fornecedor em Contas a Pagar mostra os itens).",
+    "version": "1.1.143",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.143/gestor360-1.1.143.zip",
+    "checksum": "04f5141a0e2871f911f5239578aab699f91b76ad300cedd99bfe20533f039d33",
+    "notes": "Novo: Financeiro > Exportar p/ YAMPA - gera o CSV de recebimentos/pagamentos por periodo escolhido, no modelo do importador do YAMPA (4blue).",
     "history": [
+        {
+            "version": "1.1.143",
+            "notes": "Novo: Financeiro > Exportar p/ YAMPA - gera o CSV de recebimentos/pagamentos por periodo escolhido, no modelo do importador do YAMPA (4blue).",
+            "date": "2026-08-20 10:22:30"
+        },
         {
             "version": "1.1.142",
             "notes": "Entrada Manual: novo passo de Pagamento ao finalizar - adicione um ou varios boletos, que ficam vinculados a nota (clicar no fornecedor em Contas a Pagar mostra os itens).",
-            "date": "2026-08-19 09:21:03"
+            "date": "2026-08-19 09:15:23"
         },
         {
             "version": "1.1.141",
@@ -265,5 +270,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-19 09:21:03"
+    "date": "2026-08-20 10:22:30"
 }
