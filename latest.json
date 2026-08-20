@@ -1,13 +1,18 @@
 {
-    "version": "1.1.144",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.144/gestor360-1.1.144.zip",
-    "checksum": "d8f91725029d02e5a5040d7dc514984405f2661fa6bc48c23c5bd4d18da75892",
-    "notes": "Exportar p/ YAMPA: opcao de detalhar subcategorias por item (nivel 3) - escolha quais exportar destrinchadas (ex.: TRANSPORTE -> COMBUSTIVEL, PEDAGIO).",
+    "version": "1.1.145",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.145/gestor360-1.1.145.zip",
+    "checksum": "495f09dfd6742727cf035c089a96529970308e835ffd73bc96833979f5b4791c",
+    "notes": "Exportar p/ YAMPA: filtro por forma de pagamento nos recebimentos (ex.: exportar so as vendas em dinheiro, ou so PIX).",
     "history": [
+        {
+            "version": "1.1.145",
+            "notes": "Exportar p/ YAMPA: filtro por forma de pagamento nos recebimentos (ex.: exportar so as vendas em dinheiro, ou so PIX).",
+            "date": "2026-08-20 16:39:18"
+        },
         {
             "version": "1.1.144",
             "notes": "Exportar p/ YAMPA: opcao de detalhar subcategorias por item (nivel 3) - escolha quais exportar destrinchadas (ex.: TRANSPORTE -> COMBUSTIVEL, PEDAGIO).",
-            "date": "2026-08-20 11:37:23"
+            "date": "2026-08-20 11:29:16"
         },
         {
             "version": "1.1.143",
@@ -275,5 +280,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-20 11:37:23"
+    "date": "2026-08-20 16:39:18"
 }
