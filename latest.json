@@ -1,9 +1,14 @@
 {
-    "version": "1.1.146",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.146/gestor360-1.1.146.zip",
-    "checksum": "ed72774f6dd3d9f94f70ce9a6f0b0fd488a45c8578aa65304083f32aa3aa9da5",
-    "notes": "Compras por Fornecedor: clique no item abre o produto no cadastro (F3), resolvendo por codigo/EAN. NF-e: NCM do item preenche automatico ao importar o XML (nao bloqueia mais o finalizar de produto novo). Nova Conta a Pagar: tela compacta em 3 colunas sem rolagem. Abertura de Caixa: Enter avanca campo a campo. Etiqueta de preco: codigo um pouco maior.",
+    "version": "1.1.147",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.147/gestor360-1.1.147.zip",
+    "checksum": "8af4c9deba3b9274d515040807035f11eed03d3d33b9f2e31f4604c5fd5b8f0e",
+    "notes": "Etiqueta de preco (Daruma DLL): codigo do produto sai em corpo duplo no modo grande, quase do tamanho da descricao.",
     "history": [
+        {
+            "version": "1.1.147",
+            "notes": "Etiqueta de preco (Daruma DLL): codigo do produto sai em corpo duplo no modo grande, quase do tamanho da descricao.",
+            "date": "2026-08-20 19:12:43"
+        },
         {
             "version": "1.1.146",
             "notes": "Compras por Fornecedor: clique no item abre o produto no cadastro (F3), resolvendo por codigo/EAN. NF-e: NCM do item preenche automatico ao importar o XML (nao bloqueia mais o finalizar de produto novo). Nova Conta a Pagar: tela compacta em 3 colunas sem rolagem. Abertura de Caixa: Enter avanca campo a campo. Etiqueta de preco: codigo um pouco maior.",
@@ -285,5 +290,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-20 18:59:51"
+    "date": "2026-08-20 19:12:43"
 }
