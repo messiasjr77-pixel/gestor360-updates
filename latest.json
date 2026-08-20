@@ -1,9 +1,14 @@
 {
-    "version": "1.1.143",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.143/gestor360-1.1.143.zip",
-    "checksum": "04f5141a0e2871f911f5239578aab699f91b76ad300cedd99bfe20533f039d33",
-    "notes": "Novo: Financeiro > Exportar p/ YAMPA - gera o CSV de recebimentos/pagamentos por periodo escolhido, no modelo do importador do YAMPA (4blue).",
+    "version": "1.1.144",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.144/gestor360-1.1.144.zip",
+    "checksum": "d8f91725029d02e5a5040d7dc514984405f2661fa6bc48c23c5bd4d18da75892",
+    "notes": "Exportar p/ YAMPA: opcao de detalhar subcategorias por item (nivel 3) - escolha quais exportar destrinchadas (ex.: TRANSPORTE -> COMBUSTIVEL, PEDAGIO).",
     "history": [
+        {
+            "version": "1.1.144",
+            "notes": "Exportar p/ YAMPA: opcao de detalhar subcategorias por item (nivel 3) - escolha quais exportar destrinchadas (ex.: TRANSPORTE -> COMBUSTIVEL, PEDAGIO).",
+            "date": "2026-08-20 11:37:23"
+        },
         {
             "version": "1.1.143",
             "notes": "Novo: Financeiro > Exportar p/ YAMPA - gera o CSV de recebimentos/pagamentos por periodo escolhido, no modelo do importador do YAMPA (4blue).",
@@ -270,5 +275,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-20 10:22:30"
+    "date": "2026-08-20 11:37:23"
 }
