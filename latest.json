@@ -1,9 +1,14 @@
 {
-    "version": "1.1.150",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.150/gestor360-1.1.150.zip",
-    "checksum": "5bbaff74c7ac3d0aac9c98ecfd7715f2f929f56e7df1cd96fc5cea15b9f93458",
-    "notes": "Sync: auto-limpeza de terminal duplicado. Quando dois terminal_id apontam pro mesmo IP (maquina reinstalada), o sistema pergunta ao IP quem ele e e remove o id fantasma — some sozinho ao abrir a tela de Sincronizacao ou no ciclo automatico. Nao afeta peers legitimos.",
+    "version": "1.1.151",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.151/gestor360-1.1.151.zip",
+    "checksum": "5b0c63d691f885c874aa721aaf9d5e3796c78e5fe75ee973fb4b48605410283b",
+    "notes": "Sync: auto-deteccao de porta agora encontra empresas secundarias (9093-9099), ex.: Empresa B em 9095. Contas a Pagar: WhatsApp abre overlay na tela pra copiar (sem abrir o WhatsApp); mascara de moeda em Valor/Multa/Juros; categoria e subcategoria mostradas na linha; Enter avanca De->Ate no filtro de periodo; botoes Pagas e Pendentes deixam de se sobrepor. Backups automaticos reduzidos de 30 para 3 (economiza disco).",
     "history": [
+        {
+            "version": "1.1.151",
+            "notes": "Sync: auto-deteccao de porta agora encontra empresas secundarias (9093-9099), ex.: Empresa B em 9095. Contas a Pagar: WhatsApp abre overlay na tela pra copiar (sem abrir o WhatsApp); mascara de moeda em Valor/Multa/Juros; categoria e subcategoria mostradas na linha; Enter avanca De->Ate no filtro de periodo; botoes Pagas e Pendentes deixam de se sobrepor. Backups automaticos reduzidos de 30 para 3 (economiza disco).",
+            "date": "2026-08-21 18:35:20"
+        },
         {
             "version": "1.1.150",
             "notes": "Sync: auto-limpeza de terminal duplicado. Quando dois terminal_id apontam pro mesmo IP (maquina reinstalada), o sistema pergunta ao IP quem ele e e remove o id fantasma — some sozinho ao abrir a tela de Sincronizacao ou no ciclo automatico. Nao afeta peers legitimos.",
@@ -305,5 +310,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-21 18:01:16"
+    "date": "2026-08-21 18:35:20"
 }
