@@ -1,9 +1,14 @@
 {
-    "version": "1.1.148",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.148/gestor360-1.1.148.zip",
-    "checksum": "beef531408ae365128dec7dc01a0dbbbab1ea598ade9fb9374e0c069a9d2214c",
-    "notes": "PDV: passar o mouse sobre um item da busca nao apaga mais o produto (o hover usava branco); agora fundo cinza sutil e texto legivel, distinto da selecao por seta. Login: usuario Operador volta a aparecer no seletor.",
+    "version": "1.1.149",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.149/gestor360-1.1.149.zip",
+    "checksum": "e9e1836233203ab598034bd2aea83e1c618fd5dcd03df7fee7d4459ef6a0ba4d",
+    "notes": "Instalador: corrige download do PHP. O link fixo do PHP 8.3.31 saiu do ar (404) e travava a instalacao no meio (sem PHP/Nginx, 127.0.0.1 recusado). Agora usa 8.3.33 e cai no arquivo morto do php.net se a versao sair do ar.",
     "history": [
+        {
+            "version": "1.1.149",
+            "notes": "Instalador: corrige download do PHP. O link fixo do PHP 8.3.31 saiu do ar (404) e travava a instalacao no meio (sem PHP/Nginx, 127.0.0.1 recusado). Agora usa 8.3.33 e cai no arquivo morto do php.net se a versao sair do ar.",
+            "date": "2026-08-21 20:54:12"
+        },
         {
             "version": "1.1.148",
             "notes": "PDV: passar o mouse sobre um item da busca nao apaga mais o produto (o hover usava branco); agora fundo cinza sutil e texto legivel, distinto da selecao por seta. Login: usuario Operador volta a aparecer no seletor.",
@@ -295,5 +300,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-21 16:42:49"
+    "date": "2026-08-21 20:54:12"
 }
