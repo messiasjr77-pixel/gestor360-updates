@@ -1,9 +1,14 @@
 {
-    "version": "1.1.147",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.147/gestor360-1.1.147.zip",
-    "checksum": "8af4c9deba3b9274d515040807035f11eed03d3d33b9f2e31f4604c5fd5b8f0e",
-    "notes": "Etiqueta de preco (Daruma DLL): codigo do produto sai em corpo duplo no modo grande, quase do tamanho da descricao.",
+    "version": "1.1.148",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.148/gestor360-1.1.148.zip",
+    "checksum": "beef531408ae365128dec7dc01a0dbbbab1ea598ade9fb9374e0c069a9d2214c",
+    "notes": "PDV: passar o mouse sobre um item da busca nao apaga mais o produto (o hover usava branco); agora fundo cinza sutil e texto legivel, distinto da selecao por seta. Login: usuario Operador volta a aparecer no seletor.",
     "history": [
+        {
+            "version": "1.1.148",
+            "notes": "PDV: passar o mouse sobre um item da busca nao apaga mais o produto (o hover usava branco); agora fundo cinza sutil e texto legivel, distinto da selecao por seta. Login: usuario Operador volta a aparecer no seletor.",
+            "date": "2026-08-21 16:42:49"
+        },
         {
             "version": "1.1.147",
             "notes": "Etiqueta de preco (Daruma DLL): codigo do produto sai em corpo duplo no modo grande, quase do tamanho da descricao.",
@@ -290,5 +295,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-20 19:12:43"
+    "date": "2026-08-21 16:42:49"
 }
