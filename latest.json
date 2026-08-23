@@ -1,9 +1,14 @@
 {
-    "version": "1.1.152",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.152/gestor360-1.1.152.zip",
-    "checksum": "d38dc7f4ec3487dbc78f84903d0b2346b9386e3688935fc970696ff06fdf977a",
-    "notes": "Sync: bootstrap automatico de terminal novo. Ao instalar/parear, o terminal puxa o retrato completo do peer (novo endpoint snapshot) e se preenche sozinho na 1a sincronizacao, sem divergencia. Sync incremental normal depois. Nao afeta terminais ja existentes.",
+    "version": "1.1.153",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.153/gestor360-1.1.153.zip",
+    "checksum": "44e47621ce060c833df07e177a721315b7d0aa9f17426152651836704624d3a4",
+    "notes": "PDV mais rapido: a conexao em tempo real (SSE) do cupom passa a ser sempre LOCAL, em vez de conectar no terminal de outro caixa da rede. Isso deixa a ENTRADA e a SAIDA do PDV bem mais leves (nao trava fechando conexao com outro terminal). As conexoes tambem sao encerradas ao sair da tela.",
     "history": [
+        {
+            "version": "1.1.153",
+            "notes": "PDV mais rapido: a conexao em tempo real (SSE) do cupom passa a ser sempre LOCAL, em vez de conectar no terminal de outro caixa da rede. Isso deixa a ENTRADA e a SAIDA do PDV bem mais leves (nao trava fechando conexao com outro terminal). As conexoes tambem sao encerradas ao sair da tela.",
+            "date": "2026-08-23 11:19:41"
+        },
         {
             "version": "1.1.152",
             "notes": "Sync: bootstrap automatico de terminal novo. Ao instalar/parear, o terminal puxa o retrato completo do peer (novo endpoint snapshot) e se preenche sozinho na 1a sincronizacao, sem divergencia. Sync incremental normal depois. Nao afeta terminais ja existentes.",
@@ -315,5 +320,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-22 13:05:28"
+    "date": "2026-08-23 11:19:41"
 }
