@@ -1,9 +1,14 @@
 {
-    "version": "1.1.154",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.154/gestor360-1.1.154.zip",
-    "checksum": "1a963d11916d34fc2a820d19089409054a8659418fbc467cb46c86cd5c51b0d2",
-    "notes": "Contas a Pagar: saidas do Caixa (Caixa -> Saidas) aparecem na lista ja marcadas como pagas (abas Mes/Dia/Periodo, combinam com Pagas), incluidas tambem no PDF e no WhatsApp. Read-only (editar no Caixa). Limpar filtros zera a data do Dia.",
+    "version": "1.1.155",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.155/gestor360-1.1.155.zip",
+    "checksum": "3ec0611597d69e5fcc430c6b364f8a330bce4d994131ecf18fe783f9e9e35b2d",
+    "notes": "Nova identidade visual COREX AUTOMACAO (logo, favicon e nomes nas telas) substituindo o Gestor360. Entrada NF-e: corrige o total de itens em fardo/embalagem (ex.: 80un por 8,28 vinha 8,00) - agora usa o preco unitario exato, sem perder centavos; e editar o valor total passa a colar (nao volta mais sozinho).",
     "history": [
+        {
+            "version": "1.1.155",
+            "notes": "Nova identidade visual COREX AUTOMACAO (logo, favicon e nomes nas telas) substituindo o Gestor360. Entrada NF-e: corrige o total de itens em fardo/embalagem (ex.: 80un por 8,28 vinha 8,00) - agora usa o preco unitario exato, sem perder centavos; e editar o valor total passa a colar (nao volta mais sozinho).",
+            "date": "2026-08-25 18:19:11"
+        },
         {
             "version": "1.1.154",
             "notes": "Contas a Pagar: saidas do Caixa (Caixa -> Saidas) aparecem na lista ja marcadas como pagas (abas Mes/Dia/Periodo, combinam com Pagas), incluidas tambem no PDF e no WhatsApp. Read-only (editar no Caixa). Limpar filtros zera a data do Dia.",
@@ -325,5 +330,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-25 16:42:09"
+    "date": "2026-08-25 18:19:11"
 }
