@@ -1,9 +1,14 @@
 {
-    "version": "1.1.155",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.155/gestor360-1.1.155.zip",
-    "checksum": "3ec0611597d69e5fcc430c6b364f8a330bce4d994131ecf18fe783f9e9e35b2d",
-    "notes": "Nova identidade visual COREX AUTOMACAO (logo, favicon e nomes nas telas) substituindo o Gestor360. Entrada NF-e: corrige o total de itens em fardo/embalagem (ex.: 80un por 8,28 vinha 8,00) - agora usa o preco unitario exato, sem perder centavos; e editar o valor total passa a colar (nao volta mais sozinho).",
+    "version": "1.1.156",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.156/gestor360-1.1.156.zip",
+    "checksum": "9dc063565e606988ec195f06714b554d89897ab42281debdc5a8254a67270fd6",
+    "notes": "Cartao de credito: novo botao 'Dividir fatura por categoria' (estilo YAMPA) - informe o total e some por categoria do plano de contas com indicador de Restante; regime de caixa (entra no Fluxo ao pagar) sem perder a projecao das faturas futuras; guarda a ultima divisao como modelo. Renomeado 'Categorias Financeiras' para 'Plano de Contas' no menu, telas e campos das entradas.",
     "history": [
+        {
+            "version": "1.1.156",
+            "notes": "Cartao de credito: novo botao 'Dividir fatura por categoria' (estilo YAMPA) - informe o total e some por categoria do plano de contas com indicador de Restante; regime de caixa (entra no Fluxo ao pagar) sem perder a projecao das faturas futuras; guarda a ultima divisao como modelo. Renomeado 'Categorias Financeiras' para 'Plano de Contas' no menu, telas e campos das entradas.",
+            "date": "2026-08-27 09:48:16"
+        },
         {
             "version": "1.1.155",
             "notes": "Nova identidade visual COREX AUTOMACAO (logo, favicon e nomes nas telas) substituindo o Gestor360. Entrada NF-e: corrige o total de itens em fardo/embalagem (ex.: 80un por 8,28 vinha 8,00) - agora usa o preco unitario exato, sem perder centavos; e editar o valor total passa a colar (nao volta mais sozinho).",
@@ -330,5 +335,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-25 18:19:11"
+    "date": "2026-08-27 09:48:16"
 }
