@@ -1,9 +1,14 @@
 {
-    "version": "1.1.156",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.156/gestor360-1.1.156.zip",
-    "checksum": "9dc063565e606988ec195f06714b554d89897ab42281debdc5a8254a67270fd6",
-    "notes": "Cartao de credito: novo botao 'Dividir fatura por categoria' (estilo YAMPA) - informe o total e some por categoria do plano de contas com indicador de Restante; regime de caixa (entra no Fluxo ao pagar) sem perder a projecao das faturas futuras; guarda a ultima divisao como modelo. Renomeado 'Categorias Financeiras' para 'Plano de Contas' no menu, telas e campos das entradas.",
+    "version": "1.1.157",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.157/gestor360-1.1.157.zip",
+    "checksum": "ed6ab73166272138931f05e6a17bcb3cf82ba88e89514b0b5dfbe4ce4f2721e0",
+    "notes": "PDV: pagamento misto volta a funcionar (ex.: parte no debito + parte no PIX). Troco em destaque: cartao grande no centro ao finalizar em dinheiro (liga/desliga em Admin->PDV->Configuracoes). Cancelamento de venda/NFC-e: usa a senha da conta 'Administrador', que agora NAO loga no sistema (so autoriza); ESC fecha a tela de confirmacao. Usuarios: tela nao corta mais os botoes; a senha do admin nao pode ser revelada (sem olho). Tela de Atualizacao abre instantanea.",
     "history": [
+        {
+            "version": "1.1.157",
+            "notes": "PDV: pagamento misto volta a funcionar (ex.: parte no debito + parte no PIX). Troco em destaque: cartao grande no centro ao finalizar em dinheiro (liga/desliga em Admin->PDV->Configuracoes). Cancelamento de venda/NFC-e: usa a senha da conta 'Administrador', que agora NAO loga no sistema (so autoriza); ESC fecha a tela de confirmacao. Usuarios: tela nao corta mais os botoes; a senha do admin nao pode ser revelada (sem olho). Tela de Atualizacao abre instantanea.",
+            "date": "2026-08-28 10:06:58"
+        },
         {
             "version": "1.1.156",
             "notes": "Cartao de credito: novo botao 'Dividir fatura por categoria' (estilo YAMPA) - informe o total e some por categoria do plano de contas com indicador de Restante; regime de caixa (entra no Fluxo ao pagar) sem perder a projecao das faturas futuras; guarda a ultima divisao como modelo. Renomeado 'Categorias Financeiras' para 'Plano de Contas' no menu, telas e campos das entradas.",
@@ -335,5 +340,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-27 09:48:16"
+    "date": "2026-08-28 10:06:58"
 }
