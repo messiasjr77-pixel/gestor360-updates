@@ -1,9 +1,14 @@
 {
-    "version": "1.1.157",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.157/gestor360-1.1.157.zip",
-    "checksum": "ed6ab73166272138931f05e6a17bcb3cf82ba88e89514b0b5dfbe4ce4f2721e0",
-    "notes": "PDV: pagamento misto volta a funcionar (ex.: parte no debito + parte no PIX). Troco em destaque: cartao grande no centro ao finalizar em dinheiro (liga/desliga em Admin->PDV->Configuracoes). Cancelamento de venda/NFC-e: usa a senha da conta 'Administrador', que agora NAO loga no sistema (so autoriza); ESC fecha a tela de confirmacao. Usuarios: tela nao corta mais os botoes; a senha do admin nao pode ser revelada (sem olho). Tela de Atualizacao abre instantanea.",
+    "version": "1.1.158",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.158/gestor360-1.1.158.zip",
+    "checksum": "5c784724f8539969592c9fd019439eaa62b638818e38fe88cfa338b66f42d098",
+    "notes": "PDV: novo 'CPF na nota' (Ctrl+C / menu) — digita o CPF de consumidor NAO cadastrado, sem sair da venda, e ele vai na NFC-e (cliente cadastrado segue so no crediario). Indicador de sincronizacao no cabecalho (verde/amarelo/vermelho + detalhe dos terminais). Crediario: ao CANCELAR a janela de confirmacao, solta o cliente escolhido (da pra selecionar outro). Janela do crediario mostra o TOTAL que o cliente ficara devendo (em aberto + esta venda).",
     "history": [
+        {
+            "version": "1.1.158",
+            "notes": "PDV: novo 'CPF na nota' (Ctrl+C / menu) — digita o CPF de consumidor NAO cadastrado, sem sair da venda, e ele vai na NFC-e (cliente cadastrado segue so no crediario). Indicador de sincronizacao no cabecalho (verde/amarelo/vermelho + detalhe dos terminais). Crediario: ao CANCELAR a janela de confirmacao, solta o cliente escolhido (da pra selecionar outro). Janela do crediario mostra o TOTAL que o cliente ficara devendo (em aberto + esta venda).",
+            "date": "2026-08-29 16:35:53"
+        },
         {
             "version": "1.1.157",
             "notes": "PDV: pagamento misto volta a funcionar (ex.: parte no debito + parte no PIX). Troco em destaque: cartao grande no centro ao finalizar em dinheiro (liga/desliga em Admin->PDV->Configuracoes). Cancelamento de venda/NFC-e: usa a senha da conta 'Administrador', que agora NAO loga no sistema (so autoriza); ESC fecha a tela de confirmacao. Usuarios: tela nao corta mais os botoes; a senha do admin nao pode ser revelada (sem olho). Tela de Atualizacao abre instantanea.",
@@ -340,5 +345,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-28 10:06:58"
+    "date": "2026-08-29 16:35:53"
 }
