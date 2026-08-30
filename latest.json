@@ -1,9 +1,14 @@
 {
-    "version": "1.1.158",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.158/gestor360-1.1.158.zip",
-    "checksum": "5c784724f8539969592c9fd019439eaa62b638818e38fe88cfa338b66f42d098",
-    "notes": "PDV: novo 'CPF na nota' (Ctrl+C / menu) — digita o CPF de consumidor NAO cadastrado, sem sair da venda, e ele vai na NFC-e (cliente cadastrado segue so no crediario). Indicador de sincronizacao no cabecalho (verde/amarelo/vermelho + detalhe dos terminais). Crediario: ao CANCELAR a janela de confirmacao, solta o cliente escolhido (da pra selecionar outro). Janela do crediario mostra o TOTAL que o cliente ficara devendo (em aberto + esta venda).",
+    "version": "1.1.159",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.159/gestor360-1.1.159.zip",
+    "checksum": "091bdab45f454848f446bd05885021509e38ff62049688e76aa5908c4bd72528",
+    "notes": "Entrada Manual: busca produto pelo codigo do Pacote (PCT) e avisa se nao cadastrado; autosave agora persiste no servidor (F5/Historico refletem a tela); pagamento a vista/boleto tem seletor de categoria/subcategoria do plano de contas; ao finalizar, o nome editado atualiza o cadastro e o ajuste de estoque usa contagem absoluta (anti-drift entre terminais). Lista de Compras: estoque atual editavel na propria lista. Contas a Pagar: saidas do Caixa aparecem na lista/PDF/WhatsApp como pagas.",
     "history": [
+        {
+            "version": "1.1.159",
+            "notes": "Entrada Manual: busca produto pelo codigo do Pacote (PCT) e avisa se nao cadastrado; autosave agora persiste no servidor (F5/Historico refletem a tela); pagamento a vista/boleto tem seletor de categoria/subcategoria do plano de contas; ao finalizar, o nome editado atualiza o cadastro e o ajuste de estoque usa contagem absoluta (anti-drift entre terminais). Lista de Compras: estoque atual editavel na propria lista. Contas a Pagar: saidas do Caixa aparecem na lista/PDF/WhatsApp como pagas.",
+            "date": "2026-08-30 13:18:16"
+        },
         {
             "version": "1.1.158",
             "notes": "PDV: novo 'CPF na nota' (Ctrl+C / menu) — digita o CPF de consumidor NAO cadastrado, sem sair da venda, e ele vai na NFC-e (cliente cadastrado segue so no crediario). Indicador de sincronizacao no cabecalho (verde/amarelo/vermelho + detalhe dos terminais). Crediario: ao CANCELAR a janela de confirmacao, solta o cliente escolhido (da pra selecionar outro). Janela do crediario mostra o TOTAL que o cliente ficara devendo (em aberto + esta venda).",
@@ -345,5 +350,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-29 16:35:53"
+    "date": "2026-08-30 13:18:16"
 }
