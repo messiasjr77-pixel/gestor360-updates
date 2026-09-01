@@ -1,9 +1,14 @@
 {
-    "version": "1.1.159",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.159/gestor360-1.1.159.zip",
-    "checksum": "091bdab45f454848f446bd05885021509e38ff62049688e76aa5908c4bd72528",
-    "notes": "Entrada Manual: busca produto pelo codigo do Pacote (PCT) e avisa se nao cadastrado; autosave agora persiste no servidor (F5/Historico refletem a tela); pagamento a vista/boleto tem seletor de categoria/subcategoria do plano de contas; ao finalizar, o nome editado atualiza o cadastro e o ajuste de estoque usa contagem absoluta (anti-drift entre terminais). Lista de Compras: estoque atual editavel na propria lista. Contas a Pagar: saidas do Caixa aparecem na lista/PDF/WhatsApp como pagas.",
+    "version": "1.1.160",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.160/gestor360-1.1.160.zip",
+    "checksum": "4bef16b8a46529af04fc87df4dbd25003af8d323b46a234b562376a12a82fb0c",
+    "notes": "Financeiro: contas marcadas como PREVISTO nao entram mais no Fluxo de Caixa (viram so projecao) + toggle 'Previstos' em Contas a Pagar pra exibir/ocultar. Fluxo de Caixa: crediario nas entradas agora e o RECEBIDO (regime de caixa), nao o vendido; clicar em Crediario mostra dinheiro x outros meios. Novas telas: Movimento->Formas de Pagamento (entradas por forma, dia a dia) e Financeiro->Recebimentos de Crediario. PDV: CPF na nota (Ctrl+C) pra consumidor nao cadastrado; foco volta ao codigo de barras apos operacoes. Contas a Pagar: barra de filtros reorganizada; abas Dia/Mes/Periodo com clique pra remover. Entrada Manual: carrega pacote do produto, entrada em PCT calcula preco unitario/medio, economia do pacote. Menu renomeado. Cancelamento pela senha do admin.",
     "history": [
+        {
+            "version": "1.1.160",
+            "notes": "Financeiro: contas marcadas como PREVISTO nao entram mais no Fluxo de Caixa (viram so projecao) + toggle 'Previstos' em Contas a Pagar pra exibir/ocultar. Fluxo de Caixa: crediario nas entradas agora e o RECEBIDO (regime de caixa), nao o vendido; clicar em Crediario mostra dinheiro x outros meios. Novas telas: Movimento->Formas de Pagamento (entradas por forma, dia a dia) e Financeiro->Recebimentos de Crediario. PDV: CPF na nota (Ctrl+C) pra consumidor nao cadastrado; foco volta ao codigo de barras apos operacoes. Contas a Pagar: barra de filtros reorganizada; abas Dia/Mes/Periodo com clique pra remover. Entrada Manual: carrega pacote do produto, entrada em PCT calcula preco unitario/medio, economia do pacote. Menu renomeado. Cancelamento pela senha do admin.",
+            "date": "2026-09-01 17:06:52"
+        },
         {
             "version": "1.1.159",
             "notes": "Entrada Manual: busca produto pelo codigo do Pacote (PCT) e avisa se nao cadastrado; autosave agora persiste no servidor (F5/Historico refletem a tela); pagamento a vista/boleto tem seletor de categoria/subcategoria do plano de contas; ao finalizar, o nome editado atualiza o cadastro e o ajuste de estoque usa contagem absoluta (anti-drift entre terminais). Lista de Compras: estoque atual editavel na propria lista. Contas a Pagar: saidas do Caixa aparecem na lista/PDF/WhatsApp como pagas.",
@@ -350,5 +355,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-08-30 13:18:16"
+    "date": "2026-09-01 17:06:52"
 }
