@@ -1,9 +1,14 @@
 {
-    "version": "1.1.160",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.160/gestor360-1.1.160.zip",
-    "checksum": "4bef16b8a46529af04fc87df4dbd25003af8d323b46a234b562376a12a82fb0c",
-    "notes": "Financeiro: contas marcadas como PREVISTO nao entram mais no Fluxo de Caixa (viram so projecao) + toggle 'Previstos' em Contas a Pagar pra exibir/ocultar. Fluxo de Caixa: crediario nas entradas agora e o RECEBIDO (regime de caixa), nao o vendido; clicar em Crediario mostra dinheiro x outros meios. Novas telas: Movimento->Formas de Pagamento (entradas por forma, dia a dia) e Financeiro->Recebimentos de Crediario. PDV: CPF na nota (Ctrl+C) pra consumidor nao cadastrado; foco volta ao codigo de barras apos operacoes. Contas a Pagar: barra de filtros reorganizada; abas Dia/Mes/Periodo com clique pra remover. Entrada Manual: carrega pacote do produto, entrada em PCT calcula preco unitario/medio, economia do pacote. Menu renomeado. Cancelamento pela senha do admin.",
+    "version": "1.1.161",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.161/gestor360-1.1.161.zip",
+    "checksum": "d4ec27c4cfad35b3bc58382775e91a85f36da8e019ff6369a2af05a2b77b5ccb",
+    "notes": "Contas a Pagar: contas marcadas como PREVISTO agora sao excluidas automaticamente um dia apos o vencimento (ficam visiveis so ate o vencimento; as ja pagas sao preservadas). Toggle 'Previstos' comeca DESMARCADO (previstas ocultas por padrao, aparecem so ao clicar).",
     "history": [
+        {
+            "version": "1.1.161",
+            "notes": "Contas a Pagar: contas marcadas como PREVISTO agora sao excluidas automaticamente um dia apos o vencimento (ficam visiveis so ate o vencimento; as ja pagas sao preservadas). Toggle 'Previstos' comeca DESMARCADO (previstas ocultas por padrao, aparecem so ao clicar).",
+            "date": "2026-09-01 18:24:17"
+        },
         {
             "version": "1.1.160",
             "notes": "Financeiro: contas marcadas como PREVISTO nao entram mais no Fluxo de Caixa (viram so projecao) + toggle 'Previstos' em Contas a Pagar pra exibir/ocultar. Fluxo de Caixa: crediario nas entradas agora e o RECEBIDO (regime de caixa), nao o vendido; clicar em Crediario mostra dinheiro x outros meios. Novas telas: Movimento->Formas de Pagamento (entradas por forma, dia a dia) e Financeiro->Recebimentos de Crediario. PDV: CPF na nota (Ctrl+C) pra consumidor nao cadastrado; foco volta ao codigo de barras apos operacoes. Contas a Pagar: barra de filtros reorganizada; abas Dia/Mes/Periodo com clique pra remover. Entrada Manual: carrega pacote do produto, entrada em PCT calcula preco unitario/medio, economia do pacote. Menu renomeado. Cancelamento pela senha do admin.",
@@ -355,5 +360,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-01 17:06:52"
+    "date": "2026-09-01 18:24:17"
 }
