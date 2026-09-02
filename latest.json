@@ -1,9 +1,14 @@
 {
-    "version": "1.1.161",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.161/gestor360-1.1.161.zip",
-    "checksum": "d4ec27c4cfad35b3bc58382775e91a85f36da8e019ff6369a2af05a2b77b5ccb",
-    "notes": "Contas a Pagar: contas marcadas como PREVISTO agora sao excluidas automaticamente um dia apos o vencimento (ficam visiveis so ate o vencimento; as ja pagas sao preservadas). Toggle 'Previstos' comeca DESMARCADO (previstas ocultas por padrao, aparecem so ao clicar).",
+    "version": "1.1.162",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.162/gestor360-1.1.162.zip",
+    "checksum": "f9a5de0308b03e7f95dfe4fd4508ec0db30814980855fec9d4bb68889bec5b6b",
+    "notes": "Entrada NF-e: correcao de arredondamento (preco unitario ate 4 casas — total do item bate com a nota em itens baratos) + edicao de entrada FINALIZADA (botao Editar no historico; ao salvar, reverte estoque/custo/contas pendentes e reaplica). Entrada Manual: bloqueia finalizar sem preco de venda + preco de compra ate 4 casas.",
     "history": [
+        {
+            "version": "1.1.162",
+            "notes": "Entrada NF-e: correcao de arredondamento (preco unitario ate 4 casas — total do item bate com a nota em itens baratos) + edicao de entrada FINALIZADA (botao Editar no historico; ao salvar, reverte estoque/custo/contas pendentes e reaplica). Entrada Manual: bloqueia finalizar sem preco de venda + preco de compra ate 4 casas.",
+            "date": "2026-09-02 13:34:31"
+        },
         {
             "version": "1.1.161",
             "notes": "Contas a Pagar: contas marcadas como PREVISTO agora sao excluidas automaticamente um dia apos o vencimento (ficam visiveis so ate o vencimento; as ja pagas sao preservadas). Toggle 'Previstos' comeca DESMARCADO (previstas ocultas por padrao, aparecem so ao clicar).",
@@ -360,5 +365,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-01 18:24:17"
+    "date": "2026-09-02 13:34:31"
 }
