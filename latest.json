@@ -1,9 +1,14 @@
 {
-    "version": "1.1.162",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.162/gestor360-1.1.162.zip",
-    "checksum": "f9a5de0308b03e7f95dfe4fd4508ec0db30814980855fec9d4bb68889bec5b6b",
-    "notes": "Entrada NF-e: correcao de arredondamento (preco unitario ate 4 casas — total do item bate com a nota em itens baratos) + edicao de entrada FINALIZADA (botao Editar no historico; ao salvar, reverte estoque/custo/contas pendentes e reaplica). Entrada Manual: bloqueia finalizar sem preco de venda + preco de compra ate 4 casas.",
+    "version": "1.1.163",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.163/gestor360-1.1.163.zip",
+    "checksum": "72c2b32e544dd52562f044ec400db6b2dc55b03a679677caf255a93e3841c706",
+    "notes": "Entrada NF-e: custo unitario liquido (desconto por item embutido no preco, corrige margem inflada) e linha Descontos informativa no Resumo.",
     "history": [
+        {
+            "version": "1.1.163",
+            "notes": "Entrada NF-e: custo unitario liquido (desconto por item embutido no preco, corrige margem inflada) e linha Descontos informativa no Resumo.",
+            "date": "2026-09-04 08:33:04"
+        },
         {
             "version": "1.1.162",
             "notes": "Entrada NF-e: correcao de arredondamento (preco unitario ate 4 casas — total do item bate com a nota em itens baratos) + edicao de entrada FINALIZADA (botao Editar no historico; ao salvar, reverte estoque/custo/contas pendentes e reaplica). Entrada Manual: bloqueia finalizar sem preco de venda + preco de compra ate 4 casas.",
@@ -365,5 +370,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-02 13:34:31"
+    "date": "2026-09-04 08:33:04"
 }
