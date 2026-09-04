@@ -1,9 +1,14 @@
 {
-    "version": "1.1.164",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.164/gestor360-1.1.164.zip",
-    "checksum": "b00cc26a8ce6b6fb898271b08847a40fead1a4f66533b250a92ab4a3595c67c7",
-    "notes": "Classificacao de custo em 3 niveis (Conta > Subcategoria > Categoria) com tipo efetivo e A classificar; recuperacao automatica de XML de NFC-e 1x/dia as 13h em background; PRG em Contas a Pagar (F5 nao reenvia); Entrada NF-e linha Descontos informativa.",
+    "version": "1.1.165",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.165/gestor360-1.1.165.zip",
+    "checksum": "24bee4265f549cb3108779c33ad59891fe40d01623c59d1176ac2c5934193f57",
+    "notes": "NCM iogurte: corrige tabela de sugestao (0403.10.00 extinto -> 0403.20.00) no autocomplete e no Corrigir NCM (migration 044). Nao altera NCM de produtos ja cadastrados.",
     "history": [
+        {
+            "version": "1.1.165",
+            "notes": "NCM iogurte: corrige tabela de sugestao (0403.10.00 extinto -> 0403.20.00) no autocomplete e no Corrigir NCM (migration 044). Nao altera NCM de produtos ja cadastrados.",
+            "date": "2026-09-04 17:25:55"
+        },
         {
             "version": "1.1.164",
             "notes": "Classificacao de custo em 3 niveis (Conta > Subcategoria > Categoria) com tipo efetivo e A classificar; recuperacao automatica de XML de NFC-e 1x/dia as 13h em background; PRG em Contas a Pagar (F5 nao reenvia); Entrada NF-e linha Descontos informativa.",
@@ -375,5 +380,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-04 15:56:53"
+    "date": "2026-09-04 17:25:55"
 }
