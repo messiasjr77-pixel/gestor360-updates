@@ -1,9 +1,14 @@
 {
-    "version": "1.1.166",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.166/gestor360-1.1.166.zip",
-    "checksum": "a21acf986ec012d83950745b730b5d1ccf15e3a93aa9ae35c09c23a5875af585",
-    "notes": "Plano de Contas estilo Yampa: arvore numerada de 3 niveis (grupo -> categoria x.y -> subconta x.y.z) com acordeao e busca. Migracao gerencial (DRE): grupo Receitas/Custos Variaveis/Despesas Fixas/Investimentos/Movimentacoes Nao Operacionais; lancamentos remapeados preservando valor/data/historico (backup automatico). Aba DRE no Relatorio Gerencial (Margem de contribuicao, Lucro operacional, Resultado liquido). Entradas nao operacionais (emprestimos/aportes/doacoes) fora do faturamento. Alerta de lancamentos 'a classificar'. Caixa/Saidas: tipo Reserva nao exige categoria (mostra 'nao se aplica').",
+    "version": "1.1.167",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.167/gestor360-1.1.167.zip",
+    "checksum": "ab7e66627ca26e2a5a8ca7fb08920e2a6dc36a96a6664f0b2b8c7f88ba331b2c",
+    "notes": "PDV: aviso 'Emissor fiscal fora do ar' (BrasilNFe indisponivel) + comprovante provisorio nao-fiscal (SEM VALOR FISCAL) impresso automaticamente na contingencia, com botao de reimpressao.",
     "history": [
+        {
+            "version": "1.1.167",
+            "notes": "PDV: aviso 'Emissor fiscal fora do ar' (BrasilNFe indisponivel) + comprovante provisorio nao-fiscal (SEM VALOR FISCAL) impresso automaticamente na contingencia, com botao de reimpressao.",
+            "date": "2026-09-06 12:56:12"
+        },
         {
             "version": "1.1.166",
             "notes": "Plano de Contas estilo Yampa: arvore numerada de 3 niveis (grupo -> categoria x.y -> subconta x.y.z) com acordeao e busca. Migracao gerencial (DRE): grupo Receitas/Custos Variaveis/Despesas Fixas/Investimentos/Movimentacoes Nao Operacionais; lancamentos remapeados preservando valor/data/historico (backup automatico). Aba DRE no Relatorio Gerencial (Margem de contribuicao, Lucro operacional, Resultado liquido). Entradas nao operacionais (emprestimos/aportes/doacoes) fora do faturamento. Alerta de lancamentos 'a classificar'. Caixa/Saidas: tipo Reserva nao exige categoria (mostra 'nao se aplica').",
@@ -385,5 +390,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-06 09:16:52"
+    "date": "2026-09-06 12:56:12"
 }
