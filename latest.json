@@ -1,9 +1,14 @@
 {
-    "version": "1.1.165",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.165/gestor360-1.1.165.zip",
-    "checksum": "24bee4265f549cb3108779c33ad59891fe40d01623c59d1176ac2c5934193f57",
-    "notes": "NCM iogurte: corrige tabela de sugestao (0403.10.00 extinto -> 0403.20.00) no autocomplete e no Corrigir NCM (migration 044). Nao altera NCM de produtos ja cadastrados.",
+    "version": "1.1.166",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.166/gestor360-1.1.166.zip",
+    "checksum": "a21acf986ec012d83950745b730b5d1ccf15e3a93aa9ae35c09c23a5875af585",
+    "notes": "Plano de Contas estilo Yampa: arvore numerada de 3 niveis (grupo -> categoria x.y -> subconta x.y.z) com acordeao e busca. Migracao gerencial (DRE): grupo Receitas/Custos Variaveis/Despesas Fixas/Investimentos/Movimentacoes Nao Operacionais; lancamentos remapeados preservando valor/data/historico (backup automatico). Aba DRE no Relatorio Gerencial (Margem de contribuicao, Lucro operacional, Resultado liquido). Entradas nao operacionais (emprestimos/aportes/doacoes) fora do faturamento. Alerta de lancamentos 'a classificar'. Caixa/Saidas: tipo Reserva nao exige categoria (mostra 'nao se aplica').",
     "history": [
+        {
+            "version": "1.1.166",
+            "notes": "Plano de Contas estilo Yampa: arvore numerada de 3 niveis (grupo -> categoria x.y -> subconta x.y.z) com acordeao e busca. Migracao gerencial (DRE): grupo Receitas/Custos Variaveis/Despesas Fixas/Investimentos/Movimentacoes Nao Operacionais; lancamentos remapeados preservando valor/data/historico (backup automatico). Aba DRE no Relatorio Gerencial (Margem de contribuicao, Lucro operacional, Resultado liquido). Entradas nao operacionais (emprestimos/aportes/doacoes) fora do faturamento. Alerta de lancamentos 'a classificar'. Caixa/Saidas: tipo Reserva nao exige categoria (mostra 'nao se aplica').",
+            "date": "2026-09-06 09:16:52"
+        },
         {
             "version": "1.1.165",
             "notes": "NCM iogurte: corrige tabela de sugestao (0403.10.00 extinto -> 0403.20.00) no autocomplete e no Corrigir NCM (migration 044). Nao altera NCM de produtos ja cadastrados.",
@@ -380,5 +385,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-04 17:25:55"
+    "date": "2026-09-06 09:16:52"
 }
