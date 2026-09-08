@@ -1,9 +1,14 @@
 {
-    "version": "1.1.167",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.167/gestor360-1.1.167.zip",
-    "checksum": "ab7e66627ca26e2a5a8ca7fb08920e2a6dc36a96a6664f0b2b8c7f88ba331b2c",
-    "notes": "PDV: aviso 'Emissor fiscal fora do ar' (BrasilNFe indisponivel) + comprovante provisorio nao-fiscal (SEM VALOR FISCAL) impresso automaticamente na contingencia, com botao de reimpressao.",
+    "version": "1.1.168",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.168/gestor360-1.1.168.zip",
+    "checksum": "01954049091a0668d72bed61fb4adac671034af2b8dfb449625fabe05bb2edda",
+    "notes": "Plano de contas agrupado (conta > subconta) em Contas a Pagar, Conciliacao e Entrada NF-e; excluir conta/subconta com remanejamento; Pro-labore agora dentro de Despesas Fixas; fix travamento da Entrada NF-e (query lenta); conciliacao bancaria OFX.",
     "history": [
+        {
+            "version": "1.1.168",
+            "notes": "Plano de contas agrupado (conta > subconta) em Contas a Pagar, Conciliacao e Entrada NF-e; excluir conta/subconta com remanejamento; Pro-labore agora dentro de Despesas Fixas; fix travamento da Entrada NF-e (query lenta); conciliacao bancaria OFX.",
+            "date": "2026-09-08 19:38:59"
+        },
         {
             "version": "1.1.167",
             "notes": "PDV: aviso 'Emissor fiscal fora do ar' (BrasilNFe indisponivel) + comprovante provisorio nao-fiscal (SEM VALOR FISCAL) impresso automaticamente na contingencia, com botao de reimpressao.",
@@ -390,5 +395,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-06 12:56:12"
+    "date": "2026-09-08 19:38:59"
 }
