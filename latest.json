@@ -1,9 +1,14 @@
 {
-    "version": "1.1.169",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.169/gestor360-1.1.169.zip",
-    "checksum": "bbe9402f249cec4c8c111d49fb615cdcf347e5653f9bc7c21aae89a068b5806f",
-    "notes": "Guarda de disco: aviso antecipado de disco quase cheio (banner p/ admin) e backup a prova de disco cheio; tela amigavel 'sem espaco em disco' no lugar de erro 500",
+    "version": "1.1.170",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.170/gestor360-1.1.170.zip",
+    "checksum": "7e288ff314cb2fdfda89dbdef86a650571bd8a430f3cfeeb461ec36a88bd563a",
+    "notes": "Conciliacao: busca de fornecedor no Criar(pago); Entrada NF-e: preserva NCM ao salvar/reabrir rascunho (produto novo nao trava mais); Sync: codigo de barras reatribuido a pacote converge entre terminais",
     "history": [
+        {
+            "version": "1.1.170",
+            "notes": "Conciliacao: busca de fornecedor no Criar(pago); Entrada NF-e: preserva NCM ao salvar/reabrir rascunho (produto novo nao trava mais); Sync: codigo de barras reatribuido a pacote converge entre terminais",
+            "date": "2026-09-10 14:57:45"
+        },
         {
             "version": "1.1.169",
             "notes": "Guarda de disco: aviso antecipado de disco quase cheio (banner p/ admin) e backup a prova de disco cheio; tela amigavel 'sem espaco em disco' no lugar de erro 500",
@@ -400,5 +405,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-10 09:12:48"
+    "date": "2026-09-10 14:57:45"
 }
