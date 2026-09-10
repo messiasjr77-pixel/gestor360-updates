@@ -1,9 +1,14 @@
 {
-    "version": "1.1.170",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.170/gestor360-1.1.170.zip",
-    "checksum": "7e288ff314cb2fdfda89dbdef86a650571bd8a430f3cfeeb461ec36a88bd563a",
-    "notes": "Conciliacao: busca de fornecedor no Criar(pago); Entrada NF-e: preserva NCM ao salvar/reabrir rascunho (produto novo nao trava mais); Sync: codigo de barras reatribuido a pacote converge entre terminais",
+    "version": "1.1.171",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.171/gestor360-1.1.171.zip",
+    "checksum": "f7c9f286840b8922813649565ff360ff356609fa4ede874cac4db8163380e2b6",
+    "notes": "Conciliacao: seletor de fornecedor abre ao clicar e Criar como PAGO grava descricao (fim do erro NOT NULL); Entrada NF-e: preenche fornecedor e NCM em produto ja existente quando o cadastro esta vazio",
     "history": [
+        {
+            "version": "1.1.171",
+            "notes": "Conciliacao: seletor de fornecedor abre ao clicar e Criar como PAGO grava descricao (fim do erro NOT NULL); Entrada NF-e: preenche fornecedor e NCM em produto ja existente quando o cadastro esta vazio",
+            "date": "2026-09-10 17:59:12"
+        },
         {
             "version": "1.1.170",
             "notes": "Conciliacao: busca de fornecedor no Criar(pago); Entrada NF-e: preserva NCM ao salvar/reabrir rascunho (produto novo nao trava mais); Sync: codigo de barras reatribuido a pacote converge entre terminais",
@@ -398,12 +403,7 @@
             "version": "1.1.88",
             "notes": "Entrada NF-e: corrige o desconto por item ao reabrir rascunho — o total nao infla mais (ex.: notas com abatimento). Inclui pendencias de entrada (item que faltou + boleto pra refazer) e melhorias de caixa/pacote.",
             "date": "2026-07-13 18:48:38"
-        },
-        {
-            "version": "1.1.87",
-            "notes": "Entrada NF-e: suporte a caixa/fardo, pacote e unidade; busca automatica de unidade no overlay; layout compacto/recolhido; alerta de divergencia; valor total editavel; historico acumulado de atualizacoes.",
-            "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-10 14:57:45"
+    "date": "2026-09-10 17:59:12"
 }
