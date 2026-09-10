@@ -1,9 +1,14 @@
 {
-    "version": "1.1.168",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.168/gestor360-1.1.168.zip",
-    "checksum": "01954049091a0668d72bed61fb4adac671034af2b8dfb449625fabe05bb2edda",
-    "notes": "Plano de contas agrupado (conta > subconta) em Contas a Pagar, Conciliacao e Entrada NF-e; excluir conta/subconta com remanejamento; Pro-labore agora dentro de Despesas Fixas; fix travamento da Entrada NF-e (query lenta); conciliacao bancaria OFX.",
+    "version": "1.1.169",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.169/gestor360-1.1.169.zip",
+    "checksum": "bbe9402f249cec4c8c111d49fb615cdcf347e5653f9bc7c21aae89a068b5806f",
+    "notes": "Guarda de disco: aviso antecipado de disco quase cheio (banner p/ admin) e backup a prova de disco cheio; tela amigavel 'sem espaco em disco' no lugar de erro 500",
     "history": [
+        {
+            "version": "1.1.169",
+            "notes": "Guarda de disco: aviso antecipado de disco quase cheio (banner p/ admin) e backup a prova de disco cheio; tela amigavel 'sem espaco em disco' no lugar de erro 500",
+            "date": "2026-09-10 09:12:48"
+        },
         {
             "version": "1.1.168",
             "notes": "Plano de contas agrupado (conta > subconta) em Contas a Pagar, Conciliacao e Entrada NF-e; excluir conta/subconta com remanejamento; Pro-labore agora dentro de Despesas Fixas; fix travamento da Entrada NF-e (query lenta); conciliacao bancaria OFX.",
@@ -395,5 +400,5 @@
             "date": "2026-07-13 18:23:44"
         }
     ],
-    "date": "2026-09-08 19:38:59"
+    "date": "2026-09-10 09:12:48"
 }
