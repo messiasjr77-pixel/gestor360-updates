@@ -1,9 +1,14 @@
 {
-    "version": "1.1.171",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.171/gestor360-1.1.171.zip",
-    "checksum": "f7c9f286840b8922813649565ff360ff356609fa4ede874cac4db8163380e2b6",
-    "notes": "Conciliacao: seletor de fornecedor abre ao clicar e Criar como PAGO grava descricao (fim do erro NOT NULL); Entrada NF-e: preenche fornecedor e NCM em produto ja existente quando o cadastro esta vazio",
+    "version": "1.1.172",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.172/gestor360-1.1.172.zip",
+    "checksum": "70ce22a97a68786e13ff63106296cee42968d0906e819837ac22487fceea6537",
+    "notes": "App mobile: aba 'Vendas do dia' (total, nº vendas, ticket, formas de pagamento); Conciliacao: confianca da sugestao (diferenca explicita, atraso, aviso de ambiguidade); DRE: pró-labore como subconta de Despesas com pessoal (linha propria, sem dupla contagem)",
     "history": [
+        {
+            "version": "1.1.172",
+            "notes": "App mobile: aba 'Vendas do dia' (total, nº vendas, ticket, formas de pagamento); Conciliacao: confianca da sugestao (diferenca explicita, atraso, aviso de ambiguidade); DRE: pró-labore como subconta de Despesas com pessoal (linha propria, sem dupla contagem)",
+            "date": "2026-09-11 15:47:37"
+        },
         {
             "version": "1.1.171",
             "notes": "Conciliacao: seletor de fornecedor abre ao clicar e Criar como PAGO grava descricao (fim do erro NOT NULL); Entrada NF-e: preenche fornecedor e NCM em produto ja existente quando o cadastro esta vazio",
@@ -398,12 +403,7 @@
             "version": "1.1.89",
             "notes": "Novo Painel Financeiro com regime de caixa, projecao de 90 dias, analises de contas, despesas, historico e decisoes sugeridas; saldo acumulado com data e valor inicial configuraveis; deep links seguros para pagar e receber; vencimento do crediario; melhorias em contas recorrentes, cofrinho, categorias, estoque, zoom e operacao do PDV; atualizador agora verifica se todos os arquivos foram realmente aplicados.",
             "date": "2026-07-16 10:44:39"
-        },
-        {
-            "version": "1.1.88",
-            "notes": "Entrada NF-e: corrige o desconto por item ao reabrir rascunho — o total nao infla mais (ex.: notas com abatimento). Inclui pendencias de entrada (item que faltou + boleto pra refazer) e melhorias de caixa/pacote.",
-            "date": "2026-07-13 18:48:38"
         }
     ],
-    "date": "2026-09-10 17:59:12"
+    "date": "2026-09-11 15:47:37"
 }
