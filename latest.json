@@ -1,9 +1,14 @@
 {
-    "version": "1.1.174",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.174/gestor360-1.1.174.zip",
-    "checksum": "a1a54d7324da62a2fdad2add5d6fcfcf8190ab587fa65474aceae97891901f20",
-    "notes": "Crediario: a configuracao de juros por atraso (prazo em dias + % ao mes) agora e GLOBAL e SINCRONIZA entre todos os terminais/caixas (antes era so no terminal onde foi configurada). Configure uma vez em Contas a Receber > Configurar crediario e vale para a loja toda.",
+    "version": "1.1.175",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.175/gestor360-1.1.175.zip",
+    "checksum": "6ed1b12e23f4ca4cec8526f5382f68cb8f0f09f781aad2d586324a9460c65755",
+    "notes": "Utilitarios: novo Comprovante de Recebimento de Mercadorias (para fornecedor sem nota fiscal) - declara o recebimento da mercadoria e o prazo de pagamento, com vencimento calculado automaticamente (ex.: 8 dias), impressao em 2 vias (via da empresa + via do fornecedor) e botao para lancar direto em Contas a Pagar ja com valor, vencimento e fornecedor preenchidos. Atalho Ctrl+M.",
     "history": [
+        {
+            "version": "1.1.175",
+            "notes": "Utilitarios: novo Comprovante de Recebimento de Mercadorias (para fornecedor sem nota fiscal) - declara o recebimento da mercadoria e o prazo de pagamento, com vencimento calculado automaticamente (ex.: 8 dias), impressao em 2 vias (via da empresa + via do fornecedor) e botao para lancar direto em Contas a Pagar ja com valor, vencimento e fornecedor preenchidos. Atalho Ctrl+M.",
+            "date": "2026-09-14 12:27:52"
+        },
         {
             "version": "1.1.174",
             "notes": "Crediario: a configuracao de juros por atraso (prazo em dias + % ao mes) agora e GLOBAL e SINCRONIZA entre todos os terminais/caixas (antes era so no terminal onde foi configurada). Configure uma vez em Contas a Receber > Configurar crediario e vale para a loja toda.",
@@ -398,12 +403,7 @@
             "version": "1.1.93",
             "notes": "PDV: F2 Consultar Preco com numeros garrafais (monitores ruins) - bipar mostra preco gigante automatico, Enter na lista tambem, atacado em letra menor. Fix: faixa de busca do PDV nao corta mais (altura dinamica).",
             "date": "2026-07-18 16:32:18"
-        },
-        {
-            "version": "1.1.91",
-            "notes": "Código do fornecedor na entrada manual (aprendizado automático de-para), modal ⚙️ unificado (Pacote/Atacado/Estoque mín.), normalização de boleto ao bipar, cores nas colunas da NF-e, zoom do PDV persistido, subcategoria nível 3 em contas a pagar",
-            "date": "2026-07-18 09:53:44"
         }
     ],
-    "date": "2026-09-13 10:07:52"
+    "date": "2026-09-14 12:27:52"
 }
