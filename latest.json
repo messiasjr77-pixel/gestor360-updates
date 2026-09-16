@@ -1,9 +1,14 @@
 {
-    "version": "1.1.175",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.175/gestor360-1.1.175.zip",
-    "checksum": "6ed1b12e23f4ca4cec8526f5382f68cb8f0f09f781aad2d586324a9460c65755",
-    "notes": "Utilitarios: novo Comprovante de Recebimento de Mercadorias (para fornecedor sem nota fiscal) - declara o recebimento da mercadoria e o prazo de pagamento, com vencimento calculado automaticamente (ex.: 8 dias), impressao em 2 vias (via da empresa + via do fornecedor) e botao para lancar direto em Contas a Pagar ja com valor, vencimento e fornecedor preenchidos. Atalho Ctrl+M.",
+    "version": "1.1.176",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.176/gestor360-1.1.176.zip",
+    "checksum": "f1433fa0b4903928af0d0af4e42b9753eae7363941cc3b401f1032293d36dccf",
+    "notes": "Crediario (PDV): clique na compra mostra os itens daquela venda; tela de fechamento mostra Total da venda + Valor apos desconto. Fiscal: submenu 'Recuperar NFC-e' foi eliminado e a funcao virou botao 'Recuperar' dentro de NFC-e Pendentes; nova acao 'Arquivar' tira da lista notas ja resolvidas/presas (sincroniza). Exportar XMLs mostra horario local. Plano de Contas em arvore. Ajustes em Entrada de Mercadorias, Notas Avulsas v2 e Contas a Pagar.",
     "history": [
+        {
+            "version": "1.1.176",
+            "notes": "Crediario (PDV): clique na compra mostra os itens daquela venda; tela de fechamento mostra Total da venda + Valor apos desconto. Fiscal: submenu 'Recuperar NFC-e' foi eliminado e a funcao virou botao 'Recuperar' dentro de NFC-e Pendentes; nova acao 'Arquivar' tira da lista notas ja resolvidas/presas (sincroniza). Exportar XMLs mostra horario local. Plano de Contas em arvore. Ajustes em Entrada de Mercadorias, Notas Avulsas v2 e Contas a Pagar.",
+            "date": "2026-09-16 17:01:09"
+        },
         {
             "version": "1.1.175",
             "notes": "Utilitarios: novo Comprovante de Recebimento de Mercadorias (para fornecedor sem nota fiscal) - declara o recebimento da mercadoria e o prazo de pagamento, com vencimento calculado automaticamente (ex.: 8 dias), impressao em 2 vias (via da empresa + via do fornecedor) e botao para lancar direto em Contas a Pagar ja com valor, vencimento e fornecedor preenchidos. Atalho Ctrl+M.",
@@ -398,12 +403,7 @@
             "version": "1.1.94",
             "notes": "PDV finalizacao: titulo e Total a pagar lado a lado, Pre-visualizar e Finalizar lado a lado, painel de itens mais estreito e painel azul com folga acima dos atalhos (telas ~1024px).",
             "date": "2026-07-18 18:43:27"
-        },
-        {
-            "version": "1.1.93",
-            "notes": "PDV: F2 Consultar Preco com numeros garrafais (monitores ruins) - bipar mostra preco gigante automatico, Enter na lista tambem, atacado em letra menor. Fix: faixa de busca do PDV nao corta mais (altura dinamica).",
-            "date": "2026-07-18 16:32:18"
         }
     ],
-    "date": "2026-09-14 12:27:52"
+    "date": "2026-09-16 17:01:09"
 }
