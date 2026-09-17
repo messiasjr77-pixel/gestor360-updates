@@ -1,9 +1,14 @@
 {
-    "version": "1.1.176",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.176/gestor360-1.1.176.zip",
-    "checksum": "f1433fa0b4903928af0d0af4e42b9753eae7363941cc3b401f1032293d36dccf",
-    "notes": "Crediario (PDV): clique na compra mostra os itens daquela venda; tela de fechamento mostra Total da venda + Valor apos desconto. Fiscal: submenu 'Recuperar NFC-e' foi eliminado e a funcao virou botao 'Recuperar' dentro de NFC-e Pendentes; nova acao 'Arquivar' tira da lista notas ja resolvidas/presas (sincroniza). Exportar XMLs mostra horario local. Plano de Contas em arvore. Ajustes em Entrada de Mercadorias, Notas Avulsas v2 e Contas a Pagar.",
+    "version": "1.1.177",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.177/gestor360-1.1.177.zip",
+    "checksum": "4ae8eabf8fc581e81d3da6585528d810cba341df19eba35bb97a1433363de2ef",
+    "notes": "CORRECAO IMPORTANTE (PDV): o total da venda podia sair MENOR que a soma dos itens. Um desconto de uma venda anterior ficava guardado num campo oculto e era aplicado na venda seguinte - os itens apareciam certos e so o total vinha menor. Agora o desconto e zerado sempre que o carrinho fica vazio. Busca de produto: quando dois produtos tem o MESMO codigo de barras, bipar o codigo podia trazer ora um, ora outro; o desempate agora e fixo, sempre o mesmo produto. Pendencias do Sistema: nova aba 'Codigos duplicados' mostrando os produtos que dividem o mesmo codigo de barras, para corrigir o cadastro.",
     "history": [
+        {
+            "version": "1.1.177",
+            "notes": "CORRECAO IMPORTANTE (PDV): o total da venda podia sair MENOR que a soma dos itens. Um desconto de uma venda anterior ficava guardado num campo oculto e era aplicado na venda seguinte - os itens apareciam certos e so o total vinha menor. Agora o desconto e zerado sempre que o carrinho fica vazio. Busca de produto: quando dois produtos tem o MESMO codigo de barras, bipar o codigo podia trazer ora um, ora outro; o desempate agora e fixo, sempre o mesmo produto. Pendencias do Sistema: nova aba 'Codigos duplicados' mostrando os produtos que dividem o mesmo codigo de barras, para corrigir o cadastro.",
+            "date": "2026-09-17 11:29:29"
+        },
         {
             "version": "1.1.176",
             "notes": "Crediario (PDV): clique na compra mostra os itens daquela venda; tela de fechamento mostra Total da venda + Valor apos desconto. Fiscal: submenu 'Recuperar NFC-e' foi eliminado e a funcao virou botao 'Recuperar' dentro de NFC-e Pendentes; nova acao 'Arquivar' tira da lista notas ja resolvidas/presas (sincroniza). Exportar XMLs mostra horario local. Plano de Contas em arvore. Ajustes em Entrada de Mercadorias, Notas Avulsas v2 e Contas a Pagar.",
@@ -398,12 +403,7 @@
             "version": "1.1.95",
             "notes": "Cupom GDI: espacamento entre linhas mais compacto (economiza papel) e QR Code do NFC-e reduzido pela metade. Metodo/impressora configuraveis em Admin > Impressora.",
             "date": "2026-07-19 19:03:49"
-        },
-        {
-            "version": "1.1.94",
-            "notes": "PDV finalizacao: titulo e Total a pagar lado a lado, Pre-visualizar e Finalizar lado a lado, painel de itens mais estreito e painel azul com folga acima dos atalhos (telas ~1024px).",
-            "date": "2026-07-18 18:43:27"
         }
     ],
-    "date": "2026-09-16 17:01:09"
+    "date": "2026-09-17 11:29:29"
 }
