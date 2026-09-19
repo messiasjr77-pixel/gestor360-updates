@@ -1,9 +1,14 @@
 {
-    "version": "1.1.178",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.178/gestor360-1.1.178.zip",
-    "checksum": "d775976fd492adc96bd2803902db5a3016d7bdc139540ab71078d800f0d60ad1",
-    "notes": "PDV novo opcional: ative em F1 > Experimentar PDV novo e volte ao PDV atual a qualquer momento no registro de itens. Mantem o modo atual como padrao. Novo fechamento com pagamentos combinados, desconto, recebido em dinheiro e troco separados. Resumo de estoque e controles existentes preservados. Validacao de pagamentos e protecao contra confirmacao duplicada.",
+    "version": "1.1.179",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.179/gestor360-1.1.179.zip",
+    "checksum": "10aad35acebf4dc8836bed4e95e91b485f55ad6f9a67da2a7957af8dcbb6e178",
+    "notes": "PDV: produto com codigo de barras iniciado em 0 (EAN-13 de importado) dava 'produto nao cadastrado' ao bipar - o leitor manda 12 digitos e o cadastro tem 13; agora as duas formas sao reconhecidas (155 produtos afetados). Busca de produto com desempate fixo: mesmo codigo traz sempre o mesmo produto. NOVO: no cadastro do produto, opcao 'Nao controlar estoque deste produto' - para carne comprada em quarto de boi e vendida em cortes, granel e fracionados, onde o saldo nunca fecha; o item vende e fatura normal mas o sistema para de manter saldo. Pendencias do Sistema: novas abas 'Estoque impossivel' (codigo de barras digitado na quantidade, estoque absurdo ou negativo) e 'Sem venda +90d' (capital parado na prateleira, com o total imobilizado); as abas agora mostram tambem o codigo EAN alem do codigo da loja.",
     "history": [
+        {
+            "version": "1.1.179",
+            "notes": "PDV: produto com codigo de barras iniciado em 0 (EAN-13 de importado) dava 'produto nao cadastrado' ao bipar - o leitor manda 12 digitos e o cadastro tem 13; agora as duas formas sao reconhecidas (155 produtos afetados). Busca de produto com desempate fixo: mesmo codigo traz sempre o mesmo produto. NOVO: no cadastro do produto, opcao 'Nao controlar estoque deste produto' - para carne comprada em quarto de boi e vendida em cortes, granel e fracionados, onde o saldo nunca fecha; o item vende e fatura normal mas o sistema para de manter saldo. Pendencias do Sistema: novas abas 'Estoque impossivel' (codigo de barras digitado na quantidade, estoque absurdo ou negativo) e 'Sem venda +90d' (capital parado na prateleira, com o total imobilizado); as abas agora mostram tambem o codigo EAN alem do codigo da loja.",
+            "date": "2026-09-19 12:04:04"
+        },
         {
             "version": "1.1.178",
             "notes": "PDV novo opcional: ative em F1 > Experimentar PDV novo e volte ao PDV atual a qualquer momento no registro de itens. Mantem o modo atual como padrao. Novo fechamento com pagamentos combinados, desconto, recebido em dinheiro e troco separados. Resumo de estoque e controles existentes preservados. Validacao de pagamentos e protecao contra confirmacao duplicada.",
@@ -398,12 +403,7 @@
             "version": "1.1.97",
             "notes": "PDV: agora da pra achar o produto de PACOTE digitando o nome, sem precisar do codigo do fardo - a embalagem aparece como uma linha propria na lista. Corrige tambem o preco do pacote na lista de sugestoes, que cobrava unidade x quantidade em vez do preco cadastrado da embalagem. Entrada manual: o estoque so e movimentado ao Finalizar (salvar rascunho nao altera mais o saldo), marcador de conferencia por linha, consulta de Produtos (F3) com vendas por periodo e rodape com subtotal/desconto/total. Saidas: coluna Item e cadastro de item pelo proprio formulario.",
             "date": "2026-07-20 18:56:37"
-        },
-        {
-            "version": "1.1.96",
-            "notes": "Admin > Impressora: diagnostico e reparo da impressora do Windows (mostra porta/status, botao Corrigir porta e limpar fila) - facilita configurar o metodo GDI em novos terminais.",
-            "date": "2026-07-19 20:01:23"
         }
     ],
-    "date": "2026-09-17 20:35:17"
+    "date": "2026-09-19 12:04:04"
 }
