@@ -1,9 +1,14 @@
 {
-    "version": "1.1.179",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.179/gestor360-1.1.179.zip",
-    "checksum": "10aad35acebf4dc8836bed4e95e91b485f55ad6f9a67da2a7957af8dcbb6e178",
-    "notes": "PDV: produto com codigo de barras iniciado em 0 (EAN-13 de importado) dava 'produto nao cadastrado' ao bipar - o leitor manda 12 digitos e o cadastro tem 13; agora as duas formas sao reconhecidas (155 produtos afetados). Busca de produto com desempate fixo: mesmo codigo traz sempre o mesmo produto. NOVO: no cadastro do produto, opcao 'Nao controlar estoque deste produto' - para carne comprada em quarto de boi e vendida em cortes, granel e fracionados, onde o saldo nunca fecha; o item vende e fatura normal mas o sistema para de manter saldo. Pendencias do Sistema: novas abas 'Estoque impossivel' (codigo de barras digitado na quantidade, estoque absurdo ou negativo) e 'Sem venda +90d' (capital parado na prateleira, com o total imobilizado); as abas agora mostram tambem o codigo EAN alem do codigo da loja.",
+    "version": "1.1.180",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.180/gestor360-1.1.180.zip",
+    "checksum": "46f1a7f4e64511c301515afbb888b6024c034996881e30495f9faadd25fba4f7",
+    "notes": "Conciliacao Bancaria: busca por VALOR no campo de busca; correcao do popup Periodo (nao corta mais atras do menu); cadastrar fornecedor direto na busca; classificacao APRENDIDA por favorecido (o sistema lembra como voce classificou e sugere na proxima) + tela de regras aprendidas; lancar VARIOS movimentos como 1 conta (ex.: CEASA); RATEAR um movimento em varias categorias (ex.: fatura de cartao). Plano de contas: seletor em arvore nao abre tudo ao clicar num grupo, conta-mae destacada, sem 'A definir' em contas neutras (Investimentos deixou de contar como variavel); criar subconta no proprio seletor (botao +). Janela flutuante: botao minimizar; Shift+atalho abre a tela em janela flutuante (ex.: Ctrl+Shift+T).",
     "history": [
+        {
+            "version": "1.1.180",
+            "notes": "Conciliacao Bancaria: busca por VALOR no campo de busca; correcao do popup Periodo (nao corta mais atras do menu); cadastrar fornecedor direto na busca; classificacao APRENDIDA por favorecido (o sistema lembra como voce classificou e sugere na proxima) + tela de regras aprendidas; lancar VARIOS movimentos como 1 conta (ex.: CEASA); RATEAR um movimento em varias categorias (ex.: fatura de cartao). Plano de contas: seletor em arvore nao abre tudo ao clicar num grupo, conta-mae destacada, sem 'A definir' em contas neutras (Investimentos deixou de contar como variavel); criar subconta no proprio seletor (botao +). Janela flutuante: botao minimizar; Shift+atalho abre a tela em janela flutuante (ex.: Ctrl+Shift+T).",
+            "date": "2026-09-20 16:53:58"
+        },
         {
             "version": "1.1.179",
             "notes": "PDV: produto com codigo de barras iniciado em 0 (EAN-13 de importado) dava 'produto nao cadastrado' ao bipar - o leitor manda 12 digitos e o cadastro tem 13; agora as duas formas sao reconhecidas (155 produtos afetados). Busca de produto com desempate fixo: mesmo codigo traz sempre o mesmo produto. NOVO: no cadastro do produto, opcao 'Nao controlar estoque deste produto' - para carne comprada em quarto de boi e vendida em cortes, granel e fracionados, onde o saldo nunca fecha; o item vende e fatura normal mas o sistema para de manter saldo. Pendencias do Sistema: novas abas 'Estoque impossivel' (codigo de barras digitado na quantidade, estoque absurdo ou negativo) e 'Sem venda +90d' (capital parado na prateleira, com o total imobilizado); as abas agora mostram tambem o codigo EAN alem do codigo da loja.",
@@ -398,12 +403,7 @@
             "version": "1.1.98",
             "notes": "NFC-e: serie por caixa para corrigir duplicidade (cada caixa emite na sua propria serie, configurada em Admin -> Fiscal). Entrada manual: correcao de estoque persiste ao reabrir rascunho. Notas pendentes: sugestao automatica de NCM pelo nome do produto.",
             "date": "2026-07-21 16:20:57"
-        },
-        {
-            "version": "1.1.97",
-            "notes": "PDV: agora da pra achar o produto de PACOTE digitando o nome, sem precisar do codigo do fardo - a embalagem aparece como uma linha propria na lista. Corrige tambem o preco do pacote na lista de sugestoes, que cobrava unidade x quantidade em vez do preco cadastrado da embalagem. Entrada manual: o estoque so e movimentado ao Finalizar (salvar rascunho nao altera mais o saldo), marcador de conferencia por linha, consulta de Produtos (F3) com vendas por periodo e rodape com subtotal/desconto/total. Saidas: coluna Item e cadastro de item pelo proprio formulario.",
-            "date": "2026-07-20 18:56:37"
         }
     ],
-    "date": "2026-09-19 12:04:04"
+    "date": "2026-09-20 16:53:58"
 }
