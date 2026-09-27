@@ -1,9 +1,14 @@
 {
-    "version": "1.1.181",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.181/gestor360-1.1.181.zip",
-    "checksum": "6f876408c0c0d272f51fb6e7573d51f85793f30bd61a411d1077eba3feb50789",
-    "notes": "Giro de Produtos (Movimento): nova tela com vendas por mes, dias de estoque, situacao do giro e quanto comprar para 30 dias. Campo Venda 30 dias agora le das vendas reais - ficou exato e voltou a funcionar para carne e itens sem controle de estoque. Carga da Balanca (Estoque): gera o arquivo que o MGV5 importa e envia para a balanca, sem digitar item por item. PLU da balanca: sugere numero livre, avisa quando ja esta em uso e limita a 4 digitos. Cadastro aceita embalagem fracionada (0,5). Orcamento de Fornecedores (Financeiro).",
+    "version": "1.1.182",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.182/gestor360-1.1.182.zip",
+    "checksum": "03eb50bb1adfc80bfdafed1fb7734e4cce6ecb331a7c45c3770fe2c311b5330a",
+    "notes": "NFC-e compacta configuravel (Admin > Impressora > Layout da NFC-e): linhas juntas, espaco apos o QR e papel antes do corte ajustaveis. Etiqueta de preco: codigo maior (igual ao nome). Conciliacao Bancaria: cor propria no menu, banco de origem de cada movimento/arquivo, aviso quando a conta ja foi paga. Plano de contas: + do grupo cria conta nova. Correcao: vinculo da conciliacao/caixa apontava para id errado apos gravar.",
     "history": [
+        {
+            "version": "1.1.182",
+            "notes": "NFC-e compacta configuravel (Admin > Impressora > Layout da NFC-e): linhas juntas, espaco apos o QR e papel antes do corte ajustaveis. Etiqueta de preco: codigo maior (igual ao nome). Conciliacao Bancaria: cor propria no menu, banco de origem de cada movimento/arquivo, aviso quando a conta ja foi paga. Plano de contas: + do grupo cria conta nova. Correcao: vinculo da conciliacao/caixa apontava para id errado apos gravar.",
+            "date": "2026-09-27 11:28:36"
+        },
         {
             "version": "1.1.181",
             "notes": "Giro de Produtos (Movimento): nova tela com vendas por mes, dias de estoque, situacao do giro e quanto comprar para 30 dias. Campo Venda 30 dias agora le das vendas reais - ficou exato e voltou a funcionar para carne e itens sem controle de estoque. Carga da Balanca (Estoque): gera o arquivo que o MGV5 importa e envia para a balanca, sem digitar item por item. PLU da balanca: sugere numero livre, avisa quando ja esta em uso e limita a 4 digitos. Cadastro aceita embalagem fracionada (0,5). Orcamento de Fornecedores (Financeiro).",
@@ -398,12 +403,7 @@
             "version": "1.1.100",
             "notes": "Adiciona exclusao segura de dispositivos mobile.",
             "date": "2026-07-22 14:06:20"
-        },
-        {
-            "version": "1.1.99",
-            "notes": "App mobile de estoque: consulta offline, pareamento de dispositivos, entrada, contagem e impressao de etiquetas.",
-            "date": "2026-07-22 08:43:29"
         }
     ],
-    "date": "2026-09-24 13:56:59"
+    "date": "2026-09-27 11:28:36"
 }
