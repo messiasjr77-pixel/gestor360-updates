@@ -1,9 +1,14 @@
 {
-    "version": "1.1.184",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.184/gestor360-1.1.184.zip",
-    "checksum": "902195bf5f9b55ca54531fdf3f2411942e458e4f91ca6aa708821274384a6358",
-    "notes": "Cartao de credito: importacao da fatura (XLSX Bradesco) com parcelas futuras, duplicados e proxima fatura. PDV: correcao das apresentacoes de produtos (pacote/unidade, preco e estoque) e tema do fechamento no PDV novo. Conciliacao: 'Vincular outro' mostra tambem titulos ja pagos. Contas a Pagar: filtro de fornecedor busca por qualquer parte do nome. Sync: bootstrap reduz o lote quando o terminal parceiro falha.",
+    "version": "1.1.185",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.185/gestor360-1.1.185.zip",
+    "checksum": "70b776fb21fa3e2453128026105cb05cc0a7a117247a89185ad879562c55adb8",
+    "notes": "Novo tipo de acesso SUPERVISOR. Categoria obrigatoria nas Saidas. Caixa: Saidas e Fechamento em abas com trava de dia fechado. Orcamento de Fornecedores soma saidas em dinheiro. Busca de categoria nas Saidas. Cartao: importar fatura com plano de contas e correcoes. Fatura de cartao nao e mais cortada entre paginas. Cancelamento por senha de supervisor ou administrador.",
     "history": [
+        {
+            "version": "1.1.185",
+            "notes": "Novo tipo de acesso SUPERVISOR. Categoria obrigatoria nas Saidas. Caixa: Saidas e Fechamento em abas com trava de dia fechado. Orcamento de Fornecedores soma saidas em dinheiro. Busca de categoria nas Saidas. Cartao: importar fatura com plano de contas e correcoes. Fatura de cartao nao e mais cortada entre paginas. Cancelamento por senha de supervisor ou administrador.",
+            "date": "2026-09-30 21:43:30"
+        },
         {
             "version": "1.1.184",
             "notes": "Cartao de credito: importacao da fatura (XLSX Bradesco) com parcelas futuras, duplicados e proxima fatura. PDV: correcao das apresentacoes de produtos (pacote/unidade, preco e estoque) e tema do fechamento no PDV novo. Conciliacao: 'Vincular outro' mostra tambem titulos ja pagos. Contas a Pagar: filtro de fornecedor busca por qualquer parte do nome. Sync: bootstrap reduz o lote quando o terminal parceiro falha.",
@@ -398,12 +403,7 @@
             "version": "1.1.103",
             "notes": "Pendencias fiscais e operacionais: estimativa do DAS, painel NFC-e, data no abastecimento, trava de caixa para admin e verificacao de codigo na entrada NF-e",
             "date": "2026-07-23 18:27:34"
-        },
-        {
-            "version": "1.1.102",
-            "notes": "Fluxo de Caixa: ver os produtos da nota em cada duplicata/conta (botao itens) e categoria do caixa agrupada pela subcategoria correta. Historico de fechamentos do PDV: abre so a lista, clique mostra o detalhe em tela cheia sem rolagem, filtros e altura melhorados.",
-            "date": "2026-07-23 17:22:00"
         }
     ],
-    "date": "2026-09-29 16:26:47"
+    "date": "2026-09-30 21:43:30"
 }
