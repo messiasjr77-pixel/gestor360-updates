@@ -1,13 +1,13 @@
 {
     "version": "1.1.187",
     "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.187/gestor360-1.1.187.zip",
-    "checksum": "b0e34dd1b1656941940b4db2ac0d799151aeb4f56772e410bf86d9afcb754d62",
-    "notes": "Correcao obrigatoria para o tipo de acesso SUPERVISOR: migra automaticamente o banco de usuarios para aceitar o perfil supervisor. Atualize todos os terminais antes de trocar os usuarios.",
+    "checksum": "7ef8c1e5772faa222ee5b71a9edbb32bf8174ee27d21870bea6456e5a61f1bfe",
+    "notes": "Contas a Pagar: pagamento parcial de fatura de cartao — informe quanto foi debitado e o saldo (mais juros do rotativo) vai automaticamente para a fatura do mes seguinte, mantendo as categorias.",
     "history": [
         {
             "version": "1.1.187",
-            "notes": "Correcao obrigatoria para o tipo de acesso SUPERVISOR: migra automaticamente o banco de usuarios para aceitar o perfil supervisor. Atualize todos os terminais antes de trocar os usuarios.",
-            "date": "2026-10-01 02:38:18"
+            "notes": "Contas a Pagar: pagamento parcial de fatura de cartao — informe quanto foi debitado e o saldo (mais juros do rotativo) vai automaticamente para a fatura do mes seguinte, mantendo as categorias.",
+            "date": "2026-10-01 11:59:07"
         },
         {
             "version": "1.1.186",
@@ -405,5 +405,5 @@
             "date": "2026-07-25 15:23:59"
         }
     ],
-    "date": "2026-10-01 02:38:18"
+    "date": "2026-10-01 11:59:07"
 }
