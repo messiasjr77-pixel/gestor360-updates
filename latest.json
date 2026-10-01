@@ -1,9 +1,14 @@
 {
-    "version": "1.1.188",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.188/gestor360-1.1.188.zip",
-    "checksum": "cb02a3def6eb3c5b9d1f37c8c169590a5a8eeaaf0d3622e71413b0cc8e16d287",
-    "notes": "Contas a Pagar: pagamento parcial de fatura de cartao — informe quanto foi debitado e o saldo (mais juros do rotativo) vai automaticamente para a fatura do mes seguinte, mantendo as categorias.",
+    "version": "1.1.189",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.189/gestor360-1.1.189.zip",
+    "checksum": "cfd65f47c080a01672649955edba9755cf0cccef87faae629322c1c1acc4147f",
+    "notes": "Contas a Pagar: ao filtrar por uma subconta do plano de contas, as saidas lancadas no Caixa agora respeitam a subconta (antes vinham todas as subcontas da categoria).",
     "history": [
+        {
+            "version": "1.1.189",
+            "notes": "Contas a Pagar: ao filtrar por uma subconta do plano de contas, as saidas lancadas no Caixa agora respeitam a subconta (antes vinham todas as subcontas da categoria).",
+            "date": "2026-10-01 12:25:56"
+        },
         {
             "version": "1.1.188",
             "notes": "Contas a Pagar: pagamento parcial de fatura de cartao — informe quanto foi debitado e o saldo (mais juros do rotativo) vai automaticamente para a fatura do mes seguinte, mantendo as categorias.",
@@ -398,12 +403,7 @@
             "version": "1.1.107",
             "notes": "Padroniza a subcategoria FORNECEDOR - FORMAL NF-E, oculta subcategorias financeiras desativadas e inclui rotina de normalizacao",
             "date": "2026-07-25 18:08:08"
-        },
-        {
-            "version": "1.1.106",
-            "notes": "Corrige sincronizacao da recategorizacao de contas a pagar e adiciona reenvio das contas corrigidas no CAIXA2",
-            "date": "2026-07-25 16:32:32"
         }
     ],
-    "date": "2026-10-01 12:03:30"
+    "date": "2026-10-01 12:25:56"
 }
