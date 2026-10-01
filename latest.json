@@ -1,9 +1,14 @@
 {
-    "version": "1.1.186",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.186/gestor360-1.1.186.zip",
-    "checksum": "dbd42fc02a6a44c79498a4a81dcbb0704e4663b0331c86d5340133663aee41a9",
-    "notes": "Melhorias de segurança e estabilidade; nova tela de Integrações em Administração; ajustes internos.",
+    "version": "1.1.187",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.187/gestor360-1.1.187.zip",
+    "checksum": "b0e34dd1b1656941940b4db2ac0d799151aeb4f56772e410bf86d9afcb754d62",
+    "notes": "Correcao obrigatoria para o tipo de acesso SUPERVISOR: migra automaticamente o banco de usuarios para aceitar o perfil supervisor. Atualize todos os terminais antes de trocar os usuarios.",
     "history": [
+        {
+            "version": "1.1.187",
+            "notes": "Correcao obrigatoria para o tipo de acesso SUPERVISOR: migra automaticamente o banco de usuarios para aceitar o perfil supervisor. Atualize todos os terminais antes de trocar os usuarios.",
+            "date": "2026-10-01 02:38:18"
+        },
         {
             "version": "1.1.186",
             "notes": "Melhorias de segurança e estabilidade; nova tela de Integrações em Administração; ajustes internos.",
@@ -398,12 +403,7 @@
             "version": "1.1.105",
             "notes": "Produtos: bloqueia cadastro/edicao com preco de venda abaixo do custo (Cadastro de produtos e Painel de Vendas); entradas de NF-e/manual nao travam. Produtos Alterados: mostra o usuario que alterou o preco.",
             "date": "2026-07-25 15:23:59"
-        },
-        {
-            "version": "1.1.104",
-            "notes": "Filtros por periodo, melhorias na entrada manual, saneamento cadastral, ajustes financeiros e correcoes operacionais.",
-            "date": "2026-07-25 13:10:04"
         }
     ],
-    "date": "2026-10-01 02:10:02"
+    "date": "2026-10-01 02:38:18"
 }
