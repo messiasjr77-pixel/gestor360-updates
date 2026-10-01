@@ -1,13 +1,18 @@
 {
-    "version": "1.1.187",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.187/gestor360-1.1.187.zip",
-    "checksum": "7ef8c1e5772faa222ee5b71a9edbb32bf8174ee27d21870bea6456e5a61f1bfe",
+    "version": "1.1.188",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.188/gestor360-1.1.188.zip",
+    "checksum": "cb02a3def6eb3c5b9d1f37c8c169590a5a8eeaaf0d3622e71413b0cc8e16d287",
     "notes": "Contas a Pagar: pagamento parcial de fatura de cartao — informe quanto foi debitado e o saldo (mais juros do rotativo) vai automaticamente para a fatura do mes seguinte, mantendo as categorias.",
     "history": [
         {
-            "version": "1.1.187",
+            "version": "1.1.188",
             "notes": "Contas a Pagar: pagamento parcial de fatura de cartao — informe quanto foi debitado e o saldo (mais juros do rotativo) vai automaticamente para a fatura do mes seguinte, mantendo as categorias.",
-            "date": "2026-10-01 11:59:07"
+            "date": "2026-10-01 12:03:30"
+        },
+        {
+            "version": "1.1.187",
+            "notes": "Correcao obrigatoria para o tipo de acesso SUPERVISOR: migra automaticamente o banco de usuarios para aceitar o perfil supervisor. Atualize todos os terminais antes de trocar os usuarios.",
+            "date": "2026-10-01 02:38:18"
         },
         {
             "version": "1.1.186",
@@ -398,12 +403,7 @@
             "version": "1.1.106",
             "notes": "Corrige sincronizacao da recategorizacao de contas a pagar e adiciona reenvio das contas corrigidas no CAIXA2",
             "date": "2026-07-25 16:32:32"
-        },
-        {
-            "version": "1.1.105",
-            "notes": "Produtos: bloqueia cadastro/edicao com preco de venda abaixo do custo (Cadastro de produtos e Painel de Vendas); entradas de NF-e/manual nao travam. Produtos Alterados: mostra o usuario que alterou o preco.",
-            "date": "2026-07-25 15:23:59"
         }
     ],
-    "date": "2026-10-01 11:59:07"
+    "date": "2026-10-01 12:03:30"
 }
