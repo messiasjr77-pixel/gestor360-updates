@@ -1,9 +1,14 @@
 {
-    "version": "1.1.189",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.189/gestor360-1.1.189.zip",
-    "checksum": "cfd65f47c080a01672649955edba9755cf0cccef87faae629322c1c1acc4147f",
-    "notes": "Contas a Pagar: ao filtrar por uma subconta do plano de contas, as saidas lancadas no Caixa agora respeitam a subconta (antes vinham todas as subcontas da categoria).",
+    "version": "1.1.190",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.190/gestor360-1.1.190.zip",
+    "checksum": "92154de11396e729abcdcac5a5ae3ee58f1b2f3aaeb6627d4a58100d7112dbed",
+    "notes": "Novidades da versao 1.1.190\n\nContas a Pagar\n- Agrupar pagamentos manualmente (ex.: folha, adiantamento), formando blocos proprios mesmo com datas diferentes.\n- Adicionar novos lancamentos a um grupo ja existente.\n- A selecao para agrupar agora se mantem ao mudar de pagina.\n- Trocar entre Dia, Mes e Periodo preserva o plano de contas, o fornecedor e a busca.\n- Barra de pesquisa no seletor de fornecedor ao criar uma nova conta.\n\nOrcamento de Fornecedores\n- O valor comprometido passa a incluir as compras de fatura de cartao ainda em aberto.\n- Opcao para compensar estouros entre categorias (botao que liga e desliga).\n\nPequenas correcoes e melhorias de estabilidade.",
     "history": [
+        {
+            "version": "1.1.190",
+            "notes": "Novidades da versao 1.1.190\n\nContas a Pagar\n- Agrupar pagamentos manualmente (ex.: folha, adiantamento), formando blocos proprios mesmo com datas diferentes.\n- Adicionar novos lancamentos a um grupo ja existente.\n- A selecao para agrupar agora se mantem ao mudar de pagina.\n- Trocar entre Dia, Mes e Periodo preserva o plano de contas, o fornecedor e a busca.\n- Barra de pesquisa no seletor de fornecedor ao criar uma nova conta.\n\nOrcamento de Fornecedores\n- O valor comprometido passa a incluir as compras de fatura de cartao ainda em aberto.\n- Opcao para compensar estouros entre categorias (botao que liga e desliga).\n\nPequenas correcoes e melhorias de estabilidade.",
+            "date": "2026-10-01 17:16:36"
+        },
         {
             "version": "1.1.189",
             "notes": "Contas a Pagar: ao filtrar por uma subconta do plano de contas, as saidas lancadas no Caixa agora respeitam a subconta (antes vinham todas as subcontas da categoria).",
@@ -398,12 +403,7 @@
             "version": "1.1.108",
             "notes": "PDV: Ctrl+F8 agora cicla 3 modos de NFC-e automatica - desligada (padrao), ativa e imprime (verde), ativa sem imprimir (azul: emite a nota mas nao sai no papel).",
             "date": "2026-07-27 10:36:06"
-        },
-        {
-            "version": "1.1.107",
-            "notes": "Padroniza a subcategoria FORNECEDOR - FORMAL NF-E, oculta subcategorias financeiras desativadas e inclui rotina de normalizacao",
-            "date": "2026-07-25 18:08:08"
         }
     ],
-    "date": "2026-10-01 12:25:56"
+    "date": "2026-10-01 17:16:36"
 }
