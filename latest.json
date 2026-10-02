@@ -1,9 +1,14 @@
 {
-    "version": "1.1.190",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.190/gestor360-1.1.190.zip",
-    "checksum": "92154de11396e729abcdcac5a5ae3ee58f1b2f3aaeb6627d4a58100d7112dbed",
-    "notes": "Novidades da versao 1.1.190\n\nContas a Pagar\n- Agrupar pagamentos manualmente (ex.: folha, adiantamento), formando blocos proprios mesmo com datas diferentes.\n- Adicionar novos lancamentos a um grupo ja existente.\n- A selecao para agrupar agora se mantem ao mudar de pagina.\n- Trocar entre Dia, Mes e Periodo preserva o plano de contas, o fornecedor e a busca.\n- Barra de pesquisa no seletor de fornecedor ao criar uma nova conta.\n\nOrcamento de Fornecedores\n- O valor comprometido passa a incluir as compras de fatura de cartao ainda em aberto.\n- Opcao para compensar estouros entre categorias (botao que liga e desliga).\n\nPequenas correcoes e melhorias de estabilidade.",
+    "version": "1.1.191",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.191/gestor360-1.1.191.zip",
+    "checksum": "555921e920067e2ec53f0e029b533a3b1b9d2ee257361aa5e2a2ee4154edf847",
+    "notes": "Contas a Pagar: pesquisa de fornecedor na Nova Conta com lista de resultados; agrupar pagamentos (folha, adiantamento, salario individual) com selecao entre paginas e adicionar a grupo existente; filtros preservados ao trocar mes/dia/periodo. Fluxo de Caixa: cartoes mais simples com 'ver detalhes', clareza das dividas de meses anteriores e correcao do Saldo projetado, que descontava duas vezes as contas pendentes. Orcamento: compras de cartao em fatura aberta contam como comprometido e compensacao de estouros entre categorias. Caixa: reserva automatica no fechamento e saldo inicial; ajustes no Cofrinho.",
     "history": [
+        {
+            "version": "1.1.191",
+            "notes": "Contas a Pagar: pesquisa de fornecedor na Nova Conta com lista de resultados; agrupar pagamentos (folha, adiantamento, salario individual) com selecao entre paginas e adicionar a grupo existente; filtros preservados ao trocar mes/dia/periodo. Fluxo de Caixa: cartoes mais simples com 'ver detalhes', clareza das dividas de meses anteriores e correcao do Saldo projetado, que descontava duas vezes as contas pendentes. Orcamento: compras de cartao em fatura aberta contam como comprometido e compensacao de estouros entre categorias. Caixa: reserva automatica no fechamento e saldo inicial; ajustes no Cofrinho.",
+            "date": "2026-10-02 21:11:31"
+        },
         {
             "version": "1.1.190",
             "notes": "Novidades da versao 1.1.190\n\nContas a Pagar\n- Agrupar pagamentos manualmente (ex.: folha, adiantamento), formando blocos proprios mesmo com datas diferentes.\n- Adicionar novos lancamentos a um grupo ja existente.\n- A selecao para agrupar agora se mantem ao mudar de pagina.\n- Trocar entre Dia, Mes e Periodo preserva o plano de contas, o fornecedor e a busca.\n- Barra de pesquisa no seletor de fornecedor ao criar uma nova conta.\n\nOrcamento de Fornecedores\n- O valor comprometido passa a incluir as compras de fatura de cartao ainda em aberto.\n- Opcao para compensar estouros entre categorias (botao que liga e desliga).\n\nPequenas correcoes e melhorias de estabilidade.",
@@ -398,12 +403,7 @@
             "version": "1.1.109",
             "notes": "Cadastro de produtos: Grupo/Subgrupo viram lista cadastravel (selects + botao +, com overlay para criar/renomear/excluir); Grupo obrigatorio. Precos e Margens: todos os campos editaveis (Unidade e Pacote), coluna Margem antes do Preco de venda, Enter/Shift+Enter navega entre campos. NCM aceita colar com pontos. Produtos Alterados: nova aba Produtos novos. Contas a Pagar: clicar no fornecedor mostra os produtos da nota. Estoque: nova tela Compras por Fornecedor (itens comprados por fornecedor + periodo).",
             "date": "2026-07-27 15:19:20"
-        },
-        {
-            "version": "1.1.108",
-            "notes": "PDV: Ctrl+F8 agora cicla 3 modos de NFC-e automatica - desligada (padrao), ativa e imprime (verde), ativa sem imprimir (azul: emite a nota mas nao sai no papel).",
-            "date": "2026-07-27 10:36:06"
         }
     ],
-    "date": "2026-10-01 17:16:36"
+    "date": "2026-10-02 21:11:31"
 }
