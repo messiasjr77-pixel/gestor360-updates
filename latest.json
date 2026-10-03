@@ -1,9 +1,14 @@
 {
-    "version": "1.1.192",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.192/gestor360-1.1.192.zip",
-    "checksum": "2ed70f0fedf48410f6d94745258c7481517953553184e0f9f45d445a99cf77fc",
-    "notes": "Correcoes:\n- Contas a Pagar: corrigido erro ao abrir em terminais que nao usam Cartao de Credito.\n- Orcamento de Fornecedores: as metas de cada grupo agora sincronizam entre todos os terminais.",
+    "version": "1.1.193",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.193/gestor360-1.1.193.zip",
+    "checksum": "407ce44f07495b200432e6179d758c6d6b12640aec9dfa618b26e88c2597fa52",
+    "notes": "Produtos Vendidos: ranking completo com ordenacao por faturamento, lucro e quantidade; custo e margem; overlay de detalhes com lucro por unidade em reais; tabela com rolagem horizontal sem cortes e aviso de estimativa recolhido no icone de informacao. Inclui todos os commits pendentes do Claude e Codex neste repositorio.",
     "history": [
+        {
+            "version": "1.1.193",
+            "notes": "Produtos Vendidos: ranking completo com ordenacao por faturamento, lucro e quantidade; custo e margem; overlay de detalhes com lucro por unidade em reais; tabela com rolagem horizontal sem cortes e aviso de estimativa recolhido no icone de informacao. Inclui todos os commits pendentes do Claude e Codex neste repositorio.",
+            "date": "2026-10-03 15:33:29"
+        },
         {
             "version": "1.1.192",
             "notes": "Correcoes:\n- Contas a Pagar: corrigido erro ao abrir em terminais que nao usam Cartao de Credito.\n- Orcamento de Fornecedores: as metas de cada grupo agora sincronizam entre todos os terminais.",
@@ -398,12 +403,7 @@
             "version": "1.1.111",
             "notes": "Usuarios: removidos os genericos Administrador e Vendedor (agora sao apenas PERFIL de usuarios nomeados); seed nao recria em terminal ja pareado. Entrada de mercadorias: aviso ao finalizar sem boleto/duplicata.",
             "date": "2026-07-29 15:37:26"
-        },
-        {
-            "version": "1.1.110",
-            "notes": "Recibo de crediario em 2 vias (operador + cliente com as contas pagas); Saneamento: coluna 'Ja vendeu com prejuizo?' (prejuizo real); fix fuso na 'ultima venda' (nao aparece mais no futuro); tela Produtos Alterados mostra EAN certo (por uuid).",
-            "date": "2026-07-29 10:16:02"
         }
     ],
-    "date": "2026-10-03 14:20:53"
+    "date": "2026-10-03 15:33:29"
 }
