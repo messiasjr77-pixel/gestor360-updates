@@ -1,9 +1,14 @@
 {
-    "version": "1.1.191",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.191/gestor360-1.1.191.zip",
-    "checksum": "555921e920067e2ec53f0e029b533a3b1b9d2ee257361aa5e2a2ee4154edf847",
-    "notes": "Contas a Pagar: pesquisa de fornecedor na Nova Conta com lista de resultados; agrupar pagamentos (folha, adiantamento, salario individual) com selecao entre paginas e adicionar a grupo existente; filtros preservados ao trocar mes/dia/periodo. Fluxo de Caixa: cartoes mais simples com 'ver detalhes', clareza das dividas de meses anteriores e correcao do Saldo projetado, que descontava duas vezes as contas pendentes. Orcamento: compras de cartao em fatura aberta contam como comprometido e compensacao de estouros entre categorias. Caixa: reserva automatica no fechamento e saldo inicial; ajustes no Cofrinho.",
+    "version": "1.1.192",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.192/gestor360-1.1.192.zip",
+    "checksum": "2ed70f0fedf48410f6d94745258c7481517953553184e0f9f45d445a99cf77fc",
+    "notes": "Correcoes:\n- Contas a Pagar: corrigido erro ao abrir em terminais que nao usam Cartao de Credito.\n- Orcamento de Fornecedores: as metas de cada grupo agora sincronizam entre todos os terminais.",
     "history": [
+        {
+            "version": "1.1.192",
+            "notes": "Correcoes:\n- Contas a Pagar: corrigido erro ao abrir em terminais que nao usam Cartao de Credito.\n- Orcamento de Fornecedores: as metas de cada grupo agora sincronizam entre todos os terminais.",
+            "date": "2026-10-03 14:20:53"
+        },
         {
             "version": "1.1.191",
             "notes": "Contas a Pagar: pesquisa de fornecedor na Nova Conta com lista de resultados; agrupar pagamentos (folha, adiantamento, salario individual) com selecao entre paginas e adicionar a grupo existente; filtros preservados ao trocar mes/dia/periodo. Fluxo de Caixa: cartoes mais simples com 'ver detalhes', clareza das dividas de meses anteriores e correcao do Saldo projetado, que descontava duas vezes as contas pendentes. Orcamento: compras de cartao em fatura aberta contam como comprometido e compensacao de estouros entre categorias. Caixa: reserva automatica no fechamento e saldo inicial; ajustes no Cofrinho.",
@@ -398,12 +403,7 @@
             "version": "1.1.110",
             "notes": "Recibo de crediario em 2 vias (operador + cliente com as contas pagas); Saneamento: coluna 'Ja vendeu com prejuizo?' (prejuizo real); fix fuso na 'ultima venda' (nao aparece mais no futuro); tela Produtos Alterados mostra EAN certo (por uuid).",
             "date": "2026-07-29 10:16:02"
-        },
-        {
-            "version": "1.1.109",
-            "notes": "Cadastro de produtos: Grupo/Subgrupo viram lista cadastravel (selects + botao +, com overlay para criar/renomear/excluir); Grupo obrigatorio. Precos e Margens: todos os campos editaveis (Unidade e Pacote), coluna Margem antes do Preco de venda, Enter/Shift+Enter navega entre campos. NCM aceita colar com pontos. Produtos Alterados: nova aba Produtos novos. Contas a Pagar: clicar no fornecedor mostra os produtos da nota. Estoque: nova tela Compras por Fornecedor (itens comprados por fornecedor + periodo).",
-            "date": "2026-07-27 15:19:20"
         }
     ],
-    "date": "2026-10-02 21:11:31"
+    "date": "2026-10-03 14:20:53"
 }
