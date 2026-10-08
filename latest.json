@@ -1,9 +1,14 @@
 {
-    "version": "1.1.198",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.198/gestor360-1.1.198.zip",
-    "checksum": "a7806313a6203c43d356c421f735130038834806b0094b900eb245dd93ab1b13",
-    "notes": "Integração externa liberada para cadastro de produtos. Monitoramento de integridade ativo: alterações não autorizadas no banco são detectadas e revertidas.",
+    "version": "1.1.199",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.199/gestor360-1.1.199.zip",
+    "checksum": "6a711b832c4de5ab5d08e0b4af8427ef131bd216a6dee1628f77aceffc200e7e",
+    "notes": "Pequenos ajustes no menu Relatórios e melhorias internas de desempenho.",
     "history": [
+        {
+            "version": "1.1.199",
+            "notes": "Pequenos ajustes no menu Relatórios e melhorias internas de desempenho.",
+            "date": "2026-10-08 22:06:25"
+        },
         {
             "version": "1.1.198",
             "notes": "Integração externa liberada para cadastro de produtos. Monitoramento de integridade ativo: alterações não autorizadas no banco são detectadas e revertidas.",
@@ -398,12 +403,7 @@
             "version": "1.1.117",
             "notes": "PDV: correcao do cancelar item (F5) — o destaque laranja agora aparece na lista visivel ITENS DA VENDA; setas navegam e Enter cancela.",
             "date": "2026-07-31 16:44:25"
-        },
-        {
-            "version": "1.1.116",
-            "notes": "PDV: cancelar item (F5) agora seleciona direto no carrinho — a linha destaca em laranja, setas navegam e Enter cancela, sem escurecer a tela. Remocao da nota de campos obrigatorios na entrada manual.",
-            "date": "2026-07-31 16:32:41"
         }
     ],
-    "date": "2026-10-08 19:15:54"
+    "date": "2026-10-08 22:06:25"
 }
