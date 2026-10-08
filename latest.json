@@ -1,9 +1,14 @@
 {
-    "version": "1.1.196",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.196/gestor360-1.1.196.zip",
-    "checksum": "eeb1ce2aa8cf6ec8e4655a436807193d22064849d8a4318abe9d797b04576882",
-    "notes": "Relatorio de Vendas: nova busca por produto (encontra as notas que contem um produto) e intervalo de datas. Fluxo de Caixa Gerencial reformulado pelo plano de contas, com niveis (N1/N2/N3) e opcao de expandir/recolher; nova tela de Metas para definir metas e acompanhar realizado x meta. Cartao de credito: plano de contas na nova compra, busca do local e exibicao dos encargos/rotativo da fatura. Contas a Pagar: clicar no dia reabre o calendario. PDV: aviso de mensagens no caixa e impressao de orcamento direto na impressora. Impressao: cupom com muitos itens nao corta mais. Recuperacao de XMLs de NFC-e mais robusta.",
+    "version": "1.1.197",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.197/gestor360-1.1.197.zip",
+    "checksum": "764c11decda7e0c0700dc197a447af55c7678cd6dcf15976ae18fe485490c34d",
+    "notes": "Recebimento de Crediario: os menus Contas a Receber e Recebimentos foram unidos em uma so tela, com abas (A receber / Recebidos) e busca por cliente. Contas a Pagar: registra e mostra quem lancou cada conta, e gera o codigo de barras do boleto para ler no app do banco pela camera. Fornecedores: apelido do fornecedor e melhorias na conciliacao bancaria.",
     "history": [
+        {
+            "version": "1.1.197",
+            "notes": "Recebimento de Crediario: os menus Contas a Receber e Recebimentos foram unidos em uma so tela, com abas (A receber / Recebidos) e busca por cliente. Contas a Pagar: registra e mostra quem lancou cada conta, e gera o codigo de barras do boleto para ler no app do banco pela camera. Fornecedores: apelido do fornecedor e melhorias na conciliacao bancaria.",
+            "date": "2026-10-08 17:39:57"
+        },
         {
             "version": "1.1.196",
             "notes": "Relatorio de Vendas: nova busca por produto (encontra as notas que contem um produto) e intervalo de datas. Fluxo de Caixa Gerencial reformulado pelo plano de contas, com niveis (N1/N2/N3) e opcao de expandir/recolher; nova tela de Metas para definir metas e acompanhar realizado x meta. Cartao de credito: plano de contas na nova compra, busca do local e exibicao dos encargos/rotativo da fatura. Contas a Pagar: clicar no dia reabre o calendario. PDV: aviso de mensagens no caixa e impressao de orcamento direto na impressora. Impressao: cupom com muitos itens nao corta mais. Recuperacao de XMLs de NFC-e mais robusta.",
@@ -398,12 +403,7 @@
             "version": "1.1.115",
             "notes": "Entrada Manual: tela vira so cadastro/estoque de produtos; ao finalizar pergunta se quer lancar em Contas a Pagar (abre overlay Nova conta). Contas a Pagar WhatsApp: botao Voltar (nao trava mais no WebView2). Estoque: edicao manual limpa residuo de ponto flutuante (ex.: -4.8e-13 vira 0). PDV: alerta 'produto nao cadastrado' so fecha com Enter/ESC deliberado (leitor nao dispensa sozinho).",
             "date": "2026-07-31 15:44:00"
-        },
-        {
-            "version": "1.1.114",
-            "notes": "Contas a Pagar: fornecedor so em Mercadorias (demais categorias travam o campo); nome da conta passa a ser a subcategoria (inclusive ao editar). Saidas: tipo Reserva nao exige categoria/subcategoria (so conferencia).",
-            "date": "2026-07-31 10:00:37"
         }
     ],
-    "date": "2026-10-06 21:00:03"
+    "date": "2026-10-08 17:39:57"
 }
