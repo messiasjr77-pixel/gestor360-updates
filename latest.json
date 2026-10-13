@@ -1,9 +1,14 @@
 {
-    "version": "1.1.200",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.200/gestor360-1.1.200.zip",
-    "checksum": "91169e4ffdab6615f88a1eaa2037767c0bb85146e89c7ba7581666376fd578a9",
-    "notes": "Contas a Pagar: os filtros Pagas, Atrasadas e A vencer agora combinam entre si (sempre pela data de vencimento). Conciliacao bancaria: novos botoes Excluir ignorados e Excluir pendentes e ignorados (preservam os conciliados). Plano de Contas: edicao de subconta direta. Compras por Fornecedor: campo de busca de fornecedor. Entrada de Mercadorias: corrige o loop ao finalizar quando um boleto ficou sem vencimento ou valor - agora avisa o que falta e destaca o campo.",
+    "version": "1.1.201",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.201/gestor360-1.1.201.zip",
+    "checksum": "b21cc040eefebfb6f11b30676a3e0ebc85888ddda46dfa1391469a660731be89",
+    "notes": "Sincronizacao de contas a pagar: a baixa (pagamento) de uma conta lancada em um terminal passa a ser replicada corretamente para os demais terminais, evitando diferenca de valores de contas a pagar entre as maquinas.",
     "history": [
+        {
+            "version": "1.1.201",
+            "notes": "Sincronizacao de contas a pagar: a baixa (pagamento) de uma conta lancada em um terminal passa a ser replicada corretamente para os demais terminais, evitando diferenca de valores de contas a pagar entre as maquinas.",
+            "date": "2026-10-13 13:38:29"
+        },
         {
             "version": "1.1.200",
             "notes": "Contas a Pagar: os filtros Pagas, Atrasadas e A vencer agora combinam entre si (sempre pela data de vencimento). Conciliacao bancaria: novos botoes Excluir ignorados e Excluir pendentes e ignorados (preservam os conciliados). Plano de Contas: edicao de subconta direta. Compras por Fornecedor: campo de busca de fornecedor. Entrada de Mercadorias: corrige o loop ao finalizar quando um boleto ficou sem vencimento ou valor - agora avisa o que falta e destaca o campo.",
@@ -398,12 +403,7 @@
             "version": "1.1.119",
             "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' no topo abre o historico (data, hora, operador, justificativa e valor) mesmo quando ainda nao ha retiradas.",
             "date": "2026-08-07 08:23:36"
-        },
-        {
-            "version": "1.1.118",
-            "notes": "PDV: a quantidade na lista ITENS DA VENDA estava branca no fundo branco (so aparecia ao selecionar); agora e escura e em negrito.",
-            "date": "2026-07-31 16:51:02"
         }
     ],
-    "date": "2026-10-09 21:24:16"
+    "date": "2026-10-13 13:38:29"
 }
