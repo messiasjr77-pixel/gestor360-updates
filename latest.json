@@ -1,9 +1,14 @@
 {
-    "version": "1.1.202",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.202/gestor360-1.1.202.zip",
-    "checksum": "51e4a93687a487929b3ca9378fe8af63663e3638ffc95d2d05786a0920ba60ad",
-    "notes": "PDV unificado e mais rapido; consulta F2 com impressao fiscal e Argox; calculadora compartilhada com historico e retomada da conta; mensagens recebidas com sino e recuperacao apos reconexao; leitura de codigo de barras na pagina de etiquetas.",
+    "version": "1.1.203",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.203/gestor360-1.1.203.zip",
+    "checksum": "3e303ede45d9f9b8440f50fd1cfb5d28b48048958e9fffb7d8bdedc1d22f61e8",
+    "notes": "Integração externa — cadastro de produtos: corrigido o erro que recusava o campo de unidade (KG, LT, CX…). O cadastro de produto novo já funciona normalmente.",
     "history": [
+        {
+            "version": "1.1.203",
+            "notes": "Integração externa — cadastro de produtos: corrigido o erro que recusava o campo de unidade (KG, LT, CX…). O cadastro de produto novo já funciona normalmente.",
+            "date": "2026-10-13 21:52:41"
+        },
         {
             "version": "1.1.202",
             "notes": "PDV unificado e mais rapido; consulta F2 com impressao fiscal e Argox; calculadora compartilhada com historico e retomada da conta; mensagens recebidas com sino e recuperacao apos reconexao; leitura de codigo de barras na pagina de etiquetas.",
@@ -398,12 +403,7 @@
             "version": "1.1.121",
             "notes": "Entrada NF-e: engrenagem 'Aplicar e memorizar' nao pede mais quantidade de pacote quando so se quer por NCM/Grupo/Estoque/Atacado (codigos de caixa/pacote/unidade vem pre-preenchidos na NF-e; agora so a QUANTIDADE conta como montar pacote). Entrada Manual v2: ao finalizar abre direto o overlay de Nova Conta a Pagar; Shift+Enter em Cod.loja/EAN volta um campo. Calculadora (F8 e Ctrl+K): ao abrir tira o foco do campo pra receber o teclado mesmo com um campo selecionado.",
             "date": "2026-08-06 08:51:02"
-        },
-        {
-            "version": "1.1.120",
-            "notes": "Entrada Manual v2: Preco medio ponderado pelo estoque (usa estoque corrigido) com preco de compra estatico; total do item editavel (deriva valor de compra); valor de compra reflete no produto unidade mantendo venda e variando margem; grupo obrigatorio + botao (+) para cadastrar grupo/subgrupo; opcao Produto de balanca (PLU) que grava no produto (novo ou existente); cards com margem/preco de venda e nome em linha propria; foco vai pra Quantidade ao selecionar produto; Enter no desconto vai pro total depois foca o botao; Limpar limpa so o produto atual; layout mais compacto; abas na linha do titulo. Produto novo pela entrada agora grava grupo/subgrupo.",
-            "date": "2026-08-05 17:48:24"
         }
     ],
-    "date": "2026-10-13 15:28:33"
+    "date": "2026-10-13 21:52:41"
 }
