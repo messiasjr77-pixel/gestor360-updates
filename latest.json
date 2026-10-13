@@ -1,9 +1,14 @@
 {
-    "version": "1.1.201",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.201/gestor360-1.1.201.zip",
-    "checksum": "b21cc040eefebfb6f11b30676a3e0ebc85888ddda46dfa1391469a660731be89",
-    "notes": "Sincronizacao de contas a pagar: a baixa (pagamento) de uma conta lancada em um terminal passa a ser replicada corretamente para os demais terminais, evitando diferenca de valores de contas a pagar entre as maquinas.",
+    "version": "1.1.202",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.202/gestor360-1.1.202.zip",
+    "checksum": "51e4a93687a487929b3ca9378fe8af63663e3638ffc95d2d05786a0920ba60ad",
+    "notes": "PDV unificado e mais rapido; consulta F2 com impressao fiscal e Argox; calculadora compartilhada com historico e retomada da conta; mensagens recebidas com sino e recuperacao apos reconexao; leitura de codigo de barras na pagina de etiquetas.",
     "history": [
+        {
+            "version": "1.1.202",
+            "notes": "PDV unificado e mais rapido; consulta F2 com impressao fiscal e Argox; calculadora compartilhada com historico e retomada da conta; mensagens recebidas com sino e recuperacao apos reconexao; leitura de codigo de barras na pagina de etiquetas.",
+            "date": "2026-10-13 15:28:33"
+        },
         {
             "version": "1.1.201",
             "notes": "Sincronizacao de contas a pagar: a baixa (pagamento) de uma conta lancada em um terminal passa a ser replicada corretamente para os demais terminais, evitando diferenca de valores de contas a pagar entre as maquinas.",
@@ -398,12 +403,7 @@
             "version": "1.1.120",
             "notes": "Entrada Manual v2: Preco medio ponderado pelo estoque (usa estoque corrigido) com preco de compra estatico; total do item editavel (deriva valor de compra); valor de compra reflete no produto unidade mantendo venda e variando margem; grupo obrigatorio + botao (+) para cadastrar grupo/subgrupo; opcao Produto de balanca (PLU) que grava no produto (novo ou existente); cards com margem/preco de venda e nome em linha propria; foco vai pra Quantidade ao selecionar produto; Enter no desconto vai pro total depois foca o botao; Limpar limpa so o produto atual; layout mais compacto; abas na linha do titulo. Produto novo pela entrada agora grava grupo/subgrupo.",
             "date": "2026-08-05 17:48:24"
-        },
-        {
-            "version": "1.1.119",
-            "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' no topo abre o historico (data, hora, operador, justificativa e valor) mesmo quando ainda nao ha retiradas.",
-            "date": "2026-08-07 08:23:36"
         }
     ],
-    "date": "2026-10-13 13:38:29"
+    "date": "2026-10-13 15:28:33"
 }
