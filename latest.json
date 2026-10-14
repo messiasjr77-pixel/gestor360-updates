@@ -1,9 +1,14 @@
 {
-    "version": "1.1.203",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.203/gestor360-1.1.203.zip",
-    "checksum": "3e303ede45d9f9b8440f50fd1cfb5d28b48048958e9fffb7d8bdedc1d22f61e8",
-    "notes": "Integração externa — cadastro de produtos: corrigido o erro que recusava o campo de unidade (KG, LT, CX…). O cadastro de produto novo já funciona normalmente.",
+    "version": "1.1.204",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.204/gestor360-1.1.204.zip",
+    "checksum": "640a1dafe21821e973204f980a34a404783b5cc7f184a7965cda754187c2b880",
+    "notes": "IMPORTANTE: atualizacao imprescindivel em TODOS os terminais. Esta versao corrige um bug que DUPLICAVA as faturas automaticas de cartao no Contas a Pagar, inflando o total a pagar. A correcao so fica completa quando todos os terminais estiverem atualizados - enquanto algum ficar na versao antiga, ele pode voltar a gerar faturas duplicadas. Atualize todos. | Correcoes e novidades: - Faturas de cartao nao duplicam mais no Contas a Pagar: cada fatura passa a ter identidade fixa e e atualizada no lugar, em vez de ser recriada e acumular copias entre os terminais. - Mensagens entre terminais agora mostram a data e hora do envio (ex.: Mensagem de CAIXA1 - 14/10/2026 09:38).",
     "history": [
+        {
+            "version": "1.1.204",
+            "notes": "IMPORTANTE: atualizacao imprescindivel em TODOS os terminais. Esta versao corrige um bug que DUPLICAVA as faturas automaticas de cartao no Contas a Pagar, inflando o total a pagar. A correcao so fica completa quando todos os terminais estiverem atualizados - enquanto algum ficar na versao antiga, ele pode voltar a gerar faturas duplicadas. Atualize todos. | Correcoes e novidades: - Faturas de cartao nao duplicam mais no Contas a Pagar: cada fatura passa a ter identidade fixa e e atualizada no lugar, em vez de ser recriada e acumular copias entre os terminais. - Mensagens entre terminais agora mostram a data e hora do envio (ex.: Mensagem de CAIXA1 - 14/10/2026 09:38).",
+            "date": "2026-10-14 12:16:59"
+        },
         {
             "version": "1.1.203",
             "notes": "Integração externa — cadastro de produtos: corrigido o erro que recusava o campo de unidade (KG, LT, CX…). O cadastro de produto novo já funciona normalmente.",
@@ -398,12 +403,7 @@
             "version": "1.1.122",
             "notes": "Medidor de estoque com borda azul; fica verde por 30 dias apos contagem pelo app. App de estoque pronto para virar APK (TWA).",
             "date": "2026-08-06 16:07:03"
-        },
-        {
-            "version": "1.1.121",
-            "notes": "Entrada NF-e: engrenagem 'Aplicar e memorizar' nao pede mais quantidade de pacote quando so se quer por NCM/Grupo/Estoque/Atacado (codigos de caixa/pacote/unidade vem pre-preenchidos na NF-e; agora so a QUANTIDADE conta como montar pacote). Entrada Manual v2: ao finalizar abre direto o overlay de Nova Conta a Pagar; Shift+Enter em Cod.loja/EAN volta um campo. Calculadora (F8 e Ctrl+K): ao abrir tira o foco do campo pra receber o teclado mesmo com um campo selecionado.",
-            "date": "2026-08-06 08:51:02"
         }
     ],
-    "date": "2026-10-13 21:52:41"
+    "date": "2026-10-14 12:16:59"
 }
