@@ -1,9 +1,14 @@
 {
-    "version": "1.1.204",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.204/gestor360-1.1.204.zip",
-    "checksum": "640a1dafe21821e973204f980a34a404783b5cc7f184a7965cda754187c2b880",
-    "notes": "IMPORTANTE: atualizacao imprescindivel em TODOS os terminais. Esta versao corrige um bug que DUPLICAVA as faturas automaticas de cartao no Contas a Pagar, inflando o total a pagar. A correcao so fica completa quando todos os terminais estiverem atualizados - enquanto algum ficar na versao antiga, ele pode voltar a gerar faturas duplicadas. Atualize todos. | Correcoes e novidades: - Faturas de cartao nao duplicam mais no Contas a Pagar: cada fatura passa a ter identidade fixa e e atualizada no lugar, em vez de ser recriada e acumular copias entre os terminais. - Mensagens entre terminais agora mostram a data e hora do envio (ex.: Mensagem de CAIXA1 - 14/10/2026 09:38).",
+    "version": "1.1.205",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.205/gestor360-1.1.205.zip",
+    "checksum": "237aecebde74792f0f300398bfb966bd2609da422831e6f66d2c1908bcf1cb4c",
+    "notes": "Correcoes para impressao e cancelamento no caixa. - NFC-e/cupom com letra gigante que cortava os nomes dos produtos: alguns drivers (ex.: Daruma DR800 em modo continuo) informavam ao Windows uma largura de papel maior que o rolo real, e a fonte era dimensionada pra essa largura errada. Agora a area de impressao e limitada ao tamanho real do papel, e a letra sai no tamanho certo. - Cancelamento de venda que as vezes falhava com erro de banco ocupado (database is locked): a transacao passou a reservar a vez no inicio e aguardar, em vez de falhar na hora quando outro terminal esta gravando.",
     "history": [
+        {
+            "version": "1.1.205",
+            "notes": "Correcoes para impressao e cancelamento no caixa. - NFC-e/cupom com letra gigante que cortava os nomes dos produtos: alguns drivers (ex.: Daruma DR800 em modo continuo) informavam ao Windows uma largura de papel maior que o rolo real, e a fonte era dimensionada pra essa largura errada. Agora a area de impressao e limitada ao tamanho real do papel, e a letra sai no tamanho certo. - Cancelamento de venda que as vezes falhava com erro de banco ocupado (database is locked): a transacao passou a reservar a vez no inicio e aguardar, em vez de falhar na hora quando outro terminal esta gravando.",
+            "date": "2026-10-14 16:08:47"
+        },
         {
             "version": "1.1.204",
             "notes": "IMPORTANTE: atualizacao imprescindivel em TODOS os terminais. Esta versao corrige um bug que DUPLICAVA as faturas automaticas de cartao no Contas a Pagar, inflando o total a pagar. A correcao so fica completa quando todos os terminais estiverem atualizados - enquanto algum ficar na versao antiga, ele pode voltar a gerar faturas duplicadas. Atualize todos. | Correcoes e novidades: - Faturas de cartao nao duplicam mais no Contas a Pagar: cada fatura passa a ter identidade fixa e e atualizada no lugar, em vez de ser recriada e acumular copias entre os terminais. - Mensagens entre terminais agora mostram a data e hora do envio (ex.: Mensagem de CAIXA1 - 14/10/2026 09:38).",
@@ -398,12 +403,7 @@
             "version": "1.1.123",
             "notes": "assetlinks com fingerprint do APK Android (TWA)",
             "date": "2026-08-06 19:27:47"
-        },
-        {
-            "version": "1.1.122",
-            "notes": "Medidor de estoque com borda azul; fica verde por 30 dias apos contagem pelo app. App de estoque pronto para virar APK (TWA).",
-            "date": "2026-08-06 16:07:03"
         }
     ],
-    "date": "2026-10-14 12:16:59"
+    "date": "2026-10-14 16:08:47"
 }
