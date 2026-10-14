@@ -1,9 +1,14 @@
 {
-    "version": "1.1.205",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.205/gestor360-1.1.205.zip",
-    "checksum": "237aecebde74792f0f300398bfb966bd2609da422831e6f66d2c1908bcf1cb4c",
-    "notes": "Correcoes para impressao e cancelamento no caixa. - NFC-e/cupom com letra gigante que cortava os nomes dos produtos: alguns drivers (ex.: Daruma DR800 em modo continuo) informavam ao Windows uma largura de papel maior que o rolo real, e a fonte era dimensionada pra essa largura errada. Agora a area de impressao e limitada ao tamanho real do papel, e a letra sai no tamanho certo. - Cancelamento de venda que as vezes falhava com erro de banco ocupado (database is locked): a transacao passou a reservar a vez no inicio e aguardar, em vez de falhar na hora quando outro terminal esta gravando.",
+    "version": "1.1.206",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.206/gestor360-1.1.206.zip",
+    "checksum": "838e7d94dbd3bd2216a08e081847298acf896c5a116e619ed1a10303c3c7e30e",
+    "notes": "NFC-e/cupom com letra gigante no caixa (impressoras de 203 DPI, ex.: Daruma DR800): a imagem do cupom estava sendo ampliada cerca de 2x na impressao por um descasamento de resolucao, cortando os nomes dos produtos. Corrigido - o cupom agora sai no tamanho fisico correto em qualquer DPI. (Complementa a 1.1.205, que tratava so a largura do papel.)",
     "history": [
+        {
+            "version": "1.1.206",
+            "notes": "NFC-e/cupom com letra gigante no caixa (impressoras de 203 DPI, ex.: Daruma DR800): a imagem do cupom estava sendo ampliada cerca de 2x na impressao por um descasamento de resolucao, cortando os nomes dos produtos. Corrigido - o cupom agora sai no tamanho fisico correto em qualquer DPI. (Complementa a 1.1.205, que tratava so a largura do papel.)",
+            "date": "2026-10-14 16:33:31"
+        },
         {
             "version": "1.1.205",
             "notes": "Correcoes para impressao e cancelamento no caixa. - NFC-e/cupom com letra gigante que cortava os nomes dos produtos: alguns drivers (ex.: Daruma DR800 em modo continuo) informavam ao Windows uma largura de papel maior que o rolo real, e a fonte era dimensionada pra essa largura errada. Agora a area de impressao e limitada ao tamanho real do papel, e a letra sai no tamanho certo. - Cancelamento de venda que as vezes falhava com erro de banco ocupado (database is locked): a transacao passou a reservar a vez no inicio e aguardar, em vez de falhar na hora quando outro terminal esta gravando.",
@@ -398,12 +403,7 @@
             "version": "1.1.124",
             "notes": "App Android TWA abre em tela cheia: update libera /.well-known/assetlinks.json no nginx automaticamente",
             "date": "2026-08-07 18:19:09"
-        },
-        {
-            "version": "1.1.123",
-            "notes": "assetlinks com fingerprint do APK Android (TWA)",
-            "date": "2026-08-06 19:27:47"
         }
     ],
-    "date": "2026-10-14 16:08:47"
+    "date": "2026-10-14 16:33:31"
 }
