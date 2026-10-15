@@ -1,9 +1,14 @@
 {
-    "version": "1.1.206",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.206/gestor360-1.1.206.zip",
-    "checksum": "838e7d94dbd3bd2216a08e081847298acf896c5a116e619ed1a10303c3c7e30e",
-    "notes": "NFC-e/cupom com letra gigante no caixa (impressoras de 203 DPI, ex.: Daruma DR800): a imagem do cupom estava sendo ampliada cerca de 2x na impressao por um descasamento de resolucao, cortando os nomes dos produtos. Corrigido - o cupom agora sai no tamanho fisico correto em qualquer DPI. (Complementa a 1.1.205, que tratava so a largura do papel.)",
+    "version": "1.1.207",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.207/gestor360-1.1.207.zip",
+    "checksum": "dd8081c23c2e90b52ab27c4793d1bc58cd9798682f963aeb45b6d7bbce5783cb",
+    "notes": "Melhorias no PDV, Contas a Pagar e imposto (DAS). - PDV: a lista de busca e o painel 'ultimo item' agora mostram tambem o codigo EAN (codigo de barras), nao so o codigo da loja. - Mensagens entre terminais agora aparecem em qualquer tela (inclusive no painel/dashboard), recuperando as que chegaram enquanto a tela estava fechada - antes so o PDV mostrava. - Contas a Pagar: ao marcar 'Ja pago', a data do pagamento assume automaticamente o vencimento. Os campos 'Recorrencia' e 'Qtd. parcelas' viraram um so: 'Repetir' (Mensal/Semanal/...) + 'Quantas vezes'. - Entrada Manual de mercadorias: agora exige informar o fornecedor para finalizar (rascunho pode ficar sem). - Calculadora: tecla Delete 2x limpa o visor, 3x limpa o visor e o historico. - Estimativa do DAS: tela reformulada e mais confiavel - acompanha o imposto do mes em tempo real sobre o faturamento com NFC-e, mostra notas autorizadas hoje e no mes, projecao do mes cheio, e uma alroquota calibravel pelo ultimo DAS pago.",
     "history": [
+        {
+            "version": "1.1.207",
+            "notes": "Melhorias no PDV, Contas a Pagar e imposto (DAS). - PDV: a lista de busca e o painel 'ultimo item' agora mostram tambem o codigo EAN (codigo de barras), nao so o codigo da loja. - Mensagens entre terminais agora aparecem em qualquer tela (inclusive no painel/dashboard), recuperando as que chegaram enquanto a tela estava fechada - antes so o PDV mostrava. - Contas a Pagar: ao marcar 'Ja pago', a data do pagamento assume automaticamente o vencimento. Os campos 'Recorrencia' e 'Qtd. parcelas' viraram um so: 'Repetir' (Mensal/Semanal/...) + 'Quantas vezes'. - Entrada Manual de mercadorias: agora exige informar o fornecedor para finalizar (rascunho pode ficar sem). - Calculadora: tecla Delete 2x limpa o visor, 3x limpa o visor e o historico. - Estimativa do DAS: tela reformulada e mais confiavel - acompanha o imposto do mes em tempo real sobre o faturamento com NFC-e, mostra notas autorizadas hoje e no mes, projecao do mes cheio, e uma alroquota calibravel pelo ultimo DAS pago.",
+            "date": "2026-10-15 16:14:55"
+        },
         {
             "version": "1.1.206",
             "notes": "NFC-e/cupom com letra gigante no caixa (impressoras de 203 DPI, ex.: Daruma DR800): a imagem do cupom estava sendo ampliada cerca de 2x na impressao por um descasamento de resolucao, cortando os nomes dos produtos. Corrigido - o cupom agora sai no tamanho fisico correto em qualquer DPI. (Complementa a 1.1.205, que tratava so a largura do papel.)",
@@ -398,12 +403,7 @@
             "version": "1.1.125",
             "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' abre o historico (data, hora, operador, justificativa e valor) mesmo sem retiradas. Entrada Manual: Enter no campo Estoque avanca pra Qtd (Shift+Enter volta). (Corrige o versionamento: a 1.1.119 havia sido publicada por engano sobre a 1.1.124.)",
             "date": "2026-08-07 08:56:21"
-        },
-        {
-            "version": "1.1.124",
-            "notes": "App Android TWA abre em tela cheia: update libera /.well-known/assetlinks.json no nginx automaticamente",
-            "date": "2026-08-07 18:19:09"
         }
     ],
-    "date": "2026-10-14 16:33:31"
+    "date": "2026-10-15 16:14:55"
 }
