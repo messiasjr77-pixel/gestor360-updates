@@ -1,9 +1,14 @@
 {
-    "version": "1.1.208",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.208/gestor360-1.1.208.zip",
-    "checksum": "1966d679698b0eee16d5606adf3b2257a0fce082814fda008379c623fd661a41",
-    "notes": "Melhorias no PDV, Cartao de Credito e nas telas de Entrada. - PDV: a lista de busca mostra o codigo de barras (EAN) junto do codigo da loja; ao navegar a lista com as setas, o produto selecionado ja sobe pro campo de busca (um Delete limpa tudo) - como no sistema antigo. - Cartao de credito: corrigido o mes da fatura - compra feita depois do fechamento agora cai na proxima fatura (antes caia um mes a mais). - Entrada de NF-e: tela mais compacta e com fluxo logico (Importar XML em destaque no topo, produtos em foco com rolagem, Fornecedor/Custos/Rateio/Observacoes recolhiveis, rodape fixo com Finalizar). Nova coluna 'Est. min' pra ver/definir o estoque minimo no cadastro (ja preenche com o minimo atual do produto). Colunas reorganizadas em ordem logica. - Entrada Manual: ao escanear um produto no campo de descricao, ele e preenchido na hora, sem precisar clicar na lista. - Alteracoes de Preco: a tela ja abre filtrada no dia de hoje. - Historico de Entradas: a seta de voltar retorna pra tela anterior (nao mais pro inicio).",
+    "version": "1.1.209",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.209/gestor360-1.1.209.zip",
+    "checksum": "b83bc316460ae537ffadb4399bc062e82293c1fbb7b244295f3e5e83e771e96d",
+    "notes": "PDV: busca de produtos por nome agora e INSTANTANEA. A lista de produtos e carregada uma vez pra memoria do navegador (e fica em cache), entao a busca por nome aparece ja na primeira letra, sem ir ao servidor a cada tecla - como nos sistemas antigos. O simbolo % funciona como curinga (ex.: MARTELO%TRAM encontra MARTELO UNHA TRAMONTINA). Busca por codigo/EAN exato continua rapida. Enquanto a lista carrega pela 1a vez, a busca usa o servidor normalmente.",
     "history": [
+        {
+            "version": "1.1.209",
+            "notes": "PDV: busca de produtos por nome agora e INSTANTANEA. A lista de produtos e carregada uma vez pra memoria do navegador (e fica em cache), entao a busca por nome aparece ja na primeira letra, sem ir ao servidor a cada tecla - como nos sistemas antigos. O simbolo % funciona como curinga (ex.: MARTELO%TRAM encontra MARTELO UNHA TRAMONTINA). Busca por codigo/EAN exato continua rapida. Enquanto a lista carrega pela 1a vez, a busca usa o servidor normalmente.",
+            "date": "2026-10-16 16:22:44"
+        },
         {
             "version": "1.1.208",
             "notes": "Melhorias no PDV, Cartao de Credito e nas telas de Entrada. - PDV: a lista de busca mostra o codigo de barras (EAN) junto do codigo da loja; ao navegar a lista com as setas, o produto selecionado ja sobe pro campo de busca (um Delete limpa tudo) - como no sistema antigo. - Cartao de credito: corrigido o mes da fatura - compra feita depois do fechamento agora cai na proxima fatura (antes caia um mes a mais). - Entrada de NF-e: tela mais compacta e com fluxo logico (Importar XML em destaque no topo, produtos em foco com rolagem, Fornecedor/Custos/Rateio/Observacoes recolhiveis, rodape fixo com Finalizar). Nova coluna 'Est. min' pra ver/definir o estoque minimo no cadastro (ja preenche com o minimo atual do produto). Colunas reorganizadas em ordem logica. - Entrada Manual: ao escanear um produto no campo de descricao, ele e preenchido na hora, sem precisar clicar na lista. - Alteracoes de Preco: a tela ja abre filtrada no dia de hoje. - Historico de Entradas: a seta de voltar retorna pra tela anterior (nao mais pro inicio).",
@@ -398,12 +403,7 @@
             "version": "1.1.127",
             "notes": "Contagem de estoque do app mobile agora e ABSOLUTA: o numero conferido vira o mesmo em todos os terminais (nao vira mais delta/soma). Entrada Manual: botao WhatsApp abre overlay com a lista pra copiar; Enter navega Descricao->Cod.loja->EAN->Preco medio; EAN detecta bipada (leitor busca, digitacao avanca); desconto atualiza o preco medio; cartao Produto Pacote recolhivel. Contas a Pagar: mostra o item (subcategoria nivel 3) na linha. Categorias Financeiras: fundir subcategorias.",
             "date": "2026-08-07 18:12:59"
-        },
-        {
-            "version": "1.1.126",
-            "notes": "Correcao de versionamento + app Android TWA (assetlinks liberado no nginx via update)",
-            "date": "2026-08-07 18:46:07"
         }
     ],
-    "date": "2026-10-16 15:53:00"
+    "date": "2026-10-16 16:22:44"
 }
