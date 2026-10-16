@@ -1,9 +1,14 @@
 {
-    "version": "1.1.209",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.209/gestor360-1.1.209.zip",
-    "checksum": "b83bc316460ae537ffadb4399bc062e82293c1fbb7b244295f3e5e83e771e96d",
-    "notes": "PDV: busca de produtos por nome agora e INSTANTANEA. A lista de produtos e carregada uma vez pra memoria do navegador (e fica em cache), entao a busca por nome aparece ja na primeira letra, sem ir ao servidor a cada tecla - como nos sistemas antigos. O simbolo % funciona como curinga (ex.: MARTELO%TRAM encontra MARTELO UNHA TRAMONTINA). Busca por codigo/EAN exato continua rapida. Enquanto a lista carrega pela 1a vez, a busca usa o servidor normalmente.",
+    "version": "1.1.210",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.210/gestor360-1.1.210.zip",
+    "checksum": "929d845060f7e74592e7a331e403741ded0a8e8b715e1760290a6d118655ace8",
+    "notes": "PDV - busca instantanea blindada: alem de aparecer na primeira letra (indice em memoria), o indice agora se atualiza AO VIVO pelo SSE - produto criado, editado ou removido em qualquer terminal reflete na busca na hora, sem recarregar a tela. Se ainda assim a busca local nao achar algo, ela confere no servidor automaticamente (rede de seguranca). O curinga % continua funcionando (ex.: PARAFUSO%5/16X50).",
     "history": [
+        {
+            "version": "1.1.210",
+            "notes": "PDV - busca instantanea blindada: alem de aparecer na primeira letra (indice em memoria), o indice agora se atualiza AO VIVO pelo SSE - produto criado, editado ou removido em qualquer terminal reflete na busca na hora, sem recarregar a tela. Se ainda assim a busca local nao achar algo, ela confere no servidor automaticamente (rede de seguranca). O curinga % continua funcionando (ex.: PARAFUSO%5/16X50).",
+            "date": "2026-10-16 16:36:37"
+        },
         {
             "version": "1.1.209",
             "notes": "PDV: busca de produtos por nome agora e INSTANTANEA. A lista de produtos e carregada uma vez pra memoria do navegador (e fica em cache), entao a busca por nome aparece ja na primeira letra, sem ir ao servidor a cada tecla - como nos sistemas antigos. O simbolo % funciona como curinga (ex.: MARTELO%TRAM encontra MARTELO UNHA TRAMONTINA). Busca por codigo/EAN exato continua rapida. Enquanto a lista carrega pela 1a vez, a busca usa o servidor normalmente.",
@@ -398,12 +403,7 @@
             "version": "1.1.128",
             "notes": "Fechamento de Caixa: quebra deixa de contar o valor antes do cancelamento (abate a devolucao em dinheiro). Buscar Vendas: horario do detalhe agora bate com o da lista (corrige diferenca de 3h UTC). PDV: digitar um codigo que e o codigo da loja de um produto para de trazer outro produto que tem esse numero no codigo de barras. Padronizado estoque/quantidades em ate 3 casas decimais (PDV, Entrada Manual, Produtos). Entrada Manual: campo Fornecedor no cabecalho.",
             "date": "2026-08-08 16:11:55"
-        },
-        {
-            "version": "1.1.127",
-            "notes": "Contagem de estoque do app mobile agora e ABSOLUTA: o numero conferido vira o mesmo em todos os terminais (nao vira mais delta/soma). Entrada Manual: botao WhatsApp abre overlay com a lista pra copiar; Enter navega Descricao->Cod.loja->EAN->Preco medio; EAN detecta bipada (leitor busca, digitacao avanca); desconto atualiza o preco medio; cartao Produto Pacote recolhivel. Contas a Pagar: mostra o item (subcategoria nivel 3) na linha. Categorias Financeiras: fundir subcategorias.",
-            "date": "2026-08-07 18:12:59"
         }
     ],
-    "date": "2026-10-16 16:22:44"
+    "date": "2026-10-16 16:36:37"
 }
