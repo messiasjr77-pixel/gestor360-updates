@@ -1,9 +1,14 @@
 {
-    "version": "1.1.207",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.207/gestor360-1.1.207.zip",
-    "checksum": "dd8081c23c2e90b52ab27c4793d1bc58cd9798682f963aeb45b6d7bbce5783cb",
-    "notes": "Melhorias no PDV, Contas a Pagar e imposto (DAS). - PDV: a lista de busca e o painel 'ultimo item' agora mostram tambem o codigo EAN (codigo de barras), nao so o codigo da loja. - Mensagens entre terminais agora aparecem em qualquer tela (inclusive no painel/dashboard), recuperando as que chegaram enquanto a tela estava fechada - antes so o PDV mostrava. - Contas a Pagar: ao marcar 'Ja pago', a data do pagamento assume automaticamente o vencimento. Os campos 'Recorrencia' e 'Qtd. parcelas' viraram um so: 'Repetir' (Mensal/Semanal/...) + 'Quantas vezes'. - Entrada Manual de mercadorias: agora exige informar o fornecedor para finalizar (rascunho pode ficar sem). - Calculadora: tecla Delete 2x limpa o visor, 3x limpa o visor e o historico. - Estimativa do DAS: tela reformulada e mais confiavel - acompanha o imposto do mes em tempo real sobre o faturamento com NFC-e, mostra notas autorizadas hoje e no mes, projecao do mes cheio, e uma alroquota calibravel pelo ultimo DAS pago.",
+    "version": "1.1.208",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.208/gestor360-1.1.208.zip",
+    "checksum": "1966d679698b0eee16d5606adf3b2257a0fce082814fda008379c623fd661a41",
+    "notes": "Melhorias no PDV, Cartao de Credito e nas telas de Entrada. - PDV: a lista de busca mostra o codigo de barras (EAN) junto do codigo da loja; ao navegar a lista com as setas, o produto selecionado ja sobe pro campo de busca (um Delete limpa tudo) - como no sistema antigo. - Cartao de credito: corrigido o mes da fatura - compra feita depois do fechamento agora cai na proxima fatura (antes caia um mes a mais). - Entrada de NF-e: tela mais compacta e com fluxo logico (Importar XML em destaque no topo, produtos em foco com rolagem, Fornecedor/Custos/Rateio/Observacoes recolhiveis, rodape fixo com Finalizar). Nova coluna 'Est. min' pra ver/definir o estoque minimo no cadastro (ja preenche com o minimo atual do produto). Colunas reorganizadas em ordem logica. - Entrada Manual: ao escanear um produto no campo de descricao, ele e preenchido na hora, sem precisar clicar na lista. - Alteracoes de Preco: a tela ja abre filtrada no dia de hoje. - Historico de Entradas: a seta de voltar retorna pra tela anterior (nao mais pro inicio).",
     "history": [
+        {
+            "version": "1.1.208",
+            "notes": "Melhorias no PDV, Cartao de Credito e nas telas de Entrada. - PDV: a lista de busca mostra o codigo de barras (EAN) junto do codigo da loja; ao navegar a lista com as setas, o produto selecionado ja sobe pro campo de busca (um Delete limpa tudo) - como no sistema antigo. - Cartao de credito: corrigido o mes da fatura - compra feita depois do fechamento agora cai na proxima fatura (antes caia um mes a mais). - Entrada de NF-e: tela mais compacta e com fluxo logico (Importar XML em destaque no topo, produtos em foco com rolagem, Fornecedor/Custos/Rateio/Observacoes recolhiveis, rodape fixo com Finalizar). Nova coluna 'Est. min' pra ver/definir o estoque minimo no cadastro (ja preenche com o minimo atual do produto). Colunas reorganizadas em ordem logica. - Entrada Manual: ao escanear um produto no campo de descricao, ele e preenchido na hora, sem precisar clicar na lista. - Alteracoes de Preco: a tela ja abre filtrada no dia de hoje. - Historico de Entradas: a seta de voltar retorna pra tela anterior (nao mais pro inicio).",
+            "date": "2026-10-16 15:53:00"
+        },
         {
             "version": "1.1.207",
             "notes": "Melhorias no PDV, Contas a Pagar e imposto (DAS). - PDV: a lista de busca e o painel 'ultimo item' agora mostram tambem o codigo EAN (codigo de barras), nao so o codigo da loja. - Mensagens entre terminais agora aparecem em qualquer tela (inclusive no painel/dashboard), recuperando as que chegaram enquanto a tela estava fechada - antes so o PDV mostrava. - Contas a Pagar: ao marcar 'Ja pago', a data do pagamento assume automaticamente o vencimento. Os campos 'Recorrencia' e 'Qtd. parcelas' viraram um so: 'Repetir' (Mensal/Semanal/...) + 'Quantas vezes'. - Entrada Manual de mercadorias: agora exige informar o fornecedor para finalizar (rascunho pode ficar sem). - Calculadora: tecla Delete 2x limpa o visor, 3x limpa o visor e o historico. - Estimativa do DAS: tela reformulada e mais confiavel - acompanha o imposto do mes em tempo real sobre o faturamento com NFC-e, mostra notas autorizadas hoje e no mes, projecao do mes cheio, e uma alroquota calibravel pelo ultimo DAS pago.",
@@ -398,12 +403,7 @@
             "version": "1.1.126",
             "notes": "Correcao de versionamento + app Android TWA (assetlinks liberado no nginx via update)",
             "date": "2026-08-07 18:46:07"
-        },
-        {
-            "version": "1.1.125",
-            "notes": "Provisoes (Reserva): botao fixo 'Ver retiradas' abre o historico (data, hora, operador, justificativa e valor) mesmo sem retiradas. Entrada Manual: Enter no campo Estoque avanca pra Qtd (Shift+Enter volta). (Corrige o versionamento: a 1.1.119 havia sido publicada por engano sobre a 1.1.124.)",
-            "date": "2026-08-07 08:56:21"
         }
     ],
-    "date": "2026-10-15 16:14:55"
+    "date": "2026-10-16 15:53:00"
 }
