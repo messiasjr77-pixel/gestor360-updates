@@ -1,9 +1,14 @@
 {
-    "version": "1.1.210",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.210/gestor360-1.1.210.zip",
-    "checksum": "929d845060f7e74592e7a331e403741ded0a8e8b715e1760290a6d118655ace8",
-    "notes": "PDV - busca instantanea blindada: alem de aparecer na primeira letra (indice em memoria), o indice agora se atualiza AO VIVO pelo SSE - produto criado, editado ou removido em qualquer terminal reflete na busca na hora, sem recarregar a tela. Se ainda assim a busca local nao achar algo, ela confere no servidor automaticamente (rede de seguranca). O curinga % continua funcionando (ex.: PARAFUSO%5/16X50).",
+    "version": "1.1.211",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.211/gestor360-1.1.211.zip",
+    "checksum": "b2dbf39a3643fc44319c7eb1041f91f24e45be732e65ce60b0677f61f2e2f268",
+    "notes": "IMPORTANTE - correcao critica no PDV: apos a busca instantanea, em alguns casos bipar/digitar um codigo adicionava o PRODUTO ERRADO. Causa: uma sugestao antiga podia ficar na tela quando a busca local nao achava nada, e o Enter acabava clicando nela. Agora: codigo (so digitos) resolve SEMPRE pelo codigo exato (nunca por sugestao de nome); a lista e limpa quando nao ha resultado local; e o preco do cache so e aplicado se for o mesmo produto. Atualize todos os caixas.",
     "history": [
+        {
+            "version": "1.1.211",
+            "notes": "IMPORTANTE - correcao critica no PDV: apos a busca instantanea, em alguns casos bipar/digitar um codigo adicionava o PRODUTO ERRADO. Causa: uma sugestao antiga podia ficar na tela quando a busca local nao achava nada, e o Enter acabava clicando nela. Agora: codigo (so digitos) resolve SEMPRE pelo codigo exato (nunca por sugestao de nome); a lista e limpa quando nao ha resultado local; e o preco do cache so e aplicado se for o mesmo produto. Atualize todos os caixas.",
+            "date": "2026-10-17 08:32:14"
+        },
         {
             "version": "1.1.210",
             "notes": "PDV - busca instantanea blindada: alem de aparecer na primeira letra (indice em memoria), o indice agora se atualiza AO VIVO pelo SSE - produto criado, editado ou removido em qualquer terminal reflete na busca na hora, sem recarregar a tela. Se ainda assim a busca local nao achar algo, ela confere no servidor automaticamente (rede de seguranca). O curinga % continua funcionando (ex.: PARAFUSO%5/16X50).",
@@ -398,12 +403,7 @@
             "version": "1.1.129",
             "notes": "Fornecedores: suporte a MULTIPLOS CNPJs por fornecedor (campo 'CNPJs adicionais' no cadastro). Import de NF-e e o salvar reconhecem o fornecedor por qualquer um dos CNPJs (principal ou adicionais) - nao duplica fornecedores com matriz+CDs. Fusao de fornecedores agora consolida todos os CNPJs no principal. Correcao: entrada v2 - overlay de Nova Conta a Pagar abre tambem ao finalizar nota editada; sincronizacao financeira nao exige categoria/subcategoria quando nao ha parcela (v2 sem_pagamento). Renomear grupo/subgrupo direto na Entrada Manual (botao lapis).",
             "date": "2026-08-08 16:47:03"
-        },
-        {
-            "version": "1.1.128",
-            "notes": "Fechamento de Caixa: quebra deixa de contar o valor antes do cancelamento (abate a devolucao em dinheiro). Buscar Vendas: horario do detalhe agora bate com o da lista (corrige diferenca de 3h UTC). PDV: digitar um codigo que e o codigo da loja de um produto para de trazer outro produto que tem esse numero no codigo de barras. Padronizado estoque/quantidades em ate 3 casas decimais (PDV, Entrada Manual, Produtos). Entrada Manual: campo Fornecedor no cabecalho.",
-            "date": "2026-08-08 16:11:55"
         }
     ],
-    "date": "2026-10-16 16:36:37"
+    "date": "2026-10-17 08:32:14"
 }
