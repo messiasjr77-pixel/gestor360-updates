@@ -1,9 +1,14 @@
 {
-    "version": "1.1.212",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.212/gestor360-1.1.212.zip",
-    "checksum": "b5f68a9ae4c46be20427eef60786a29947ca1caa670a156e079c4548913b689c",
-    "notes": "Dashboard: mensagens entre terminais permanecem acessiveis em Recebidas, com contador de nao lidas compartilhado com o PDV; mensagens novas continuam com aviso imediato.",
+    "version": "1.1.213",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.213/gestor360-1.1.213.zip",
+    "checksum": "d6843198b53b81a9f58e561804f5beb883ff671f0d772574e9e0b950c8453d34",
+    "notes": "PDV - busca por codigo: ao digitar um codigo (so digitos), a lista agora mostra o PRODUTO daquele codigo (confirmacao visual) - casa por codigo da loja ou de barras, inclusive ignorando zeros a esquerda. Antes o codigo so casava por nome, entao digitar 656 (salsicha) nao mostrava a salsicha e parecia erro, embora o Enter ja adicionasse certo. Tambem reforca as travas: codigo resolve sempre pelo codigo exato (nunca por sugestao de nome), e a lista nao deixa mais sugestao antiga na tela.",
     "history": [
+        {
+            "version": "1.1.213",
+            "notes": "PDV - busca por codigo: ao digitar um codigo (so digitos), a lista agora mostra o PRODUTO daquele codigo (confirmacao visual) - casa por codigo da loja ou de barras, inclusive ignorando zeros a esquerda. Antes o codigo so casava por nome, entao digitar 656 (salsicha) nao mostrava a salsicha e parecia erro, embora o Enter ja adicionasse certo. Tambem reforca as travas: codigo resolve sempre pelo codigo exato (nunca por sugestao de nome), e a lista nao deixa mais sugestao antiga na tela.",
+            "date": "2026-10-17 11:17:09"
+        },
         {
             "version": "1.1.212",
             "notes": "Dashboard: mensagens entre terminais permanecem acessiveis em Recebidas, com contador de nao lidas compartilhado com o PDV; mensagens novas continuam com aviso imediato.",
@@ -398,12 +403,7 @@
             "version": "1.1.131",
             "notes": "Contas a Pagar: modal Nova Conta a Pagar horizontal (2 colunas, mais largo). PDV Orcamento: navegacao por seta (cima/baixo) na busca de produto + Enter no item destacado; novo botao 'Enviar pra venda' que joga os produtos do orcamento no carrinho (com qtd e preco cotados).",
             "date": "2026-08-12 08:14:00"
-        },
-        {
-            "version": "1.1.130",
-            "notes": "Categorias de Contas a Pagar: renomear categoria/subcategoria agora propaga pro historico (contas_pagar.categoria/tipo/subtipo) - Fluxo de Caixa e relatorios refletem o nome novo. Entrada Manual v2: Enter nos campos de codigo volta a buscar o produto (manual e leitor); campos das linhas alinhados (select Unidade com mesma altura dos inputs).",
-            "date": "2026-08-11 15:11:09"
         }
     ],
-    "date": "2026-10-17 09:42:18"
+    "date": "2026-10-17 11:17:09"
 }
