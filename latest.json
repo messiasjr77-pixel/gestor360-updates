@@ -1,9 +1,14 @@
 {
-    "version": "1.1.213",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.213/gestor360-1.1.213.zip",
-    "checksum": "d6843198b53b81a9f58e561804f5beb883ff671f0d772574e9e0b950c8453d34",
-    "notes": "PDV - busca por codigo: ao digitar um codigo (so digitos), a lista agora mostra o PRODUTO daquele codigo (confirmacao visual) - casa por codigo da loja ou de barras, inclusive ignorando zeros a esquerda. Antes o codigo so casava por nome, entao digitar 656 (salsicha) nao mostrava a salsicha e parecia erro, embora o Enter ja adicionasse certo. Tambem reforca as travas: codigo resolve sempre pelo codigo exato (nunca por sugestao de nome), e a lista nao deixa mais sugestao antiga na tela.",
+    "version": "1.1.214",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.214/gestor360-1.1.214.zip",
+    "checksum": "3c69736afae911ccc744c5a4b90efc43bb79a99fe16516f9ffa574d0c1c66c72",
+    "notes": "",
     "history": [
+        {
+            "version": "1.1.214",
+            "notes": "",
+            "date": "2026-10-18 14:32:10"
+        },
         {
             "version": "1.1.213",
             "notes": "PDV - busca por codigo: ao digitar um codigo (so digitos), a lista agora mostra o PRODUTO daquele codigo (confirmacao visual) - casa por codigo da loja ou de barras, inclusive ignorando zeros a esquerda. Antes o codigo so casava por nome, entao digitar 656 (salsicha) nao mostrava a salsicha e parecia erro, embora o Enter ja adicionasse certo. Tambem reforca as travas: codigo resolve sempre pelo codigo exato (nunca por sugestao de nome), e a lista nao deixa mais sugestao antiga na tela.",
@@ -398,12 +403,7 @@
             "version": "1.1.132",
             "notes": "Contas a Pagar: novo botao 'A vencer' (pendentes vencendo de amanha em diante) e removido o 'Este mes' (redundante com 'Mes'). Pagar conta: campo 'Valor total pago' que calcula os juros automaticamente (total pago - valor - multa), sincronizado com multa/juros.",
             "date": "2026-08-13 10:24:39"
-        },
-        {
-            "version": "1.1.131",
-            "notes": "Contas a Pagar: modal Nova Conta a Pagar horizontal (2 colunas, mais largo). PDV Orcamento: navegacao por seta (cima/baixo) na busca de produto + Enter no item destacado; novo botao 'Enviar pra venda' que joga os produtos do orcamento no carrinho (com qtd e preco cotados).",
-            "date": "2026-08-12 08:14:00"
         }
     ],
-    "date": "2026-10-17 11:17:09"
+    "date": "2026-10-18 14:32:10"
 }
