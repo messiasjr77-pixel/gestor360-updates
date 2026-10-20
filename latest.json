@@ -1,9 +1,14 @@
 {
-    "version": "1.1.214",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.214/gestor360-1.1.214.zip",
-    "checksum": "3c69736afae911ccc744c5a4b90efc43bb79a99fe16516f9ffa574d0c1c66c72",
-    "notes": "",
+    "version": "1.1.215",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.215/gestor360-1.1.215.zip",
+    "checksum": "fbb4e7b5dbc92d6997d6eda0cae7e0a6970da2f04ed44e77f800222fb387c0b4",
+    "notes": "Tela de Cartao de Credito: cartoes listados na horizontal, abaixo dos indicadores, com visual ajustado para celular. Orcamento de Fornecedores: os proximos 3 meses passam a ser divididos por categoria, e grupos sem meta aparecem com o nome real (ex.: Fatura cartao).",
     "history": [
+        {
+            "version": "1.1.215",
+            "notes": "Tela de Cartao de Credito: cartoes listados na horizontal, abaixo dos indicadores, com visual ajustado para celular. Orcamento de Fornecedores: os proximos 3 meses passam a ser divididos por categoria, e grupos sem meta aparecem com o nome real (ex.: Fatura cartao).",
+            "date": "2026-10-20 19:51:18"
+        },
         {
             "version": "1.1.214",
             "notes": "",
@@ -398,12 +403,7 @@
             "version": "1.1.134",
             "notes": "PDV Consultar preco (F2): novo botao Imprimir que envia a etiqueta de preco do produto (nome/codigo/preco) direto pra impressora termica configurada.",
             "date": "2026-08-13 15:33:17"
-        },
-        {
-            "version": "1.1.132",
-            "notes": "Contas a Pagar: novo botao 'A vencer' (pendentes vencendo de amanha em diante) e removido o 'Este mes' (redundante com 'Mes'). Pagar conta: campo 'Valor total pago' que calcula os juros automaticamente (total pago - valor - multa), sincronizado com multa/juros.",
-            "date": "2026-08-13 10:24:39"
         }
     ],
-    "date": "2026-10-18 14:32:10"
+    "date": "2026-10-20 19:51:18"
 }
