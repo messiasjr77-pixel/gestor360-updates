@@ -1,9 +1,14 @@
 {
-    "version": "1.1.216",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.216/gestor360-1.1.216.zip",
-    "checksum": "5ec6f092b365b604b701830ea85a69d2cfccac998c45ea1def085f80bcb28cfe",
-    "notes": "Fechamento de caixa: o cupom passa a listar as saidas do caixa do dia. Fechamento da venda: clicar em um campo ja seleciona o valor; o valor digitado em uma forma nao altera as outras (o restante vira um campo novo); 'Valor apos desconto' so aparece quando ha desconto; sair do PDV nao pede mais confirmacao.",
+    "version": "1.1.217",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.217/gestor360-1.1.217.zip",
+    "checksum": "558be2b775211061dbf74904c2c9e5c84c7138e2283da29e31a089f6550ce5a1",
+    "notes": "Etiquetas de preco: impressao direta na etiquetadora da loja em rede e novo layout da etiqueta (nome ate 2 linhas, codigo de barras a esquerda e preco a direita).",
     "history": [
+        {
+            "version": "1.1.217",
+            "notes": "Etiquetas de preco: impressao direta na etiquetadora da loja em rede e novo layout da etiqueta (nome ate 2 linhas, codigo de barras a esquerda e preco a direita).",
+            "date": "2026-10-21 16:20:43"
+        },
         {
             "version": "1.1.216",
             "notes": "Fechamento de caixa: o cupom passa a listar as saidas do caixa do dia. Fechamento da venda: clicar em um campo ja seleciona o valor; o valor digitado em uma forma nao altera as outras (o restante vira um campo novo); 'Valor apos desconto' so aparece quando ha desconto; sair do PDV nao pede mais confirmacao.",
@@ -398,12 +403,7 @@
             "version": "1.1.136",
             "notes": "Correcao: editar entrada de NF-e nao duplica mais itens pela rede (afetava Compras por Fornecedor, estoque e custo).",
             "date": "2026-08-14 12:06:00"
-        },
-        {
-            "version": "1.1.135",
-            "notes": "Perdas e Prejuizos: editar/excluir no historico (com estorno de estoque), navegacao por teclado e custo automatico",
-            "date": "2026-08-14 10:56:58"
         }
     ],
-    "date": "2026-10-20 21:32:07"
+    "date": "2026-10-21 16:20:43"
 }
