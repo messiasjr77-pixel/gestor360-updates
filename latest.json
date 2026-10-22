@@ -1,9 +1,14 @@
 {
-    "version": "1.1.217",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.217/gestor360-1.1.217.zip",
-    "checksum": "558be2b775211061dbf74904c2c9e5c84c7138e2283da29e31a089f6550ce5a1",
-    "notes": "Etiquetas de preco: impressao direta na etiquetadora da loja em rede e novo layout da etiqueta (nome ate 2 linhas, codigo de barras a esquerda e preco a direita).",
+    "version": "1.1.218",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.218/gestor360-1.1.218.zip",
+    "checksum": "c0a2bfba5879ef56c5f54dd07e3ca206916fa7ed0debbbb6d217be49788e9773",
+    "notes": "Caixa-PDV-saidas-despesas-sangrias-reservas-etiquetas-e-limpeza-da-senha-na-abertura",
     "history": [
+        {
+            "version": "1.1.218",
+            "notes": "Caixa-PDV-saidas-despesas-sangrias-reservas-etiquetas-e-limpeza-da-senha-na-abertura",
+            "date": "2026-10-22 19:40:06"
+        },
         {
             "version": "1.1.217",
             "notes": "Etiquetas de preco: impressao direta na etiquetadora da loja em rede e novo layout da etiqueta (nome ate 2 linhas, codigo de barras a esquerda e preco a direita).",
@@ -398,12 +403,7 @@
             "version": "1.1.137",
             "notes": "Correcao: itens (nivel 3) de subcategorias agora sincronizam corretamente entre terminais (antes sumiam do dropdown em alguns PCs).",
             "date": "2026-08-14 15:13:03"
-        },
-        {
-            "version": "1.1.136",
-            "notes": "Correcao: editar entrada de NF-e nao duplica mais itens pela rede (afetava Compras por Fornecedor, estoque e custo).",
-            "date": "2026-08-14 12:06:00"
         }
     ],
-    "date": "2026-10-21 16:20:43"
+    "date": "2026-10-22 19:40:06"
 }
