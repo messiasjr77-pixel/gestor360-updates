@@ -1,9 +1,14 @@
 {
-    "version": "1.1.219",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.219/gestor360-1.1.219.zip",
-    "checksum": "154e50dca43f0a450d7e8d2ced794f86deb47ed2f6193dbd4290c32277aeba28",
-    "notes": "Cartão de crédito: a parcela passa a entrar na fatura do vencimento correto (antes podia cair um mês adiantada). Metas: coluna de meta única e barra de situação que mostra o consumo real e avisa quando um limite é ultrapassado. Contas a Pagar: filtro por grupo do plano de contas — clicar em \"filtrar tudo\" num grupo puxa todos os lançamentos dele. Orçamento de Fornecedores: correção no salvamento das metas (o valor salvo não volta mais ao anterior).",
+    "version": "1.1.220",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.220/gestor360-1.1.220.zip",
+    "checksum": "af3a4772dea0c3130ae826de7a099c7aa9b75267720a0f7312832720ee541b05",
+    "notes": "PDV: itens iguais passados um a um ficam em linhas separadas no cupom; digite a quantidade (ex.: 2 x produto) para agrupar em uma linha.",
     "history": [
+        {
+            "version": "1.1.220",
+            "notes": "PDV: itens iguais passados um a um ficam em linhas separadas no cupom; digite a quantidade (ex.: 2 x produto) para agrupar em uma linha.",
+            "date": "2026-10-23 15:03:30"
+        },
         {
             "version": "1.1.219",
             "notes": "Cartão de crédito: a parcela passa a entrar na fatura do vencimento correto (antes podia cair um mês adiantada). Metas: coluna de meta única e barra de situação que mostra o consumo real e avisa quando um limite é ultrapassado. Contas a Pagar: filtro por grupo do plano de contas — clicar em \"filtrar tudo\" num grupo puxa todos os lançamentos dele. Orçamento de Fornecedores: correção no salvamento das metas (o valor salvo não volta mais ao anterior).",
@@ -398,12 +403,7 @@
             "version": "1.1.141",
             "notes": "Novo: Fluxo de Caixa Gerencial (margem de contribuicao e ponto de equilibrio; marque as categorias como Fixa/Variavel). Entrada Manual: os itens agora aparecem no drill-down de Contas a Pagar, igual a NF-e.",
             "date": "2026-08-18 19:07:28"
-        },
-        {
-            "version": "1.1.140",
-            "notes": "Produtos: ao navegar as sugestoes do nome com as setas, os campos Cod. loja, EAN e Preco mostram o produto destacado. Usuario 'operador' liberado nas telas de login.",
-            "date": "2026-08-18 15:15:44"
         }
     ],
-    "date": "2026-10-22 22:36:34"
+    "date": "2026-10-23 15:03:30"
 }
