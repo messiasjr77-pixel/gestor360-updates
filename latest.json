@@ -1,9 +1,14 @@
 {
-    "version": "1.1.220",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.220/gestor360-1.1.220.zip",
-    "checksum": "af3a4772dea0c3130ae826de7a099c7aa9b75267720a0f7312832720ee541b05",
-    "notes": "PDV: itens iguais passados um a um ficam em linhas separadas no cupom; digite a quantidade (ex.: 2 x produto) para agrupar em uma linha.",
+    "version": "1.1.221",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.221/gestor360-1.1.221.zip",
+    "checksum": "887dc3b3710caede8bfd1c7fc84bba8d61f33624dfb65d4d0eed4a9713e60f9f",
+    "notes": "Orçamento de fornecedores: consumo por categoria, projeção, aportes à reserva; correção de Contas a Pagar e cadastro rápido de fornecedor.",
     "history": [
+        {
+            "version": "1.1.221",
+            "notes": "Orçamento de fornecedores: consumo por categoria, projeção, aportes à reserva; correção de Contas a Pagar e cadastro rápido de fornecedor.",
+            "date": "2026-10-23 22:57:00"
+        },
         {
             "version": "1.1.220",
             "notes": "PDV: itens iguais passados um a um ficam em linhas separadas no cupom; digite a quantidade (ex.: 2 x produto) para agrupar em uma linha.",
@@ -398,12 +403,7 @@
             "version": "1.1.142",
             "notes": "Entrada Manual: novo passo de Pagamento ao finalizar - adicione um ou varios boletos, que ficam vinculados a nota (clicar no fornecedor em Contas a Pagar mostra os itens).",
             "date": "2026-08-19 09:15:23"
-        },
-        {
-            "version": "1.1.141",
-            "notes": "Novo: Fluxo de Caixa Gerencial (margem de contribuicao e ponto de equilibrio; marque as categorias como Fixa/Variavel). Entrada Manual: os itens agora aparecem no drill-down de Contas a Pagar, igual a NF-e.",
-            "date": "2026-08-18 19:07:28"
         }
     ],
-    "date": "2026-10-23 15:03:30"
+    "date": "2026-10-23 22:57:00"
 }
