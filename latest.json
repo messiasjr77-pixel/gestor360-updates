@@ -1,9 +1,14 @@
 {
-    "version": "1.1.221",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.221/gestor360-1.1.221.zip",
-    "checksum": "887dc3b3710caede8bfd1c7fc84bba8d61f33624dfb65d4d0eed4a9713e60f9f",
-    "notes": "Orçamento de fornecedores: consumo por categoria, projeção, aportes à reserva; correção de Contas a Pagar e cadastro rápido de fornecedor.",
+    "version": "1.1.222",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.222/gestor360-1.1.222.zip",
+    "checksum": "52b05d0be410c7cbe503c262505a8e2f715dbbd683c1b648043a2fc8944a95d1",
+    "notes": "Etiquetas Argox pelo agente; entrada manual, unidades e overlay de produtos; lista de compras com EAN; reconexao e atualizacao do app mobile",
     "history": [
+        {
+            "version": "1.1.222",
+            "notes": "Etiquetas Argox pelo agente; entrada manual, unidades e overlay de produtos; lista de compras com EAN; reconexao e atualizacao do app mobile",
+            "date": "2026-10-25 16:06:33"
+        },
         {
             "version": "1.1.221",
             "notes": "Orçamento de fornecedores: consumo por categoria, projeção, aportes à reserva; correção de Contas a Pagar e cadastro rápido de fornecedor.",
@@ -398,12 +403,7 @@
             "version": "1.1.143",
             "notes": "Novo: Financeiro > Exportar p/ YAMPA - gera o CSV de recebimentos/pagamentos por periodo escolhido, no modelo do importador do YAMPA (4blue).",
             "date": "2026-08-20 10:22:30"
-        },
-        {
-            "version": "1.1.142",
-            "notes": "Entrada Manual: novo passo de Pagamento ao finalizar - adicione um ou varios boletos, que ficam vinculados a nota (clicar no fornecedor em Contas a Pagar mostra os itens).",
-            "date": "2026-08-19 09:15:23"
         }
     ],
-    "date": "2026-10-23 22:57:00"
+    "date": "2026-10-25 16:06:33"
 }
