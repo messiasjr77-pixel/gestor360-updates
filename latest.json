@@ -1,9 +1,14 @@
 {
-    "version": "1.1.226",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.226/gestor360-1.1.226.zip",
-    "checksum": "5370d5714216d056fc80fc45a0d65aecdd83a817bc8bce2d0c8cae0e144fb49e",
-    "notes": "Fiscal: nova tela Recuperar NFC-e (menu Fiscal). Lista as NFC-e que foram rejeitadas por identificador interno/duplicidade quando a nota ja tinha sido autorizada na SEFAZ, e permite recuperar cada uma (ou todas em lote) consultando a chave e baixando XML/PDF, em vez de reenviar.",
+    "version": "1.1.227",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.227/gestor360-1.1.227.zip",
+    "checksum": "2c8d94f81f53330285eeca6f8c6af523195eed6d1a9d9680add1b9c657962d64",
+    "notes": "PDV: aviso de nova mensagem clicavel sem sino e exibido imediatamente ao receber.",
     "history": [
+        {
+            "version": "1.1.227",
+            "notes": "PDV: aviso de nova mensagem clicavel sem sino e exibido imediatamente ao receber.",
+            "date": "2026-10-27 19:15:37"
+        },
         {
             "version": "1.1.226",
             "notes": "Fiscal: nova tela Recuperar NFC-e (menu Fiscal). Lista as NFC-e que foram rejeitadas por identificador interno/duplicidade quando a nota ja tinha sido autorizada na SEFAZ, e permite recuperar cada uma (ou todas em lote) consultando a chave e baixando XML/PDF, em vez de reenviar.",
@@ -398,12 +403,7 @@
             "version": "1.1.148",
             "notes": "PDV: passar o mouse sobre um item da busca nao apaga mais o produto (o hover usava branco); agora fundo cinza sutil e texto legivel, distinto da selecao por seta. Login: usuario Operador volta a aparecer no seletor.",
             "date": "2026-08-21 16:42:49"
-        },
-        {
-            "version": "1.1.147",
-            "notes": "Etiqueta de preco (Daruma DLL): codigo do produto sai em corpo duplo no modo grande, quase do tamanho da descricao.",
-            "date": "2026-08-20 19:12:43"
         }
     ],
-    "date": "2026-10-27 18:33:25"
+    "date": "2026-10-27 19:15:37"
 }
