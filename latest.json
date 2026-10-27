@@ -1,9 +1,14 @@
 {
-    "version": "1.1.224",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.224/gestor360-1.1.224.zip",
-    "checksum": "925fa1f1d86bc21b4b1196d9f53ced5c8ceeafc20970ce98b21e75351324f059",
-    "notes": "Plano de Contas: ao excluir uma subconta, da para remanejar os lancamentos dela para uma subconta de qualquer conta. Orcamento (Ajustar metas): mostra a media de vendas dos 3 meses fechados quando o valor esta abaixo da meta de faturamento. Contas a Pagar: filtro por fornecedor corrigido (campo vazio e Enter limpa o filtro). Correcoes de foco nos campos e no calculo do custo medio na entrada manual.",
+    "version": "1.1.225",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.225/gestor360-1.1.225.zip",
+    "checksum": "2b5f00d5f1235c43e58be78e12a129385e24db3642c53f0d4f283c0177ff95de",
+    "notes": "NFC-e: a tela de notas pendentes rola na horizontal em telas estreitas e o botao Recuperar passa a aparecer tambem quando a nota foi rejeitada por duplicidade (numero ja autorizado na SEFAZ), recuperando a nota em vez de reenviar. Correcao de NCM: quando a consulta a tabela oficial falha por validacao de certificado SSL, o sistema cai automaticamente para um caminho alternativo que usa os certificados do Windows.",
     "history": [
+        {
+            "version": "1.1.225",
+            "notes": "NFC-e: a tela de notas pendentes rola na horizontal em telas estreitas e o botao Recuperar passa a aparecer tambem quando a nota foi rejeitada por duplicidade (numero ja autorizado na SEFAZ), recuperando a nota em vez de reenviar. Correcao de NCM: quando a consulta a tabela oficial falha por validacao de certificado SSL, o sistema cai automaticamente para um caminho alternativo que usa os certificados do Windows.",
+            "date": "2026-10-27 15:32:23"
+        },
         {
             "version": "1.1.224",
             "notes": "Plano de Contas: ao excluir uma subconta, da para remanejar os lancamentos dela para uma subconta de qualquer conta. Orcamento (Ajustar metas): mostra a media de vendas dos 3 meses fechados quando o valor esta abaixo da meta de faturamento. Contas a Pagar: filtro por fornecedor corrigido (campo vazio e Enter limpa o filtro). Correcoes de foco nos campos e no calculo do custo medio na entrada manual.",
@@ -398,12 +403,7 @@
             "version": "1.1.146",
             "notes": "Compras por Fornecedor: clique no item abre o produto no cadastro (F3), resolvendo por codigo/EAN. NF-e: NCM do item preenche automatico ao importar o XML (nao bloqueia mais o finalizar de produto novo). Nova Conta a Pagar: tela compacta em 3 colunas sem rolagem. Abertura de Caixa: Enter avanca campo a campo. Etiqueta de preco: codigo um pouco maior.",
             "date": "2026-08-20 18:59:51"
-        },
-        {
-            "version": "1.1.145",
-            "notes": "Exportar p/ YAMPA: filtro por forma de pagamento nos recebimentos (ex.: exportar so as vendas em dinheiro, ou so PIX).",
-            "date": "2026-08-20 16:39:18"
         }
     ],
-    "date": "2026-10-27 15:18:10"
+    "date": "2026-10-27 15:32:23"
 }
