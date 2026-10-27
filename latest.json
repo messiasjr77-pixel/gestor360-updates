@@ -1,9 +1,14 @@
 {
-    "version": "1.1.225",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.225/gestor360-1.1.225.zip",
-    "checksum": "2b5f00d5f1235c43e58be78e12a129385e24db3642c53f0d4f283c0177ff95de",
-    "notes": "NFC-e: a tela de notas pendentes rola na horizontal em telas estreitas e o botao Recuperar passa a aparecer tambem quando a nota foi rejeitada por duplicidade (numero ja autorizado na SEFAZ), recuperando a nota em vez de reenviar. Correcao de NCM: quando a consulta a tabela oficial falha por validacao de certificado SSL, o sistema cai automaticamente para um caminho alternativo que usa os certificados do Windows.",
+    "version": "1.1.226",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.226/gestor360-1.1.226.zip",
+    "checksum": "5370d5714216d056fc80fc45a0d65aecdd83a817bc8bce2d0c8cae0e144fb49e",
+    "notes": "Fiscal: nova tela Recuperar NFC-e (menu Fiscal). Lista as NFC-e que foram rejeitadas por identificador interno/duplicidade quando a nota ja tinha sido autorizada na SEFAZ, e permite recuperar cada uma (ou todas em lote) consultando a chave e baixando XML/PDF, em vez de reenviar.",
     "history": [
+        {
+            "version": "1.1.226",
+            "notes": "Fiscal: nova tela Recuperar NFC-e (menu Fiscal). Lista as NFC-e que foram rejeitadas por identificador interno/duplicidade quando a nota ja tinha sido autorizada na SEFAZ, e permite recuperar cada uma (ou todas em lote) consultando a chave e baixando XML/PDF, em vez de reenviar.",
+            "date": "2026-10-27 18:33:25"
+        },
         {
             "version": "1.1.225",
             "notes": "NFC-e: a tela de notas pendentes rola na horizontal em telas estreitas e o botao Recuperar passa a aparecer tambem quando a nota foi rejeitada por duplicidade (numero ja autorizado na SEFAZ), recuperando a nota em vez de reenviar. Correcao de NCM: quando a consulta a tabela oficial falha por validacao de certificado SSL, o sistema cai automaticamente para um caminho alternativo que usa os certificados do Windows.",
@@ -398,12 +403,7 @@
             "version": "1.1.147",
             "notes": "Etiqueta de preco (Daruma DLL): codigo do produto sai em corpo duplo no modo grande, quase do tamanho da descricao.",
             "date": "2026-08-20 19:12:43"
-        },
-        {
-            "version": "1.1.146",
-            "notes": "Compras por Fornecedor: clique no item abre o produto no cadastro (F3), resolvendo por codigo/EAN. NF-e: NCM do item preenche automatico ao importar o XML (nao bloqueia mais o finalizar de produto novo). Nova Conta a Pagar: tela compacta em 3 colunas sem rolagem. Abertura de Caixa: Enter avanca campo a campo. Etiqueta de preco: codigo um pouco maior.",
-            "date": "2026-08-20 18:59:51"
         }
     ],
-    "date": "2026-10-27 15:32:23"
+    "date": "2026-10-27 18:33:25"
 }
