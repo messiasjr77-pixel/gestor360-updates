@@ -1,9 +1,14 @@
 {
-    "version": "1.1.229",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.229/gestor360-1.1.229.zip",
-    "checksum": "ea677ea34fa57a62fa39e0c6acb7ddbe880b0fc56099e6df404d62db607a6066",
-    "notes": "Orçamento de Fornecedores: metas por mês (cada mês com seus próprios limites); Custo fixo detalhado em Salários, Pró-labore e Outros, com clique para ver os lançamentos; nova coluna Subconta no detalhe do consumo. Contas a Pagar: tela de Nova conta redesenhada em seções; campo Descrição; opção Repetir mensalmente; filtro por dia com calendário aprimorado; busca também pelo valor pago.",
+    "version": "1.1.230",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.230/gestor360-1.1.230.zip",
+    "checksum": "96b4a366c3c0973c0b35e8add351ed8781cd3a975da3d91646ef3eb3626b2daa",
+    "notes": "Recebimento de crediário no PDV: agora pede confirmação antes de registrar a baixa, evitando quitação acidental ao usar o leitor de código de barras com a tela aberta.",
     "history": [
+        {
+            "version": "1.1.230",
+            "notes": "Recebimento de crediário no PDV: agora pede confirmação antes de registrar a baixa, evitando quitação acidental ao usar o leitor de código de barras com a tela aberta.",
+            "date": "2026-11-01 13:12:26"
+        },
         {
             "version": "1.1.229",
             "notes": "Orçamento de Fornecedores: metas por mês (cada mês com seus próprios limites); Custo fixo detalhado em Salários, Pró-labore e Outros, com clique para ver os lançamentos; nova coluna Subconta no detalhe do consumo. Contas a Pagar: tela de Nova conta redesenhada em seções; campo Descrição; opção Repetir mensalmente; filtro por dia com calendário aprimorado; busca também pelo valor pago.",
@@ -398,12 +403,7 @@
             "version": "1.1.151",
             "notes": "Sync: auto-deteccao de porta agora encontra empresas secundarias (9093-9099), ex.: Empresa B em 9095. Contas a Pagar: WhatsApp abre overlay na tela pra copiar (sem abrir o WhatsApp); mascara de moeda em Valor/Multa/Juros; categoria e subcategoria mostradas na linha; Enter avanca De->Ate no filtro de periodo; botoes Pagas e Pendentes deixam de se sobrepor. Backups automaticos reduzidos de 30 para 3 (economiza disco).",
             "date": "2026-08-21 18:35:20"
-        },
-        {
-            "version": "1.1.150",
-            "notes": "Sync: auto-limpeza de terminal duplicado. Quando dois terminal_id apontam pro mesmo IP (maquina reinstalada), o sistema pergunta ao IP quem ele e e remove o id fantasma — some sozinho ao abrir a tela de Sincronizacao ou no ciclo automatico. Nao afeta peers legitimos.",
-            "date": "2026-08-21 18:01:16"
         }
     ],
-    "date": "2026-10-30 21:20:20"
+    "date": "2026-11-01 13:12:26"
 }
