@@ -1,9 +1,14 @@
 {
-    "version": "1.1.230",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.230/gestor360-1.1.230.zip",
-    "checksum": "96b4a366c3c0973c0b35e8add351ed8781cd3a975da3d91646ef3eb3626b2daa",
-    "notes": "Recebimento de crediário no PDV: agora pede confirmação antes de registrar a baixa, evitando quitação acidental ao usar o leitor de código de barras com a tela aberta.",
+    "version": "1.1.231",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.231/gestor360-1.1.231.zip",
+    "checksum": "869a558a0e281de159a79c9b6369692bbd8276ddb80da834f194db59f174c0fe",
+    "notes": "Fluxo de caixa: saídas, reserva e cálculo do saldo; NFC-e com caixa de origem; recibo do crediário com retorno ao painel.",
     "history": [
+        {
+            "version": "1.1.231",
+            "notes": "Fluxo de caixa: saídas, reserva e cálculo do saldo; NFC-e com caixa de origem; recibo do crediário com retorno ao painel.",
+            "date": "2026-11-02 12:09:20"
+        },
         {
             "version": "1.1.230",
             "notes": "Recebimento de crediário no PDV: agora pede confirmação antes de registrar a baixa, evitando quitação acidental ao usar o leitor de código de barras com a tela aberta.",
@@ -398,12 +403,7 @@
             "version": "1.1.152",
             "notes": "Sync: bootstrap automatico de terminal novo. Ao instalar/parear, o terminal puxa o retrato completo do peer (novo endpoint snapshot) e se preenche sozinho na 1a sincronizacao, sem divergencia. Sync incremental normal depois. Nao afeta terminais ja existentes.",
             "date": "2026-08-22 13:05:28"
-        },
-        {
-            "version": "1.1.151",
-            "notes": "Sync: auto-deteccao de porta agora encontra empresas secundarias (9093-9099), ex.: Empresa B em 9095. Contas a Pagar: WhatsApp abre overlay na tela pra copiar (sem abrir o WhatsApp); mascara de moeda em Valor/Multa/Juros; categoria e subcategoria mostradas na linha; Enter avanca De->Ate no filtro de periodo; botoes Pagas e Pendentes deixam de se sobrepor. Backups automaticos reduzidos de 30 para 3 (economiza disco).",
-            "date": "2026-08-21 18:35:20"
         }
     ],
-    "date": "2026-11-01 13:12:26"
+    "date": "2026-11-02 12:09:20"
 }
