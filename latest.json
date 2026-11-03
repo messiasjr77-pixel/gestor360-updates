@@ -1,9 +1,14 @@
 {
-    "version": "1.1.232",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.232/gestor360-1.1.232.zip",
-    "checksum": "2a49e0cbfb3f2c1d6209edd7ee89bf7d1d8638364c0af342ce5143147a1e090c",
-    "notes": "Perdas em lote e historico; validacao de preco na entrada; foco em duplicatas; codigos de produto e PDV; filtro de contas a pagar",
+    "version": "1.1.233",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.233/gestor360-1.1.233.zip",
+    "checksum": "4275f036b5c9188cdcfed36ca717f042bcc4caad77b7ec9db7f8eb4629912177",
+    "notes": "NFC-e: reenvio automatico tambem para notas corrigidas de NCM e CPF. Cadastro de cliente valida CPF/CNPJ e bloqueia documento invalido. Produtos: atalho de salvar passa para Alt+G, Alt+S nao dispara mais o sincronismo, e produto novo sem codigo volta a sugerir um codigo livre.",
     "history": [
+        {
+            "version": "1.1.233",
+            "notes": "NFC-e: reenvio automatico tambem para notas corrigidas de NCM e CPF. Cadastro de cliente valida CPF/CNPJ e bloqueia documento invalido. Produtos: atalho de salvar passa para Alt+G, Alt+S nao dispara mais o sincronismo, e produto novo sem codigo volta a sugerir um codigo livre.",
+            "date": "2026-11-03 18:23:47"
+        },
         {
             "version": "1.1.232",
             "notes": "Perdas em lote e historico; validacao de preco na entrada; foco em duplicatas; codigos de produto e PDV; filtro de contas a pagar",
@@ -398,12 +403,7 @@
             "version": "1.1.154",
             "notes": "Contas a Pagar: saidas do Caixa (Caixa -> Saidas) aparecem na lista ja marcadas como pagas (abas Mes/Dia/Periodo, combinam com Pagas), incluidas tambem no PDF e no WhatsApp. Read-only (editar no Caixa). Limpar filtros zera a data do Dia.",
             "date": "2026-08-25 16:42:09"
-        },
-        {
-            "version": "1.1.153",
-            "notes": "PDV mais rapido: a conexao em tempo real (SSE) do cupom passa a ser sempre LOCAL, em vez de conectar no terminal de outro caixa da rede. Isso deixa a ENTRADA e a SAIDA do PDV bem mais leves (nao trava fechando conexao com outro terminal). As conexoes tambem sao encerradas ao sair da tela.",
-            "date": "2026-08-23 11:19:41"
         }
     ],
-    "date": "2026-11-02 21:36:20"
+    "date": "2026-11-03 18:23:47"
 }
