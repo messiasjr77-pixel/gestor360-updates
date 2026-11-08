@@ -1,9 +1,14 @@
 {
-    "version": "1.1.234",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.234/gestor360-1.1.234.zip",
-    "checksum": "3540dea2f667ce4c0b7cb8c063988dba59d3793e4d5a6c6d1bd5c6a86e2da916",
-    "notes": "Entrada via Planilha: coluna Total editavel, margem igual a do cadastro, dica com margem e lucro anteriores, coluna de estoque, remover item da lista e cabecalho fixo ao rolar. PDV: etiqueta de balanca localiza o produto tambem pelo codigo de barras, nao so pela PLU. Financeiro: ajustes em contas a pagar, cobranca por WhatsApp, cartao de credito, fluxo de caixa, relatorio gerencial, orcamento e metas. Cadastro: busca de produto por nome exato.",
+    "version": "1.1.235",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.235/gestor360-1.1.235.zip",
+    "checksum": "c053222cb6f8ea4b470da482b21b44ccd1da02cf9a96e2418428edd2bd61ec3a",
+    "notes": "Contas a Pagar: filtros, calendario, paginacao, juros e faturas agrupadas no WhatsApp; datas de produtos em formato brasileiro; melhorias de sincronizacao, atualizacao, desempenho e entrada por NF.",
     "history": [
+        {
+            "version": "1.1.235",
+            "notes": "Contas a Pagar: filtros, calendario, paginacao, juros e faturas agrupadas no WhatsApp; datas de produtos em formato brasileiro; melhorias de sincronizacao, atualizacao, desempenho e entrada por NF.",
+            "date": "2026-11-08 22:20:16"
+        },
         {
             "version": "1.1.234",
             "notes": "Entrada via Planilha: coluna Total editavel, margem igual a do cadastro, dica com margem e lucro anteriores, coluna de estoque, remover item da lista e cabecalho fixo ao rolar. PDV: etiqueta de balanca localiza o produto tambem pelo codigo de barras, nao so pela PLU. Financeiro: ajustes em contas a pagar, cobranca por WhatsApp, cartao de credito, fluxo de caixa, relatorio gerencial, orcamento e metas. Cadastro: busca de produto por nome exato.",
@@ -398,12 +403,7 @@
             "version": "1.1.156",
             "notes": "Cartao de credito: novo botao 'Dividir fatura por categoria' (estilo YAMPA) - informe o total e some por categoria do plano de contas com indicador de Restante; regime de caixa (entra no Fluxo ao pagar) sem perder a projecao das faturas futuras; guarda a ultima divisao como modelo. Renomeado 'Categorias Financeiras' para 'Plano de Contas' no menu, telas e campos das entradas.",
             "date": "2026-08-27 09:48:16"
-        },
-        {
-            "version": "1.1.155",
-            "notes": "Nova identidade visual COREX AUTOMACAO (logo, favicon e nomes nas telas) substituindo o Gestor360. Entrada NF-e: corrige o total de itens em fardo/embalagem (ex.: 80un por 8,28 vinha 8,00) - agora usa o preco unitario exato, sem perder centavos; e editar o valor total passa a colar (nao volta mais sozinho).",
-            "date": "2026-08-25 18:19:11"
         }
     ],
-    "date": "2026-11-05 21:22:01"
+    "date": "2026-11-08 22:20:16"
 }
