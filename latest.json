@@ -1,9 +1,14 @@
 {
-    "version": "1.1.235",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.235/gestor360-1.1.235.zip",
-    "checksum": "c053222cb6f8ea4b470da482b21b44ccd1da02cf9a96e2418428edd2bd61ec3a",
-    "notes": "Contas a Pagar: filtros, calendario, paginacao, juros e faturas agrupadas no WhatsApp; datas de produtos em formato brasileiro; melhorias de sincronizacao, atualizacao, desempenho e entrada por NF.",
+    "version": "1.1.236",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.236/gestor360-1.1.236.zip",
+    "checksum": "cdf2266d47035b2c37a47b0f14330717515e66eca5bb42c388f9a8f9b753067f",
+    "notes": "NF-e a vista gera conta a pagar ja quitada automaticamente.",
     "history": [
+        {
+            "version": "1.1.236",
+            "notes": "NF-e a vista gera conta a pagar ja quitada automaticamente.",
+            "date": "2026-11-08 22:28:55"
+        },
         {
             "version": "1.1.235",
             "notes": "Contas a Pagar: filtros, calendario, paginacao, juros e faturas agrupadas no WhatsApp; datas de produtos em formato brasileiro; melhorias de sincronizacao, atualizacao, desempenho e entrada por NF.",
@@ -398,12 +403,7 @@
             "version": "1.1.157",
             "notes": "PDV: pagamento misto volta a funcionar (ex.: parte no debito + parte no PIX). Troco em destaque: cartao grande no centro ao finalizar em dinheiro (liga/desliga em Admin->PDV->Configuracoes). Cancelamento de venda/NFC-e: usa a senha da conta 'Administrador', que agora NAO loga no sistema (so autoriza); ESC fecha a tela de confirmacao. Usuarios: tela nao corta mais os botoes; a senha do admin nao pode ser revelada (sem olho). Tela de Atualizacao abre instantanea.",
             "date": "2026-08-28 10:06:58"
-        },
-        {
-            "version": "1.1.156",
-            "notes": "Cartao de credito: novo botao 'Dividir fatura por categoria' (estilo YAMPA) - informe o total e some por categoria do plano de contas com indicador de Restante; regime de caixa (entra no Fluxo ao pagar) sem perder a projecao das faturas futuras; guarda a ultima divisao como modelo. Renomeado 'Categorias Financeiras' para 'Plano de Contas' no menu, telas e campos das entradas.",
-            "date": "2026-08-27 09:48:16"
         }
     ],
-    "date": "2026-11-08 22:20:16"
+    "date": "2026-11-08 22:28:55"
 }
