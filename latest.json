@@ -1,9 +1,14 @@
 {
-    "version": "1.1.237",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.237/gestor360-1.1.237.zip",
-    "checksum": "d1894c4417558b80508d45ffa0905bf0ce526114e789763a3854794d3571d1dd",
-    "notes": "PDV: tela de fechamento da venda mostra o PDV ao fundo (desfocado) e sem logos nas laterais; Enter no campo de desconto avanca direto para Finalizar venda. Consulta de preco (F2): ESC fecha de qualquer ponto da tela e nova opcao de imprimir etiqueta em formato menor. Fluxo de Caixa Gerencial: visao em cascata ate o Resultado Liquido com selecao de faixa de meses. Entradas de mercadoria: busca pelo numero da nota no historico e ajustes no lancamento por pacote. Sincronizacao mais robusta.",
+    "version": "1.1.238",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.238/gestor360-1.1.238.zip",
+    "checksum": "f48f30528eda3e2bf3e7c3beb0773866bcafc28a5b9e81d333f29ca664c28f9d",
+    "notes": "Tela de Cadastro de Produtos: layout responsivo em telas 1024x768 (sem corte; aproveita a largura, inclusive com a barra lateral recolhida).",
     "history": [
+        {
+            "version": "1.1.238",
+            "notes": "Tela de Cadastro de Produtos: layout responsivo em telas 1024x768 (sem corte; aproveita a largura, inclusive com a barra lateral recolhida).",
+            "date": "2026-11-12 17:15:57"
+        },
         {
             "version": "1.1.237",
             "notes": "PDV: tela de fechamento da venda mostra o PDV ao fundo (desfocado) e sem logos nas laterais; Enter no campo de desconto avanca direto para Finalizar venda. Consulta de preco (F2): ESC fecha de qualquer ponto da tela e nova opcao de imprimir etiqueta em formato menor. Fluxo de Caixa Gerencial: visao em cascata ate o Resultado Liquido com selecao de faixa de meses. Entradas de mercadoria: busca pelo numero da nota no historico e ajustes no lancamento por pacote. Sincronizacao mais robusta.",
@@ -398,12 +403,7 @@
             "version": "1.1.159",
             "notes": "Entrada Manual: busca produto pelo codigo do Pacote (PCT) e avisa se nao cadastrado; autosave agora persiste no servidor (F5/Historico refletem a tela); pagamento a vista/boleto tem seletor de categoria/subcategoria do plano de contas; ao finalizar, o nome editado atualiza o cadastro e o ajuste de estoque usa contagem absoluta (anti-drift entre terminais). Lista de Compras: estoque atual editavel na propria lista. Contas a Pagar: saidas do Caixa aparecem na lista/PDF/WhatsApp como pagas.",
             "date": "2026-08-30 13:18:16"
-        },
-        {
-            "version": "1.1.158",
-            "notes": "PDV: novo 'CPF na nota' (Ctrl+C / menu) — digita o CPF de consumidor NAO cadastrado, sem sair da venda, e ele vai na NFC-e (cliente cadastrado segue so no crediario). Indicador de sincronizacao no cabecalho (verde/amarelo/vermelho + detalhe dos terminais). Crediario: ao CANCELAR a janela de confirmacao, solta o cliente escolhido (da pra selecionar outro). Janela do crediario mostra o TOTAL que o cliente ficara devendo (em aberto + esta venda).",
-            "date": "2026-08-29 16:35:53"
         }
     ],
-    "date": "2026-11-12 15:10:59"
+    "date": "2026-11-12 17:15:57"
 }
