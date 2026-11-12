@@ -1,9 +1,14 @@
 {
-    "version": "1.1.238",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.238/gestor360-1.1.238.zip",
-    "checksum": "f48f30528eda3e2bf3e7c3beb0773866bcafc28a5b9e81d333f29ca664c28f9d",
-    "notes": "Tela de Cadastro de Produtos: layout responsivo em telas 1024x768 (sem corte; aproveita a largura, inclusive com a barra lateral recolhida).",
+    "version": "1.1.239",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.239/gestor360-1.1.239.zip",
+    "checksum": "2cf42816bd2582ab2cb301e73ead6d2a13ac2628890e3f1b87ddda5cd210e95e",
+    "notes": "Cadastro de Produtos: tela responsiva em 1024x768 agora também com o menu lateral expandido (antes só ficava correta com o menu recolhido).",
     "history": [
+        {
+            "version": "1.1.239",
+            "notes": "Cadastro de Produtos: tela responsiva em 1024x768 agora também com o menu lateral expandido (antes só ficava correta com o menu recolhido).",
+            "date": "2026-11-12 17:46:02"
+        },
         {
             "version": "1.1.238",
             "notes": "Tela de Cadastro de Produtos: layout responsivo em telas 1024x768 (sem corte; aproveita a largura, inclusive com a barra lateral recolhida).",
@@ -398,12 +403,7 @@
             "version": "1.1.160",
             "notes": "Financeiro: contas marcadas como PREVISTO nao entram mais no Fluxo de Caixa (viram so projecao) + toggle 'Previstos' em Contas a Pagar pra exibir/ocultar. Fluxo de Caixa: crediario nas entradas agora e o RECEBIDO (regime de caixa), nao o vendido; clicar em Crediario mostra dinheiro x outros meios. Novas telas: Movimento->Formas de Pagamento (entradas por forma, dia a dia) e Financeiro->Recebimentos de Crediario. PDV: CPF na nota (Ctrl+C) pra consumidor nao cadastrado; foco volta ao codigo de barras apos operacoes. Contas a Pagar: barra de filtros reorganizada; abas Dia/Mes/Periodo com clique pra remover. Entrada Manual: carrega pacote do produto, entrada em PCT calcula preco unitario/medio, economia do pacote. Menu renomeado. Cancelamento pela senha do admin.",
             "date": "2026-09-01 17:06:52"
-        },
-        {
-            "version": "1.1.159",
-            "notes": "Entrada Manual: busca produto pelo codigo do Pacote (PCT) e avisa se nao cadastrado; autosave agora persiste no servidor (F5/Historico refletem a tela); pagamento a vista/boleto tem seletor de categoria/subcategoria do plano de contas; ao finalizar, o nome editado atualiza o cadastro e o ajuste de estoque usa contagem absoluta (anti-drift entre terminais). Lista de Compras: estoque atual editavel na propria lista. Contas a Pagar: saidas do Caixa aparecem na lista/PDF/WhatsApp como pagas.",
-            "date": "2026-08-30 13:18:16"
         }
     ],
-    "date": "2026-11-12 17:15:57"
+    "date": "2026-11-12 17:46:02"
 }
