@@ -1,9 +1,14 @@
 {
-    "version": "1.1.236",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.236/gestor360-1.1.236.zip",
-    "checksum": "cdf2266d47035b2c37a47b0f14330717515e66eca5bb42c388f9a8f9b753067f",
-    "notes": "NF-e a vista gera conta a pagar ja quitada automaticamente.",
+    "version": "1.1.237",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.237/gestor360-1.1.237.zip",
+    "checksum": "d1894c4417558b80508d45ffa0905bf0ce526114e789763a3854794d3571d1dd",
+    "notes": "PDV: tela de fechamento da venda mostra o PDV ao fundo (desfocado) e sem logos nas laterais; Enter no campo de desconto avanca direto para Finalizar venda. Consulta de preco (F2): ESC fecha de qualquer ponto da tela e nova opcao de imprimir etiqueta em formato menor. Fluxo de Caixa Gerencial: visao em cascata ate o Resultado Liquido com selecao de faixa de meses. Entradas de mercadoria: busca pelo numero da nota no historico e ajustes no lancamento por pacote. Sincronizacao mais robusta.",
     "history": [
+        {
+            "version": "1.1.237",
+            "notes": "PDV: tela de fechamento da venda mostra o PDV ao fundo (desfocado) e sem logos nas laterais; Enter no campo de desconto avanca direto para Finalizar venda. Consulta de preco (F2): ESC fecha de qualquer ponto da tela e nova opcao de imprimir etiqueta em formato menor. Fluxo de Caixa Gerencial: visao em cascata ate o Resultado Liquido com selecao de faixa de meses. Entradas de mercadoria: busca pelo numero da nota no historico e ajustes no lancamento por pacote. Sincronizacao mais robusta.",
+            "date": "2026-11-12 15:10:59"
+        },
         {
             "version": "1.1.236",
             "notes": "NF-e a vista gera conta a pagar ja quitada automaticamente.",
@@ -398,12 +403,7 @@
             "version": "1.1.158",
             "notes": "PDV: novo 'CPF na nota' (Ctrl+C / menu) — digita o CPF de consumidor NAO cadastrado, sem sair da venda, e ele vai na NFC-e (cliente cadastrado segue so no crediario). Indicador de sincronizacao no cabecalho (verde/amarelo/vermelho + detalhe dos terminais). Crediario: ao CANCELAR a janela de confirmacao, solta o cliente escolhido (da pra selecionar outro). Janela do crediario mostra o TOTAL que o cliente ficara devendo (em aberto + esta venda).",
             "date": "2026-08-29 16:35:53"
-        },
-        {
-            "version": "1.1.157",
-            "notes": "PDV: pagamento misto volta a funcionar (ex.: parte no debito + parte no PIX). Troco em destaque: cartao grande no centro ao finalizar em dinheiro (liga/desliga em Admin->PDV->Configuracoes). Cancelamento de venda/NFC-e: usa a senha da conta 'Administrador', que agora NAO loga no sistema (so autoriza); ESC fecha a tela de confirmacao. Usuarios: tela nao corta mais os botoes; a senha do admin nao pode ser revelada (sem olho). Tela de Atualizacao abre instantanea.",
-            "date": "2026-08-28 10:06:58"
         }
     ],
-    "date": "2026-11-08 22:28:55"
+    "date": "2026-11-12 15:10:59"
 }
