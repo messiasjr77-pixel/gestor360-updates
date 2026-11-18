@@ -1,9 +1,14 @@
 {
-    "version": "1.1.240",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.240/gestor360-1.1.240.zip",
-    "checksum": "ef61e4681b44fc5c83487985dc4fea88f2e16ac5d22a8bcedb0b9e3c8860fad2",
-    "notes": "Perdas e Prejuizos agora sincroniza entre os terminais. Tela de produtos com layout responsivo em qualquer resolucao de tela. Busca de produtos com ordenacao correta, sem diferenciar maiusculas/minusculas nem acentos. Correcao na finalizacao de venda que podia falhar quando um item estava com cadastro inconsistente. Melhorias de sincronizacao.",
+    "version": "1.1.241",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.241/gestor360-1.1.241.zip",
+    "checksum": "5d3913e2f2c60eb5f7b7af8050a40564e5ef85ebf846ad001f4eac803756d87d",
+    "notes": "App mobile: o detalhe do produto passa a mostrar a data da ultima entrada e da ultima alteracao de preco. Melhorias em Perdas e Contas a Pagar, e correcoes gerais.",
     "history": [
+        {
+            "version": "1.1.241",
+            "notes": "App mobile: o detalhe do produto passa a mostrar a data da ultima entrada e da ultima alteracao de preco. Melhorias em Perdas e Contas a Pagar, e correcoes gerais.",
+            "date": "2026-11-18 12:55:36"
+        },
         {
             "version": "1.1.240",
             "notes": "Perdas e Prejuizos agora sincroniza entre os terminais. Tela de produtos com layout responsivo em qualquer resolucao de tela. Busca de produtos com ordenacao correta, sem diferenciar maiusculas/minusculas nem acentos. Correcao na finalizacao de venda que podia falhar quando um item estava com cadastro inconsistente. Melhorias de sincronizacao.",
@@ -398,12 +403,7 @@
             "version": "1.1.162",
             "notes": "Entrada NF-e: correcao de arredondamento (preco unitario ate 4 casas — total do item bate com a nota em itens baratos) + edicao de entrada FINALIZADA (botao Editar no historico; ao salvar, reverte estoque/custo/contas pendentes e reaplica). Entrada Manual: bloqueia finalizar sem preco de venda + preco de compra ate 4 casas.",
             "date": "2026-09-02 13:34:31"
-        },
-        {
-            "version": "1.1.161",
-            "notes": "Contas a Pagar: contas marcadas como PREVISTO agora sao excluidas automaticamente um dia apos o vencimento (ficam visiveis so ate o vencimento; as ja pagas sao preservadas). Toggle 'Previstos' comeca DESMARCADO (previstas ocultas por padrao, aparecem so ao clicar).",
-            "date": "2026-09-01 18:24:17"
         }
     ],
-    "date": "2026-11-15 15:51:21"
+    "date": "2026-11-18 12:55:36"
 }
