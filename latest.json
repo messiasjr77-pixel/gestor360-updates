@@ -1,9 +1,14 @@
 {
-    "version": "1.1.241",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.241/gestor360-1.1.241.zip",
-    "checksum": "5d3913e2f2c60eb5f7b7af8050a40564e5ef85ebf846ad001f4eac803756d87d",
-    "notes": "App mobile: o detalhe do produto passa a mostrar a data da ultima entrada e da ultima alteracao de preco. Melhorias em Perdas e Contas a Pagar, e correcoes gerais.",
+    "version": "1.1.242",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.242/gestor360-1.1.242.zip",
+    "checksum": "b153f39534908b6f69deb8cce1835575e96d67d18a6eaa13b6b33e3a0dc863a8",
+    "notes": "Entradas de mercadoria vindas da integracao externa passam a ficar registradas no Historico de Entrada Manual. Contas a Pagar: datas em dd/mm/aaaa nas telas de nova conta, edicao e pagamento; data do lancamento no modal de edicao; criacao de conta/subconta do plano de contas direto na tela; ajustes visuais nos botoes e no Limpar filtros. Saldo do Caixa: meses recolhiveis na movimentacao, abrindo apenas o mes atual. Melhorias de sincronizacao e correcoes gerais.",
     "history": [
+        {
+            "version": "1.1.242",
+            "notes": "Entradas de mercadoria vindas da integracao externa passam a ficar registradas no Historico de Entrada Manual. Contas a Pagar: datas em dd/mm/aaaa nas telas de nova conta, edicao e pagamento; data do lancamento no modal de edicao; criacao de conta/subconta do plano de contas direto na tela; ajustes visuais nos botoes e no Limpar filtros. Saldo do Caixa: meses recolhiveis na movimentacao, abrindo apenas o mes atual. Melhorias de sincronizacao e correcoes gerais.",
+            "date": "2026-11-20 16:03:15"
+        },
         {
             "version": "1.1.241",
             "notes": "App mobile: o detalhe do produto passa a mostrar a data da ultima entrada e da ultima alteracao de preco. Melhorias em Perdas e Contas a Pagar, e correcoes gerais.",
@@ -398,12 +403,7 @@
             "version": "1.1.163",
             "notes": "Entrada NF-e: custo unitario liquido (desconto por item embutido no preco, corrige margem inflada) e linha Descontos informativa no Resumo.",
             "date": "2026-09-04 08:33:04"
-        },
-        {
-            "version": "1.1.162",
-            "notes": "Entrada NF-e: correcao de arredondamento (preco unitario ate 4 casas — total do item bate com a nota em itens baratos) + edicao de entrada FINALIZADA (botao Editar no historico; ao salvar, reverte estoque/custo/contas pendentes e reaplica). Entrada Manual: bloqueia finalizar sem preco de venda + preco de compra ate 4 casas.",
-            "date": "2026-09-02 13:34:31"
         }
     ],
-    "date": "2026-11-18 12:55:36"
+    "date": "2026-11-20 16:03:15"
 }
