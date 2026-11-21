@@ -1,9 +1,14 @@
 {
-    "version": "1.1.244",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.244/gestor360-1.1.244.zip",
-    "checksum": "28b2c115759483cd3369c2b6cb4df5665fc8c7d4f2f59b679ae867ac37acd5b8",
-    "notes": "Contas a Pagar: a busca encontra e exibe tambem pelo 'Nome de pagamento' (como o fornecedor aparece no extrato do banco); botao X dentro da busca limpa somente esse filtro; a ordenacao padrao volta a ser do mais antigo para o mais novo, com botao para inverter; a folha de funcionarios pode ser lancada agrupada; melhorias em filtros, calendario e paginacao. Nova Conta a Pagar: tela mais compacta (sem rolagem) com atalhos Ctrl+Enter para incluir e Alt+J para marcar 'Ja pago' ja com a data preenchida. Cadastro de fornecedor: o campo passou a se chamar 'Nome de pagamento', com explicacao de que e como aparece no extrato; botoes de salvar e excluir padronizados e sempre visiveis. Caixa: revisao diaria das saidas. Correcoes gerais.",
+    "version": "1.1.245",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.245/gestor360-1.1.245.zip",
+    "checksum": "c9a4ff3ac3531fa253bf2af604d8d15cd70d6c7da712b7cf2a759b2f0c049f2f",
+    "notes": "Etiqueta Argox volta sozinha se o IP do servidor mudar; app com um botao so de impressao.",
     "history": [
+        {
+            "version": "1.1.245",
+            "notes": "Etiqueta Argox volta sozinha se o IP do servidor mudar; app com um botao so de impressao.",
+            "date": "2026-11-21 18:19:12"
+        },
         {
             "version": "1.1.244",
             "notes": "Contas a Pagar: a busca encontra e exibe tambem pelo 'Nome de pagamento' (como o fornecedor aparece no extrato do banco); botao X dentro da busca limpa somente esse filtro; a ordenacao padrao volta a ser do mais antigo para o mais novo, com botao para inverter; a folha de funcionarios pode ser lancada agrupada; melhorias em filtros, calendario e paginacao. Nova Conta a Pagar: tela mais compacta (sem rolagem) com atalhos Ctrl+Enter para incluir e Alt+J para marcar 'Ja pago' ja com a data preenchida. Cadastro de fornecedor: o campo passou a se chamar 'Nome de pagamento', com explicacao de que e como aparece no extrato; botoes de salvar e excluir padronizados e sempre visiveis. Caixa: revisao diaria das saidas. Correcoes gerais.",
@@ -398,12 +403,7 @@
             "version": "1.1.166",
             "notes": "Plano de Contas estilo Yampa: arvore numerada de 3 niveis (grupo -> categoria x.y -> subconta x.y.z) com acordeao e busca. Migracao gerencial (DRE): grupo Receitas/Custos Variaveis/Despesas Fixas/Investimentos/Movimentacoes Nao Operacionais; lancamentos remapeados preservando valor/data/historico (backup automatico). Aba DRE no Relatorio Gerencial (Margem de contribuicao, Lucro operacional, Resultado liquido). Entradas nao operacionais (emprestimos/aportes/doacoes) fora do faturamento. Alerta de lancamentos 'a classificar'. Caixa/Saidas: tipo Reserva nao exige categoria (mostra 'nao se aplica').",
             "date": "2026-09-06 09:16:52"
-        },
-        {
-            "version": "1.1.165",
-            "notes": "NCM iogurte: corrige tabela de sugestao (0403.10.00 extinto -> 0403.20.00) no autocomplete e no Corrigir NCM (migration 044). Nao altera NCM de produtos ja cadastrados.",
-            "date": "2026-09-04 17:25:55"
         }
     ],
-    "date": "2026-11-21 15:10:45"
+    "date": "2026-11-21 18:19:12"
 }
