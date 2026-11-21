@@ -1,9 +1,14 @@
 {
-    "version": "1.1.242",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.242/gestor360-1.1.242.zip",
-    "checksum": "b153f39534908b6f69deb8cce1835575e96d67d18a6eaa13b6b33e3a0dc863a8",
-    "notes": "Entradas de mercadoria vindas da integracao externa passam a ficar registradas no Historico de Entrada Manual. Contas a Pagar: datas em dd/mm/aaaa nas telas de nova conta, edicao e pagamento; data do lancamento no modal de edicao; criacao de conta/subconta do plano de contas direto na tela; ajustes visuais nos botoes e no Limpar filtros. Saldo do Caixa: meses recolhiveis na movimentacao, abrindo apenas o mes atual. Melhorias de sincronizacao e correcoes gerais.",
+    "version": "1.1.243",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.243/gestor360-1.1.243.zip",
+    "checksum": "1fc7b66fd4fe32dc49c6c2fb61716e898fd4248e665363503251efc222eb65e9",
+    "notes": "Cartao de credito: lancar a compra direto no cartao pela Entrada Manual e pela Nova Conta a Pagar (escolhendo cartao e parcelas); o seletor de cartao mostra os 4 ultimos digitos. A fatura do cartao passa a aparecer em Contas a Pagar ja no vencimento (inclusive a fatura ainda aberta) e abate no Orcamento de Fornecedores em tempo real, na categoria da compra. Contas a Pagar: opcao de inverter a ordem da lista (mais recente / mais antigo); campos de data dd/mm/aaaa permitem trocar so o dia sem redigitar tudo. App mobile: data da ultima entrada e da ultima alteracao de preco tambem em compra sem nota e na integracao; fornecedor assume o da ultima entrada quando o cadastro esta vazio. Correcoes gerais.",
     "history": [
+        {
+            "version": "1.1.243",
+            "notes": "Cartao de credito: lancar a compra direto no cartao pela Entrada Manual e pela Nova Conta a Pagar (escolhendo cartao e parcelas); o seletor de cartao mostra os 4 ultimos digitos. A fatura do cartao passa a aparecer em Contas a Pagar ja no vencimento (inclusive a fatura ainda aberta) e abate no Orcamento de Fornecedores em tempo real, na categoria da compra. Contas a Pagar: opcao de inverter a ordem da lista (mais recente / mais antigo); campos de data dd/mm/aaaa permitem trocar so o dia sem redigitar tudo. App mobile: data da ultima entrada e da ultima alteracao de preco tambem em compra sem nota e na integracao; fornecedor assume o da ultima entrada quando o cadastro esta vazio. Correcoes gerais.",
+            "date": "2026-11-21 12:25:32"
+        },
         {
             "version": "1.1.242",
             "notes": "Entradas de mercadoria vindas da integracao externa passam a ficar registradas no Historico de Entrada Manual. Contas a Pagar: datas em dd/mm/aaaa nas telas de nova conta, edicao e pagamento; data do lancamento no modal de edicao; criacao de conta/subconta do plano de contas direto na tela; ajustes visuais nos botoes e no Limpar filtros. Saldo do Caixa: meses recolhiveis na movimentacao, abrindo apenas o mes atual. Melhorias de sincronizacao e correcoes gerais.",
@@ -398,12 +403,7 @@
             "version": "1.1.164",
             "notes": "Classificacao de custo em 3 niveis (Conta > Subcategoria > Categoria) com tipo efetivo e A classificar; recuperacao automatica de XML de NFC-e 1x/dia as 13h em background; PRG em Contas a Pagar (F5 nao reenvia); Entrada NF-e linha Descontos informativa.",
             "date": "2026-09-04 15:56:53"
-        },
-        {
-            "version": "1.1.163",
-            "notes": "Entrada NF-e: custo unitario liquido (desconto por item embutido no preco, corrige margem inflada) e linha Descontos informativa no Resumo.",
-            "date": "2026-09-04 08:33:04"
         }
     ],
-    "date": "2026-11-20 16:03:15"
+    "date": "2026-11-21 12:25:32"
 }
