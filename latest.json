@@ -1,9 +1,14 @@
 {
-    "version": "1.1.245",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.245/gestor360-1.1.245.zip",
-    "checksum": "c9a4ff3ac3531fa253bf2af604d8d15cd70d6c7da712b7cf2a759b2f0c049f2f",
-    "notes": "Etiqueta Argox volta sozinha se o IP do servidor mudar; app com um botao so de impressao.",
+    "version": "1.1.246",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.246/gestor360-1.1.246.zip",
+    "checksum": "a0584dd9ba3ddcc99a55946a3bf3fd0601c21fd96a1d452f0984f01f68329ccc",
+    "notes": "App mobile: um aparelho ja autorizado pode liberar outro aparelho; detalhe do produto mostra ultima entrada, alteracao de preco e fornecedor. Melhorias no Orcamento e correcoes gerais.",
     "history": [
+        {
+            "version": "1.1.246",
+            "notes": "App mobile: um aparelho ja autorizado pode liberar outro aparelho; detalhe do produto mostra ultima entrada, alteracao de preco e fornecedor. Melhorias no Orcamento e correcoes gerais.",
+            "date": "2026-11-21 20:25:04"
+        },
         {
             "version": "1.1.245",
             "notes": "Etiqueta Argox volta sozinha se o IP do servidor mudar; app com um botao so de impressao.",
@@ -398,12 +403,7 @@
             "version": "1.1.167",
             "notes": "PDV: aviso 'Emissor fiscal fora do ar' (BrasilNFe indisponivel) + comprovante provisorio nao-fiscal (SEM VALOR FISCAL) impresso automaticamente na contingencia, com botao de reimpressao.",
             "date": "2026-09-06 12:56:12"
-        },
-        {
-            "version": "1.1.166",
-            "notes": "Plano de Contas estilo Yampa: arvore numerada de 3 niveis (grupo -> categoria x.y -> subconta x.y.z) com acordeao e busca. Migracao gerencial (DRE): grupo Receitas/Custos Variaveis/Despesas Fixas/Investimentos/Movimentacoes Nao Operacionais; lancamentos remapeados preservando valor/data/historico (backup automatico). Aba DRE no Relatorio Gerencial (Margem de contribuicao, Lucro operacional, Resultado liquido). Entradas nao operacionais (emprestimos/aportes/doacoes) fora do faturamento. Alerta de lancamentos 'a classificar'. Caixa/Saidas: tipo Reserva nao exige categoria (mostra 'nao se aplica').",
-            "date": "2026-09-06 09:16:52"
         }
     ],
-    "date": "2026-11-21 18:19:12"
+    "date": "2026-11-21 20:25:04"
 }
