@@ -1,9 +1,14 @@
 {
-    "version": "1.1.248",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.248/gestor360-1.1.248.zip",
-    "checksum": "c57a278a9e0621218107ca4876bbd26b8b90ae6c920359d3a22843bb0e08b975",
-    "notes": "Entrada manual: botao Cancelar limpa a tela, o foco avanca para o produto ao escolher o fornecedor, e ao selecionar PCT o Valor de compra recebe o preco do pacote (sem alterar o preco cadastrado). Cadastro de produto: nao permite o mesmo codigo nos dois campos e basta um dos codigos (loja ou barras). Estoque: nova tela Uso Interno (consumo proprio) separada das Perdas. Contas a Pagar: abas de filtro em uma linha, com Previstos. Atualizacao com barra de progresso mais suave. Correcoes gerais.",
+    "version": "1.1.249",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.249/gestor360-1.1.249.zip",
+    "checksum": "ff9c27337da568fef6465a93b291f517b3e970998b97f8fd96c2f3e38cd52204",
+    "notes": "Entrada Manual: layout reorganizado — coluna da direita com Ultimo item, Produto selecionado, Classificacao e os resumos; Produtos da Entrada agora em lista; Despesas e Rateio recolhiveis; Informacoes essenciais em destaque. Rotina de manutencao que evita acumulo de backups e arquivos temporarios. Correcoes gerais.",
     "history": [
+        {
+            "version": "1.1.249",
+            "notes": "Entrada Manual: layout reorganizado — coluna da direita com Ultimo item, Produto selecionado, Classificacao e os resumos; Produtos da Entrada agora em lista; Despesas e Rateio recolhiveis; Informacoes essenciais em destaque. Rotina de manutencao que evita acumulo de backups e arquivos temporarios. Correcoes gerais.",
+            "date": "2026-11-26 12:58:08"
+        },
         {
             "version": "1.1.248",
             "notes": "Entrada manual: botao Cancelar limpa a tela, o foco avanca para o produto ao escolher o fornecedor, e ao selecionar PCT o Valor de compra recebe o preco do pacote (sem alterar o preco cadastrado). Cadastro de produto: nao permite o mesmo codigo nos dois campos e basta um dos codigos (loja ou barras). Estoque: nova tela Uso Interno (consumo proprio) separada das Perdas. Contas a Pagar: abas de filtro em uma linha, com Previstos. Atualizacao com barra de progresso mais suave. Correcoes gerais.",
@@ -398,12 +403,7 @@
             "version": "1.1.170",
             "notes": "Conciliacao: busca de fornecedor no Criar(pago); Entrada NF-e: preserva NCM ao salvar/reabrir rascunho (produto novo nao trava mais); Sync: codigo de barras reatribuido a pacote converge entre terminais",
             "date": "2026-09-10 14:57:45"
-        },
-        {
-            "version": "1.1.169",
-            "notes": "Guarda de disco: aviso antecipado de disco quase cheio (banner p/ admin) e backup a prova de disco cheio; tela amigavel 'sem espaco em disco' no lugar de erro 500",
-            "date": "2026-09-10 09:12:48"
         }
     ],
-    "date": "2026-11-25 17:26:52"
+    "date": "2026-11-26 12:58:08"
 }
