@@ -1,9 +1,14 @@
 {
-    "version": "1.1.249",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.249/gestor360-1.1.249.zip",
-    "checksum": "ff9c27337da568fef6465a93b291f517b3e970998b97f8fd96c2f3e38cd52204",
-    "notes": "Entrada Manual: layout reorganizado — coluna da direita com Ultimo item, Produto selecionado, Classificacao e os resumos; Produtos da Entrada agora em lista; Despesas e Rateio recolhiveis; Informacoes essenciais em destaque. Rotina de manutencao que evita acumulo de backups e arquivos temporarios. Correcoes gerais.",
+    "version": "1.1.250",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.250/gestor360-1.1.250.zip",
+    "checksum": "d877af3da0a2f54610d7b9d5b0cfe8b82df20eae6ad29b4fa56e5967b59bb17f",
+    "notes": "App mobile: detalhe do produto com vendido em 7 e 30 dias, ultima entrada (data, quantidade e fornecedor) e alteracao de preco; busca por relevancia; botao de sincronizar e sincronizacao automatica ao abrir; um aparelho autorizado pode liberar outro. Fornecedor do cadastro passa a acompanhar a ultima entrada. Melhorias e correcoes gerais.",
     "history": [
+        {
+            "version": "1.1.250",
+            "notes": "App mobile: detalhe do produto com vendido em 7 e 30 dias, ultima entrada (data, quantidade e fornecedor) e alteracao de preco; busca por relevancia; botao de sincronizar e sincronizacao automatica ao abrir; um aparelho autorizado pode liberar outro. Fornecedor do cadastro passa a acompanhar a ultima entrada. Melhorias e correcoes gerais.",
+            "date": "2026-11-26 21:02:07"
+        },
         {
             "version": "1.1.249",
             "notes": "Entrada Manual: layout reorganizado — coluna da direita com Ultimo item, Produto selecionado, Classificacao e os resumos; Produtos da Entrada agora em lista; Despesas e Rateio recolhiveis; Informacoes essenciais em destaque. Rotina de manutencao que evita acumulo de backups e arquivos temporarios. Correcoes gerais.",
@@ -398,12 +403,7 @@
             "version": "1.1.171",
             "notes": "Conciliacao: seletor de fornecedor abre ao clicar e Criar como PAGO grava descricao (fim do erro NOT NULL); Entrada NF-e: preenche fornecedor e NCM em produto ja existente quando o cadastro esta vazio",
             "date": "2026-09-10 17:59:12"
-        },
-        {
-            "version": "1.1.170",
-            "notes": "Conciliacao: busca de fornecedor no Criar(pago); Entrada NF-e: preserva NCM ao salvar/reabrir rascunho (produto novo nao trava mais); Sync: codigo de barras reatribuido a pacote converge entre terminais",
-            "date": "2026-09-10 14:57:45"
         }
     ],
-    "date": "2026-11-26 12:58:08"
+    "date": "2026-11-26 21:02:07"
 }
