@@ -1,9 +1,14 @@
 {
-    "version": "1.1.250",
-    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.250/gestor360-1.1.250.zip",
-    "checksum": "d877af3da0a2f54610d7b9d5b0cfe8b82df20eae6ad29b4fa56e5967b59bb17f",
-    "notes": "App mobile: detalhe do produto com vendido em 7 e 30 dias, ultima entrada (data, quantidade e fornecedor) e alteracao de preco; busca por relevancia; botao de sincronizar e sincronizacao automatica ao abrir; um aparelho autorizado pode liberar outro. Fornecedor do cadastro passa a acompanhar a ultima entrada. Melhorias e correcoes gerais.",
+    "version": "1.1.251",
+    "url": "https://github.com/messiasjr77-pixel/gestor360-updates/releases/download/v1.1.251/gestor360-1.1.251.zip",
+    "checksum": "ac50c6c641c018bd46140750afa01960da2cd77d1f167fbf6313d3f9a8bcffad",
+    "notes": "Mobile: busca com codigos de barras principais e alternativos. PDV: valida preco de custo para clientes autorizados. Comprovante de recebimento de mercadorias: impressao em bobina de 80 mm na Daruma pelo navegador, com 1 ou 2 vias e opcao A4 preservada.",
     "history": [
+        {
+            "version": "1.1.251",
+            "notes": "Mobile: busca com codigos de barras principais e alternativos. PDV: valida preco de custo para clientes autorizados. Comprovante de recebimento de mercadorias: impressao em bobina de 80 mm na Daruma pelo navegador, com 1 ou 2 vias e opcao A4 preservada.",
+            "date": "2026-11-27 15:19:15"
+        },
         {
             "version": "1.1.250",
             "notes": "App mobile: detalhe do produto com vendido em 7 e 30 dias, ultima entrada (data, quantidade e fornecedor) e alteracao de preco; busca por relevancia; botao de sincronizar e sincronizacao automatica ao abrir; um aparelho autorizado pode liberar outro. Fornecedor do cadastro passa a acompanhar a ultima entrada. Melhorias e correcoes gerais.",
@@ -398,12 +403,7 @@
             "version": "1.1.172",
             "notes": "App mobile: aba 'Vendas do dia' (total, nº vendas, ticket, formas de pagamento); Conciliacao: confianca da sugestao (diferenca explicita, atraso, aviso de ambiguidade); DRE: pró-labore como subconta de Despesas com pessoal (linha propria, sem dupla contagem)",
             "date": "2026-09-11 15:47:37"
-        },
-        {
-            "version": "1.1.171",
-            "notes": "Conciliacao: seletor de fornecedor abre ao clicar e Criar como PAGO grava descricao (fim do erro NOT NULL); Entrada NF-e: preenche fornecedor e NCM em produto ja existente quando o cadastro esta vazio",
-            "date": "2026-09-10 17:59:12"
         }
     ],
-    "date": "2026-11-26 21:02:07"
+    "date": "2026-11-27 15:19:15"
 }
